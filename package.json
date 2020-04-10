@@ -1,0 +1,22 @@
+{
+  "name": "Javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^4.8.8",
+    "csv-parser": "^2.3.2",
+    "d3": "^5.15.1",
+    "papaparse": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dana6691/Javascript.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

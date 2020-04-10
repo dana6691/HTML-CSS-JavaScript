@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Show/Hidden</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <p>Dahee's Hide/Show</p>
+    <!–– Image -->
+    <img id="cloaking" src="star.png" alt="this is cloaking" style="position:absolute; TOP:135px; LEFT:600px;width:110px;height:100px;">
+    <img id = "wraith" src="cloaking.png" alt="this is wraith"style="position:absolute; TOP:135px; LEFT:170px;">  
+    <img src="trushrimp.jpg" alt="Flowers in Chania" width="200" height="100">
+    <!–– Connect JQuery -->
+    <script
+    src="https://code.jquery.com/jquery-3.4.1.js"
+    integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+    crossorigin="anonymous"></script>
+    <!–– Hide/Show using Toggle() -->
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $("#cloaking").fadeToggle();
+                $("#wraith").fadeToggle();
+                $("t").fadeToggle();
+            });
+        });
+    </script> 
+    <button class="button">Hide</button>
+    <t>Blue Owl</t>
+</body>
+</html>

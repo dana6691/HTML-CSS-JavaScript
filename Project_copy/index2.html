@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles2.css">
+  
+</head>
+
+<h1><a><img src = "logo.png"></a><br>Welcome <span>John,</span></h1>
+  <button class="tablink" onclick="openPage('All Tasks', this, 'darkred')">All Tasks</button>
+  <button class="tablink" onclick="openPage('Unfinished', this, 'darkred')" id="defaultOpen">Unfinished</button>
+  <button class="tablink" onclick="openPage('Completed', this, 'darkred')">Completed</button>
+<body>
+  <div id="All Tasks" class="tabcontent">
+    <ul id="myUL">
+      <li onclick ="location.href='page1.html';">Overview<br>A General Explainer</li>
+      <li onclick="location.href='page2.html';">How does the test work<br>A general Explainer</li>
+      <li>Results and Reporting <br>Comparing Genes</li>
+      <li>Buy eggs<br>What does it means?</li>
+      <li>Read a book<br>Analysis Screen</li>
+      <li>Organize office<br>Legal Notice</li>
+    </ul>
+  </div>
+
+  <div id="Unfinished" class="tabcontent">
+    <h3>Unfinished</h3>
+    <p>Paris is the capital of France.</p> 
+  </div>
+
+  <div id="Completed" class="tabcontent">
+    <h3>Completed</h3>
+    <p>Tokyo is the capital of Japan.</p>
+  </div>
+
+<script>
+  function openPage(pageName,elmnt,color) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablink");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].style.backgroundColor = "";
+    }
+    document.getElementById(pageName).style.display = "block";
+    elmnt.style.backgroundColor = color;
+  }
+
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+
+</script>
+
+</body>
+</html> 

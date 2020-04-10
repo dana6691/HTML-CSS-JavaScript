@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles_intro.css">
+</head>
+<style>
+</style>
+
+<h1>Welcome <span>John,</span></h1>
+<div style="position: absolute; left: 10px; top: 40px;"> 
+    <img src="arrow.png" width="54" height="38" onclick="goBack();" />
+</div>
+<hr size="1" noshade> 
+
+<body>
+    <h2>Section 2 Overview</h2>
+    <p>
+        You are invited to participate in the Sanford Chip*, a two-part genetic screening test. The results may give your doctor additional information about how to manage your healthcare. The Sanford Chip results become a permanent part of your Sanford medical record
+        The Sanford Chip uses a small sample of blood to analyze your DNA for variants (changes) at specific locations. Certain genetic variants may:
+        <ul>
+            <li>impact your ability to benefit from some medications. This is called pharmacogenomics (far ma-ko-jen-om iks), or PGx. </li>
+            <li>increase your risk to develop specific health conditions with established guidelines.</li>
+        </ul>
+        These are called medically actionable predispositions, or MAP. This portion of the test is optional.
+                The Sanford Chip costs $49. This does not include additional testing, physician consultations, appointments, or treatment.<br>
+        To participate:
+        <ol>
+            <li>Complete this online consent.</li>
+            <li>Answer health-related survey questions.</li>
+            <li>Pay $49 via credit card.</li>
+            <li>Get your blood drawn after receiving instructions via MyChart.</li>
+            <li>Receive results from MyChart, a genetic counselor, or your doctor’s office.</li>
+        </ol>
+        You can speak with a genetic professional and your doctor before enrolling to determine if this screen is right for you. Your participation is voluntary. You may choose to participate in both PGx and MAP, only PGx, or not at all. Participation is not required to receive care and treatment at Sanford.
+        *The Sanford Chip is a laboratory-developed test offered only through the Sanford Medical Genetics Laboratory in Sioux Falls, SD. This means the test has not been and currently is not required to be reviewed, cleared or approved by the U.S. Food and Drug Administration.<br>
+    </p>    
+         <form action="">
+            <input type="radio" name="gender" value="male">  I give my consent for genetic testing and self-assessment through the Sanford Chip Program. I understand that the Sanford Chip genetic testing ALWAYS includes pharmacogenomic results. <br>
+            <input type="radio" name="gender" value="female">  I do not give my consent for genetic testing and self-assessment through the Sanford Chip Program.<br>
+          </form>
+          <br>
+
+          <form class="space" name="myForm" action="/action_page.php" method="get">
+            <label for="fname">First name</label>
+            <input type="text" id="fname" name="fname" size="20"><br><br>
+            <label for="mname">Middle name</label>
+            <input type="text" id="mname" name="mname" size="20"><br><br>
+            <label for="lname">Last name</label>
+            <input type="text" id="lname" name="lname"><br><br>
+            <label for="birthday">Date of Birth </label>
+            <input type="date" id="birthday" class="center" name="birthday"><br><br><br>
+            <p>Today's Date:  <span id="date"></span></p>
+            <label for="fname">Signature </label>
+            <input type="text" id="fname" name="fname"><br><br>
+            <input type="button" onclick="formSubmit()" value="Submit"">
+          </form>
+          <p id="date"></p>
+
+</body>
+
+<script>
+    function formSubmit() {
+        document.forms["myForm"].submit();
+    }
+    document.getElementById("date").innerHTML = new Date().toLocaleDateString();
+    function goBack() {
+         window.history.back();
+    }
+</script>
+</html> 

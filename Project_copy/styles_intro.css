@@ -1,0 +1,39 @@
+body, html {
+    font-family: "Segoe UI";
+    margin: 40px;
+  }
+
+.center{
+    text-align:center;
+}
+span{
+    color:#004C8F;
+}
+.space{
+    margin:40px;
+    margin-right: 40px;
+}
+#fname,#lname{
+    margin-left:50px;
+    text-align: left;
+}
+#mname,#birthday{
+    margin-left:28px;
+}
+textarea:focus, input:focus {
+    color: rgb(44, 44, 44);
+    background-color:  #fdf4f4;
+}
+
+input, select, textarea{
+    color: #000;
+    font-weight: bold;
+    background-color:  #d3d1d1;
+}
+
+label{
+    font-weight:bold;
+}
+font{
+    font-family: Arial, sans-serif;
+}
