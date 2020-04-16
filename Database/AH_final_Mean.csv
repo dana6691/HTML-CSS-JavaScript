@@ -1,0 +1,2657 @@
+,Variable,date,Tank,Mean,Cohort
+1,Antenna:Shrimp lengths (ratio):,1/5/2018,LTB,0.201265022,
+2,Condition Factor:,1/5/2018,LTB,0.980193949,
+3,Gut content (score):,1/5/2018,LTB,2.666666667,
+4,Hepatosomatic index:,1/5/2018,LTB,0.040766288,
+5,Surface necrosis (score):,1/5/2018,LTB,0.666666667,
+6,Antenna:Shrimp lengths (ratio):,1/11/2018,LTB,0.648408591,
+7,Condition Factor:,1/11/2018,LTB,0.976508115,
+8,Gut content (score):,1/11/2018,LTB,1,
+9,Hepatosomatic index:,1/11/2018,LTB,0.049429264,
+10,Surface necrosis (score):,1/11/2018,LTB,1,
+11,Condition Factor:,1/18/2018,LTB,1.131957652,
+12,Gut content (score):,1/18/2018,LTB,0.8,
+13,Hepatosomatic index:,1/18/2018,LTB,0.047556373,
+14,Surface necrosis (score):,1/18/2018,LTB,0,
+15,Weight (g),1/18/2018,LTB,6.738,
+16,Condition Factor:,1/25/2018,LTB,1.167448178,
+17,Gut content (score):,1/25/2018,LTB,0,
+18,Hepatosomatic index:,1/25/2018,LTB,0.038049337,
+19,Surface necrosis (score):,1/25/2018,LTB,0.4,
+20,Weight (g),1/25/2018,LTB,12.082,
+21,Antenna:Shrimp lengths (ratio):,2/1/2018,LTB,0,
+22,Condition Factor:,2/1/2018,LTB,1.158521006,
+23,Gut content (score):,2/1/2018,LTB,0.8,
+24,Hepatosomatic index:,2/1/2018,LTB,0.041492523,
+25,Surface necrosis (score):,2/1/2018,LTB,0,
+26,Antenna:Shrimp lengths (ratio):,2/7/2018,LTB,0,
+27,Condition Factor:,2/7/2018,LTB,1.047072736,
+28,Gut content (score):,2/7/2018,LTB,0,
+29,Hepatosomatic index:,2/7/2018,LTB,0.04292037,
+30,Surface necrosis (score):,2/7/2018,LTB,0,
+31,Antenna:Shrimp lengths (ratio):,2/15/2018,LTB,0.265032843,
+32,Condition Factor:,2/15/2018,LTB,1.219526404,
+33,Gut content (score):,2/15/2018,LTB,0.6,
+34,Hepatosomatic index:,2/15/2018,LTB,0.049673964,
+35,Surface necrosis (score):,2/15/2018,LTB,0,
+36,Antenna:Shrimp lengths (ratio):,2/22/2018,LTB,0.028352381,
+37,Condition Factor:,2/22/2018,LTB,1.151774152,
+38,Gut content (score):,2/22/2018,LTB,0,
+39,Hepatosomatic index:,2/22/2018,LTB,0.042370029,
+40,Surface necrosis (score):,2/22/2018,LTB,0,
+41,Antenna:Shrimp lengths (ratio):,3/1/2018,LTB,0.22962412,
+42,Condition Factor:,3/1/2018,LTB,1.16313666,
+43,Gut content (score):,3/1/2018,LTB,0,
+44,Hepatosomatic index:,3/1/2018,LTB,0.045339679,
+45,Surface necrosis (score):,3/1/2018,LTB,0,
+46,Antenna:Shrimp lengths (ratio):,4/4/2018,LTB,1.150835065,
+47,Condition Factor:,4/4/2018,LTB,0.989078464,
+48,Gut content (score):,4/4/2018,LTB,3.2,
+49,Hepatosomatic index:,4/4/2018,LTB,0.060591818,
+50,Surface necrosis (score):,4/4/2018,LTB,0,
+51,Antenna:Shrimp lengths (ratio):,4/12/2018,LTB,0.11058839,
+52,Condition Factor:,4/12/2018,LTB,1.404326344,
+53,Gut content (score):,4/12/2018,LTB,0.2,
+54,Hepatosomatic index:,4/12/2018,LTB,0.050692751,
+55,Surface necrosis (score):,4/12/2018,LTB,0.2,
+56,Antenna:Shrimp lengths (ratio):,4/19/2018,LTB,1.178616133,
+57,Condition Factor:,4/19/2018,LTB,1.360357836,
+58,Gut content (score):,4/19/2018,LTB,1.2,
+59,Hepatosomatic index:,4/19/2018,LTB,0.052238104,
+60,Surface necrosis (score):,4/19/2018,LTB,0,
+61,Antenna:Shrimp lengths (ratio):,4/26/2018,LTB,0.614758687,
+62,Condition Factor:,4/26/2018,LTB,1.247924268,
+63,Gut content (score):,4/26/2018,LTB,1.8,
+64,Hepatosomatic index:,4/26/2018,LTB,0.045896343,
+65,Surface necrosis (score):,4/26/2018,LTB,0,
+66,Gut content (score):,6/28/2018,LTB,2.4,
+67,Gut content (score):,7/5/2018,LTB,1.2,
+68,Gut content (score):,7/12/2018,LTB,1.2,
+69,Antenna:Shrimp lengths (ratio):,7/19/2018,LTB,0.839419491,
+70,Condition Factor:,7/19/2018,LTB,1.106427305,
+71,Gut content (score):,7/19/2018,LTB,1.8,
+72,Hepatosomatic index:,7/19/2018,LTB,0.051795996,
+73,Surface necrosis (score):,7/19/2018,LTB,0,
+74,Antenna:Shrimp lengths (ratio):,8/2/2018,LTB,0.341802546,
+75,Condition Factor:,8/2/2018,LTB,1.193595198,
+76,Gut content (score):,8/2/2018,LTB,1,
+77,Hepatosomatic index:,8/2/2018,LTB,0.038908725,
+78,Surface necrosis (score):,8/2/2018,LTB,0.4,
+79,Antenna:Shrimp lengths (ratio):,8/9/2018,LTB,0.326041097,
+80,Condition Factor:,8/9/2018,LTB,1.532959057,
+81,Gut content (score):,8/9/2018,LTB,0.6,
+82,Hepatosomatic index:,8/9/2018,LTB,0.049967612,
+83,Surface necrosis (score):,8/9/2018,LTB,1.4,
+84,Antenna:Shrimp lengths (ratio):,8/16/2018,LTB,0.334855428,
+85,Condition Factor:,8/16/2018,LTB,1.0145187,
+86,Gut content (score):,8/16/2018,LTB,0.8,
+87,Hepatosomatic index:,8/16/2018,LTB,0.044206024,
+88,Surface necrosis (score):,8/16/2018,LTB,1,
+89,Antenna:Shrimp lengths (ratio):,8/23/2018,LTB,0.353114763,
+90,Condition Factor:,8/23/2018,LTB,1.082872874,
+91,Gut content (score):,8/23/2018,LTB,1,
+92,Hepatosomatic index:,8/23/2018,LTB,0.03676313,
+93,Surface necrosis (score):,8/23/2018,LTB,1,
+94,Antenna:Shrimp lengths (ratio):,8/30/2018,LTB,0.345261208,
+95,Condition Factor:,8/30/2018,LTB,1.07155481,
+96,Gut content (score):,8/30/2018,LTB,1.2,
+97,Hepatosomatic index:,8/30/2018,LTB,0.040222823,
+98,Surface necrosis (score):,8/30/2018,LTB,0.8,
+99,Antenna:Shrimp lengths (ratio):,11/1/2018,LTB,0.972635842,
+100,Condition Factor:,11/1/2018,LTB,1.175364383,
+101,Gut content (score):,11/1/2018,LTB,3.6,
+102,Hepatosomatic index:,11/1/2018,LTB,0.061990803,
+103,Surface necrosis (score):,11/1/2018,LTB,0.2,
+104,Antenna:Shrimp lengths (ratio):,11/8/2018,LTB,0.786118119,
+105,Condition Factor:,11/8/2018,LTB,1.097665787,
+106,Gut content (score):,11/8/2018,LTB,0,
+107,Hepatosomatic index:,11/8/2018,LTB,0.072595055,
+108,Surface necrosis (score):,11/8/2018,LTB,0.6,
+109,Antenna:Shrimp lengths (ratio):,11/16/2018,LTB,0.483743532,
+110,Condition Factor:,11/16/2018,LTB,1.090387966,
+111,Gut content (score):,11/16/2018,LTB,3.2,
+112,Hepatosomatic index:,11/16/2018,LTB,0.053866927,
+113,Surface necrosis (score):,11/16/2018,LTB,0.4,
+114,Antenna:Shrimp lengths (ratio):,11/21/2018,LTB,0.462216324,
+115,Condition Factor:,11/21/2018,LTB,1.058877592,
+116,Gut content (score):,11/21/2018,LTB,0.4,
+117,Hepatosomatic index:,11/21/2018,LTB,0.053713596,
+118,Surface necrosis (score):,11/21/2018,LTB,0.4,
+119,Antenna:Shrimp lengths (ratio):,12/6/2018,LTB,0.280876919,
+120,Condition Factor:,12/6/2018,LTB,1.032511454,
+121,Gut content (score):,12/6/2018,LTB,1.4,
+122,Hepatosomatic index:,12/6/2018,LTB,0.049020224,
+123,Surface necrosis (score):,12/6/2018,LTB,0.2,
+124,Antenna:Shrimp lengths (ratio):,12/13/2018,LTB,0.373369506,
+125,Condition Factor:,12/13/2018,LTB,1.060186205,
+126,Gut content (score):,12/13/2018,LTB,2,
+127,Hepatosomatic index:,12/13/2018,LTB,0.045267471,
+128,Surface necrosis (score):,12/13/2018,LTB,0.8,
+129,Antenna:Shrimp lengths (ratio):,12/20/2018,LTB,0.239852588,
+130,Condition Factor:,12/20/2018,LTB,1.056720471,
+131,Gut content (score):,12/20/2018,LTB,3.4,
+132,Hepatosomatic index:,12/20/2018,LTB,0.031751368,
+133,Surface necrosis (score):,12/20/2018,LTB,0.8,
+134,Antenna:Shrimp lengths (ratio):,1/3/2019,LTB,0.312354976,
+135,Condition Factor:,1/3/2019,LTB,1.112865575,
+136,Gut content (score):,1/3/2019,LTB,3.6,
+137,Hepatosomatic index:,1/3/2019,LTB,0.19100612,
+138,Surface necrosis (score):,1/3/2019,LTB,0.4,
+139,Antenna:Shrimp lengths (ratio):,1/9/2019,LTB,0.451711774,
+140,Condition Factor:,1/9/2019,LTB,1.179129627,
+141,Gut content (score):,1/9/2019,LTB,2.75,
+142,Hepatosomatic index:,1/9/2019,LTB,0.042085991,
+143,Surface necrosis (score):,1/9/2019,LTB,0.5,
+144,Antenna:Shrimp lengths (ratio):,1/17/2019,LTB,0.479362148,
+145,Condition Factor:,1/17/2019,LTB,1.033979204,
+146,Gut content (score):,1/17/2019,LTB,1.8,
+147,Hepatosomatic index:,1/17/2019,LTB,0.045456832,
+148,Surface necrosis (score):,1/17/2019,LTB,0.8,
+149,Antenna:Shrimp lengths (ratio):,1/24/2019,LTB,0.319838408,
+150,Condition Factor:,1/24/2019,LTB,1.196930606,
+151,Gut content (score):,1/24/2019,LTB,1.8,
+152,Hepatosomatic index:,1/24/2019,LTB,0.043743943,
+153,Surface necrosis (score):,1/24/2019,LTB,0.4,
+154,Antenna:Shrimp lengths (ratio):,1/31/2019,LTB,0.736136794,
+155,Condition Factor:,1/31/2019,LTB,1.049078506,
+156,Gut content (score):,1/31/2019,LTB,0.4,
+157,Hepatosomatic index:,1/31/2019,LTB,0.035810962,
+158,Surface necrosis (score):,1/31/2019,LTB,0,
+159,Antenna:Shrimp lengths (ratio):,9/10/2019,LTB,0.327967235,
+160,Condition Factor:,9/10/2019,LTB,0.874565807,
+161,Gut content (score):,9/10/2019,LTB,2.6,
+162,Hepatosomatic index:,9/10/2019,LTB,0.045643366,
+163,Surface necrosis (score):,9/10/2019,LTB,0.2,
+164,Weight (g),9/10/2019,LTB,16.846,
+165,Antenna:Shrimp lengths (ratio):,9/17/2019,LTB,0.290504923,
+166,Condition Factor:,9/17/2019,LTB,0.849949776,
+167,Gut content (score):,9/17/2019,LTB,2.2,
+168,Hepatosomatic index:,9/17/2019,LTB,0.045519843,
+169,Surface necrosis (score):,9/17/2019,LTB,0.6,
+170,Weight (g),9/17/2019,LTB,19.52,
+171,Antenna:Shrimp lengths (ratio):,9/24/2019,LTB,0.364503225,
+172,Condition Factor:,9/24/2019,LTB,1.02480924,
+173,Gut content (score):,9/24/2019,LTB,0,
+174,Hepatosomatic index:,9/24/2019,LTB,0.037312828,
+175,Surface necrosis (score):,9/24/2019,LTB,0,
+176,Weight (g),9/24/2019,LTB,23.07,
+177,Antenna:Shrimp lengths (ratio):,10/1/2019,LTB,0.261766776,
+178,Condition Factor:,10/1/2019,LTB,1.024343035,
+179,Gut content (score):,10/1/2019,LTB,1.6,
+180,Hepatosomatic index:,10/1/2019,LTB,0.040460212,
+181,Surface necrosis (score):,10/1/2019,LTB,0.4,
+182,Weight (g),10/1/2019,LTB,24.678,
+183,Antenna:Shrimp lengths (ratio):,10/8/2019,LTB,0.201554605,
+184,Condition Factor:,10/8/2019,LTB,0.862040427,
+185,Gut content (score):,10/8/2019,LTB,1,
+186,Hepatosomatic index:,10/8/2019,LTB,0.04972383,
+187,Surface necrosis (score):,10/8/2019,LTB,0.8,
+188,Weight (g),10/8/2019,LTB,21.386,
+189,Antenna:Shrimp lengths (ratio):,1/28/2020,LTB,1.175648082,
+190,Condition Factor:,1/28/2020,LTB,0.859796804,
+191,Gut content (score):,1/28/2020,LTB,1.6,
+192,Hepatosomatic index:,1/28/2020,LTB,0.067660364,
+193,Surface necrosis (score):,1/28/2020,LTB,0.8,
+194,Weight (g),1/28/2020,LTB,3.512,
+195,Antenna:Shrimp lengths (ratio):,2/11/2020,LTB,0.899273016,
+196,Condition Factor:,2/11/2020,LTB,0.855678343,
+197,Gut content (score):,2/11/2020,LTB,1.2,
+198,Hepatosomatic index:,2/11/2020,LTB,0.059467995,
+199,Surface necrosis (score):,2/11/2020,LTB,0.6,
+200,Weight (g),2/11/2020,LTB,7.784,
+201,Antenna:Shrimp lengths (ratio):,2/25/2020,LTB,0.554526664,
+202,Condition Factor:,2/25/2020,LTB,0.796041605,
+203,Gut content (score):,2/25/2020,LTB,1.8,
+204,Hepatosomatic index:,2/25/2020,LTB,0.0481937,
+205,Surface necrosis (score):,2/25/2020,LTB,0.6,
+206,Weight (g),2/25/2020,LTB,11.586,
+207,Antenna:Shrimp lengths (ratio):,3/6/2020,LTB,0.703220876,
+208,Condition Factor:,3/6/2020,LTB,0.92164181,
+209,Gut content (score):,3/6/2020,LTB,2.2,
+210,Hepatosomatic index:,3/6/2020,LTB,0.080582167,
+211,Surface necrosis (score):,3/6/2020,LTB,1,
+212,Weight (g),3/6/2020,LTB,14.902,
+213,Antenna:Shrimp lengths (ratio):,3/10/2020,LTB,1.100458668,
+214,Condition Factor:,3/10/2020,LTB,0.785012951,
+215,Gut content (score):,3/10/2020,LTB,2,
+216,Hepatosomatic index:,3/10/2020,LTB,0.04395645,
+217,Surface necrosis (score):,3/10/2020,LTB,0.6,
+218,Weight (g),3/10/2020,LTB,14.634,
+219,Antenna:Shrimp lengths (ratio):,3/16/2020,LTB,1.104996435,
+220,Condition Factor:,3/16/2020,LTB,0.934659315,
+221,Gut content (score):,3/16/2020,LTB,1.5,
+222,Hepatosomatic index:,3/16/2020,LTB,0.043121395,
+223,Surface necrosis (score):,3/16/2020,LTB,0.75,
+224,Weight (g),3/16/2020,LTB,16.905,
+225,Antenna:Shrimp lengths (ratio):,3/31/2020,LTB,0.481867185,
+226,Condition Factor:,3/31/2020,LTB,1.219670478,
+227,Gut content (score):,3/31/2020,LTB,0.2,
+228,Hepatosomatic index:,3/31/2020,LTB,0.046198811,
+229,Surface necrosis (score):,3/31/2020,LTB,0.8,
+230,Antenna:Shrimp lengths (ratio):,11/5/2018,RTB1,0.752501443,Cohort1
+231,Condition Factor:,11/5/2018,RTB1,1.389895938,Cohort1
+232,Gut content (score):,11/5/2018,RTB1,0.4,Cohort1
+233,Hepatosomatic index:,11/5/2018,RTB1,0.068864069,Cohort1
+234,Surface necrosis (score):,11/5/2018,RTB1,0.4,Cohort1
+235,Gut content (score):,11/14/2018,RTB1,3,Cohort1
+236,Gut content (score):,11/21/2018,RTB1,1.6,Cohort1
+237,Antenna:Shrimp lengths (ratio):,12/12/2018,RTB1,1.258332146,Cohort1
+238,Condition Factor:,12/12/2018,RTB1,1.11645257,Cohort1
+239,Gut content (score):,12/12/2018,RTB1,0.6,Cohort1
+240,Hepatosomatic index:,12/12/2018,RTB1,0.062769444,Cohort1
+241,Surface necrosis (score):,12/12/2018,RTB1,0,Cohort1
+242,Antenna:Shrimp lengths (ratio):,12/19/2018,RTB1,1.420457004,Cohort1
+243,Condition Factor:,12/19/2018,RTB1,1.394551505,Cohort1
+244,Gut content (score):,12/19/2018,RTB1,0.4,Cohort1
+245,Hepatosomatic index:,12/19/2018,RTB1,0.051088631,Cohort1
+246,Surface necrosis (score):,12/19/2018,RTB1,0.2,Cohort1
+247,Antenna:Shrimp lengths (ratio):,12/26/2018,RTB1,1.17577938,Cohort1
+248,Condition Factor:,12/26/2018,RTB1,1.216496021,Cohort1
+249,Gut content (score):,12/26/2018,RTB1,0.2,Cohort1
+250,Hepatosomatic index:,12/26/2018,RTB1,0.054079719,Cohort1
+251,Surface necrosis (score):,12/26/2018,RTB1,0,Cohort1
+252,Antenna:Shrimp lengths (ratio):,1/2/2019,RTB1,0.754951659,Cohort1
+253,Condition Factor:,1/2/2019,RTB1,1.06390912,Cohort1
+254,Gut content (score):,1/2/2019,RTB1,0.4,Cohort1
+255,Hepatosomatic index:,1/2/2019,RTB1,0.068207996,Cohort1
+256,Surface necrosis (score):,1/2/2019,RTB1,0.2,Cohort1
+257,Antenna:Shrimp lengths (ratio):,1/9/2019,RTB1,0.480115589,Cohort1
+258,Condition Factor:,1/9/2019,RTB1,1.048200775,Cohort1
+259,Gut content (score):,1/9/2019,RTB1,0.6,Cohort1
+260,Hepatosomatic index:,1/9/2019,RTB1,0.053549578,Cohort1
+261,Surface necrosis (score):,1/9/2019,RTB1,0.2,Cohort1
+262,Antenna:Shrimp lengths (ratio):,1/16/2019,RTB1,0.465164209,Cohort1
+263,Condition Factor:,1/16/2019,RTB1,1.104545629,Cohort1
+264,Gut content (score):,1/16/2019,RTB1,0.6,Cohort1
+265,Hepatosomatic index:,1/16/2019,RTB1,0.040910442,Cohort1
+266,Surface necrosis (score):,1/16/2019,RTB1,0.6,Cohort1
+267,Antenna:Shrimp lengths (ratio):,1/23/2019,RTB1,0.285622224,Cohort1
+268,Condition Factor:,1/23/2019,RTB1,1.14028126,Cohort1
+269,Gut content (score):,1/23/2019,RTB1,2.4,Cohort1
+270,Hepatosomatic index:,1/23/2019,RTB1,0.047183047,Cohort1
+271,Surface necrosis (score):,1/23/2019,RTB1,0.6,Cohort1
+272,Antenna:Shrimp lengths (ratio):,1/30/2019,RTB1,0.372790811,Cohort1
+273,Condition Factor:,1/30/2019,RTB1,1.183561046,Cohort1
+274,Gut content (score):,1/30/2019,RTB1,1,Cohort1
+275,Hepatosomatic index:,1/30/2019,RTB1,0.046516574,Cohort1
+276,Surface necrosis (score):,1/30/2019,RTB1,0.8,Cohort1
+277,Antenna:Shrimp lengths (ratio):,2/6/2019,RTB1,0.217225242,Cohort1
+278,Condition Factor:,2/6/2019,RTB1,1.164913565,Cohort1
+279,Gut content (score):,2/6/2019,RTB1,1.8,Cohort1
+280,Hepatosomatic index:,2/6/2019,RTB1,0.045060336,Cohort1
+281,Surface necrosis (score):,2/6/2019,RTB1,0.4,Cohort1
+282,Antenna:Shrimp lengths (ratio):,2/13/2019,RTB1,0.192403103,Cohort1
+283,Condition Factor:,2/13/2019,RTB1,1.028307169,Cohort1
+284,Gut content (score):,2/13/2019,RTB1,1.4,Cohort1
+285,Hepatosomatic index:,2/13/2019,RTB1,0.045437468,Cohort1
+286,Surface necrosis (score):,2/13/2019,RTB1,0.2,Cohort1
+287,Antenna:Shrimp lengths (ratio):,2/20/2019,RTB1,0.311786357,Cohort1
+288,Condition Factor:,2/20/2019,RTB1,0.972348001,Cohort1
+289,Gut content (score):,2/20/2019,RTB1,2,Cohort1
+290,Hepatosomatic index:,2/20/2019,RTB1,0.038415027,Cohort1
+291,Surface necrosis (score):,2/20/2019,RTB1,0.2,Cohort1
+292,Antenna:Shrimp lengths (ratio):,2/27/2019,RTB1,0.257005089,Cohort1
+293,Condition Factor:,2/27/2019,RTB1,0.989579891,Cohort1
+294,Gut content (score):,2/27/2019,RTB1,1.6,Cohort1
+295,Hepatosomatic index:,2/27/2019,RTB1,0.043862434,Cohort1
+296,Surface necrosis (score):,2/27/2019,RTB1,0.4,Cohort1
+297,Antenna:Shrimp lengths (ratio):,3/6/2019,RTB1,0.276659783,Cohort1
+298,Condition Factor:,3/6/2019,RTB1,0.97947758,Cohort1
+299,Gut content (score):,3/6/2019,RTB1,1.8,Cohort1
+300,Hepatosomatic index:,3/6/2019,RTB1,0.041480716,Cohort1
+301,Surface necrosis (score):,3/6/2019,RTB1,0.2,Cohort1
+302,Antenna:Shrimp lengths (ratio):,3/13/2019,RTB1,0.255584481,Cohort1
+303,Condition Factor:,3/13/2019,RTB1,0.915965044,Cohort1
+304,Gut content (score):,3/13/2019,RTB1,1.8,Cohort1
+305,Hepatosomatic index:,3/13/2019,RTB1,0.048153918,Cohort1
+306,Surface necrosis (score):,3/13/2019,RTB1,0.2,Cohort1
+307,Antenna:Shrimp lengths (ratio):,3/20/2019,RTB1,0.302352695,Cohort1
+308,Condition Factor:,3/20/2019,RTB1,0.946886936,Cohort1
+309,Gut content (score):,3/20/2019,RTB1,0.2,Cohort1
+310,Hepatosomatic index:,3/20/2019,RTB1,0.038533785,Cohort1
+311,Surface necrosis (score):,3/20/2019,RTB1,0.2,Cohort1
+312,Antenna:Shrimp lengths (ratio):,5/15/2019,RTB1,0.283692012,Cohort3
+313,Condition Factor:,5/15/2019,RTB1,0.949740238,Cohort3
+314,Gut content (score):,5/15/2019,RTB1,1.2,Cohort3
+315,Hepatosomatic index:,5/15/2019,RTB1,0.038507623,Cohort3
+316,Surface necrosis (score):,5/15/2019,RTB1,1,Cohort3
+317,Weight (g),5/15/2019,RTB1,10.406,Cohort3
+318,Antenna:Shrimp lengths (ratio):,5/22/2019,RTB1,0.306781009,Cohort3
+319,Condition Factor:,5/22/2019,RTB1,0.92319512,Cohort3
+320,Gut content (score):,5/22/2019,RTB1,0.6,Cohort3
+321,Hepatosomatic index:,5/22/2019,RTB1,0.041617233,Cohort3
+322,Surface necrosis (score):,5/22/2019,RTB1,0.8,Cohort3
+323,Weight (g),5/22/2019,RTB1,14.912,Cohort3
+324,Antenna:Shrimp lengths (ratio):,5/29/2019,RTB1,0.321964263,Cohort3
+325,Condition Factor:,5/29/2019,RTB1,0.970358526,Cohort3
+326,Gut content (score):,5/29/2019,RTB1,0,Cohort3
+327,Hepatosomatic index:,5/29/2019,RTB1,0.035378757,Cohort3
+328,Surface necrosis (score):,5/29/2019,RTB1,0.6,Cohort3
+329,Weight (g),5/29/2019,RTB1,18.25,Cohort3
+330,Gut content (score):,11/20/2019,RTB1,2,Cohort6
+331,Surface necrosis (score):,11/20/2019,RTB1,2,Cohort6
+332,Gut content (score):,11/26/2019,RTB1,1.8,Cohort6
+333,Surface necrosis (score):,11/26/2019,RTB1,0.4,Cohort6
+334,Antenna:Shrimp lengths (ratio):,1/2/2020,RTB1,0.380210853,Cohort6
+335,Condition Factor:,1/2/2020,RTB1,0.842894079,Cohort6
+336,Gut content (score):,1/2/2020,RTB1,0.8,Cohort6
+337,Hepatosomatic index:,1/2/2020,RTB1,0.051839839,Cohort6
+338,Surface necrosis (score):,1/2/2020,RTB1,1,Cohort6
+339,Weight (g),1/2/2020,RTB1,16.322,Cohort6
+340,Antenna:Shrimp lengths (ratio):,1/8/2020,RTB1,0.395289407,Cohort6
+341,Condition Factor:,1/8/2020,RTB1,0.941922328,Cohort6
+342,Gut content (score):,1/8/2020,RTB1,1.8,Cohort6
+343,Hepatosomatic index:,1/8/2020,RTB1,0.044441309,Cohort6
+344,Surface necrosis (score):,1/8/2020,RTB1,1,Cohort6
+345,Weight (g),1/8/2020,RTB1,18.372,Cohort6
+346,Antenna:Shrimp lengths (ratio):,1/15/2020,RTB1,0.380852858,Cohort6
+347,Condition Factor:,1/15/2020,RTB1,0.948833565,Cohort6
+348,Gut content (score):,1/15/2020,RTB1,1,Cohort6
+349,Hepatosomatic index:,1/15/2020,RTB1,0.051559925,Cohort6
+350,Surface necrosis (score):,1/15/2020,RTB1,0.4,Cohort6
+351,Weight (g),1/15/2020,RTB1,22.486,Cohort6
+352,Antenna:Shrimp lengths (ratio):,1/22/2020,RTB1,0.411482931,Cohort6
+353,Condition Factor:,1/22/2020,RTB1,0.97157201,Cohort6
+354,Gut content (score):,1/22/2020,RTB1,1,Cohort6
+355,Hepatosomatic index:,1/22/2020,RTB1,0.044386561,Cohort6
+356,Surface necrosis (score):,1/22/2020,RTB1,1,Cohort6
+357,Weight (g),1/22/2020,RTB1,23.702,Cohort6
+358,Antenna:Shrimp lengths (ratio):,1/29/2020,RTB1,0.287400429,Cohort6
+359,Condition Factor:,1/29/2020,RTB1,0.785358867,Cohort6
+360,Gut content (score):,1/29/2020,RTB1,0.6,Cohort6
+361,Hepatosomatic index:,1/29/2020,RTB1,0.057316847,Cohort6
+362,Surface necrosis (score):,1/29/2020,RTB1,1,Cohort6
+363,Weight (g),1/29/2020,RTB1,25.834,Cohort6
+364,Antenna:Shrimp lengths (ratio):,2/5/2020,RTB1,0.308247581,Cohort6
+365,Condition Factor:,2/5/2020,RTB1,0.869618272,Cohort6
+366,Gut content (score):,2/5/2020,RTB1,1.4,Cohort6
+367,Hepatosomatic index:,2/5/2020,RTB1,0.039578985,Cohort6
+368,Surface necrosis (score):,2/5/2020,RTB1,1,Cohort6
+369,Weight (g),2/5/2020,RTB1,27.268,Cohort6
+370,Antenna:Shrimp lengths (ratio):,2/12/2020,RTB1,0.260010288,Cohort6
+371,Condition Factor:,2/12/2020,RTB1,0.96913647,Cohort6
+372,Gut content (score):,2/12/2020,RTB1,1.2,Cohort6
+373,Hepatosomatic index:,2/12/2020,RTB1,0.03957524,Cohort6
+374,Surface necrosis (score):,2/12/2020,RTB1,0.8,Cohort6
+375,Weight (g),2/12/2020,RTB1,32.032,Cohort6
+376,Antenna:Shrimp lengths (ratio):,3/11/2020,RTB1,0.561745717,
+377,Condition Factor:,3/11/2020,RTB1,0.939442383,
+378,Gut content (score):,3/11/2020,RTB1,1,
+379,Hepatosomatic index:,3/11/2020,RTB1,0.059728651,
+380,Surface necrosis (score):,3/11/2020,RTB1,1,
+381,Weight (g),3/11/2020,RTB1,0.824,
+382,Antenna:Shrimp lengths (ratio):,3/18/2020,RTB1,1.318934249,
+383,Condition Factor:,3/18/2020,RTB1,0.859148009,
+384,Gut content (score):,3/18/2020,RTB1,0.6,
+385,Hepatosomatic index:,3/18/2020,RTB1,0.061111678,
+386,Surface necrosis (score):,3/18/2020,RTB1,0.4,
+387,Weight (g),3/18/2020,RTB1,1.87,
+388,Antenna:Shrimp lengths (ratio):,3/25/2020,RTB1,1.316562896,
+389,Condition Factor:,3/25/2020,RTB1,0.941095878,
+390,Gut content (score):,3/25/2020,RTB1,0.6,
+391,Hepatosomatic index:,3/25/2020,RTB1,0.055538728,
+392,Surface necrosis (score):,3/25/2020,RTB1,0.6,
+393,Weight (g),3/25/2020,RTB1,5.592,
+394,Antenna:Shrimp lengths (ratio):,12/5/2018,RTB2,0.614913723,Cohort1
+395,Condition Factor:,12/5/2018,RTB2,1.112803646,Cohort1
+396,Gut content (score):,12/5/2018,RTB2,0.4,Cohort1
+397,Hepatosomatic index:,12/5/2018,RTB2,0.070063063,Cohort1
+398,Surface necrosis (score):,12/5/2018,RTB2,0.8,Cohort1
+399,Antenna:Shrimp lengths (ratio):,12/12/2018,RTB2,1.443506136,Cohort1
+400,Condition Factor:,12/12/2018,RTB2,1.49575253,Cohort1
+401,Gut content (score):,12/12/2018,RTB2,0.8,Cohort1
+402,Hepatosomatic index:,12/12/2018,RTB2,0.065403868,Cohort1
+403,Surface necrosis (score):,12/12/2018,RTB2,0,Cohort1
+404,Antenna:Shrimp lengths (ratio):,12/19/2018,RTB2,1.188927942,Cohort1
+405,Condition Factor:,12/19/2018,RTB2,0.76207087,Cohort1
+406,Gut content (score):,12/19/2018,RTB2,2.8,Cohort1
+407,Hepatosomatic index:,12/19/2018,RTB2,0.100607047,Cohort1
+408,Surface necrosis (score):,12/19/2018,RTB2,0,Cohort1
+409,Antenna:Shrimp lengths (ratio):,12/26/2018,RTB2,0.810949053,Cohort1
+410,Condition Factor:,12/26/2018,RTB2,1.194918524,Cohort1
+411,Gut content (score):,12/26/2018,RTB2,0.8,Cohort1
+412,Hepatosomatic index:,12/26/2018,RTB2,0.053289718,Cohort1
+413,Surface necrosis (score):,12/26/2018,RTB2,0.4,Cohort1
+414,Antenna:Shrimp lengths (ratio):,1/2/2019,RTB2,0.474433079,Cohort1
+415,Condition Factor:,1/2/2019,RTB2,0.988300144,Cohort1
+416,Gut content (score):,1/2/2019,RTB2,0.4,Cohort1
+417,Hepatosomatic index:,1/2/2019,RTB2,0.048528291,Cohort1
+418,Surface necrosis (score):,1/2/2019,RTB2,0,Cohort1
+419,Antenna:Shrimp lengths (ratio):,1/9/2019,RTB2,0.32573667,Cohort1
+420,Condition Factor:,1/9/2019,RTB2,1.019869832,Cohort1
+421,Gut content (score):,1/9/2019,RTB2,1.4,Cohort1
+422,Hepatosomatic index:,1/9/2019,RTB2,0.038017629,Cohort1
+423,Surface necrosis (score):,1/9/2019,RTB2,0.2,Cohort1
+424,Antenna:Shrimp lengths (ratio):,1/16/2019,RTB2,0.267320774,Cohort1
+425,Condition Factor:,1/16/2019,RTB2,1.137943789,Cohort1
+426,Gut content (score):,1/16/2019,RTB2,0.2,Cohort1
+427,Hepatosomatic index:,1/16/2019,RTB2,0.045839002,Cohort1
+428,Surface necrosis (score):,1/16/2019,RTB2,0.4,Cohort1
+429,Antenna:Shrimp lengths (ratio):,1/23/2019,RTB2,0.265865355,Cohort1
+430,Condition Factor:,1/23/2019,RTB2,0.986484576,Cohort1
+431,Gut content (score):,1/23/2019,RTB2,0.8,Cohort1
+432,Hepatosomatic index:,1/23/2019,RTB2,0.032163612,Cohort1
+433,Surface necrosis (score):,1/23/2019,RTB2,0.6,Cohort1
+434,Antenna:Shrimp lengths (ratio):,1/30/2019,RTB2,0.215529272,Cohort1
+435,Condition Factor:,1/30/2019,RTB2,1.033363238,Cohort1
+436,Gut content (score):,1/30/2019,RTB2,0,Cohort1
+437,Hepatosomatic index:,1/30/2019,RTB2,0.044795421,Cohort1
+438,Surface necrosis (score):,1/30/2019,RTB2,0.8,Cohort1
+439,Antenna:Shrimp lengths (ratio):,2/6/2019,RTB2,0.232114541,Cohort1
+440,Condition Factor:,2/6/2019,RTB2,1.108409295,Cohort1
+441,Gut content (score):,2/6/2019,RTB2,1,Cohort1
+442,Hepatosomatic index:,2/6/2019,RTB2,0.043175622,Cohort1
+443,Surface necrosis (score):,2/6/2019,RTB2,0.4,Cohort1
+444,Antenna:Shrimp lengths (ratio):,2/13/2019,RTB2,0.178675442,Cohort1
+445,Condition Factor:,2/13/2019,RTB2,1.24002046,Cohort1
+446,Gut content (score):,2/13/2019,RTB2,1,Cohort1
+447,Hepatosomatic index:,2/13/2019,RTB2,0.046118281,Cohort1
+448,Surface necrosis (score):,2/13/2019,RTB2,0.2,Cohort1
+449,Antenna:Shrimp lengths (ratio):,2/20/2019,RTB2,0.199609201,Cohort1
+450,Condition Factor:,2/20/2019,RTB2,0.862133274,Cohort1
+451,Gut content (score):,2/20/2019,RTB2,0.4,Cohort1
+452,Hepatosomatic index:,2/20/2019,RTB2,0.035613928,Cohort1
+453,Surface necrosis (score):,2/20/2019,RTB2,0.4,Cohort1
+454,Antenna:Shrimp lengths (ratio):,2/27/2019,RTB2,0.198683891,Cohort1
+455,Condition Factor:,2/27/2019,RTB2,0.843074497,Cohort1
+456,Gut content (score):,2/27/2019,RTB2,0.2,Cohort1
+457,Hepatosomatic index:,2/27/2019,RTB2,0.038113274,Cohort1
+458,Surface necrosis (score):,2/27/2019,RTB2,0.8,Cohort1
+459,Antenna:Shrimp lengths (ratio):,3/6/2019,RTB2,0.267066851,Cohort1
+460,Condition Factor:,3/6/2019,RTB2,1.104435293,Cohort1
+461,Gut content (score):,3/6/2019,RTB2,2.2,Cohort1
+462,Hepatosomatic index:,3/6/2019,RTB2,0.037559904,Cohort1
+463,Surface necrosis (score):,3/6/2019,RTB2,0.4,Cohort1
+464,Antenna:Shrimp lengths (ratio):,3/13/2019,RTB2,0.25730483,Cohort1
+465,Condition Factor:,3/13/2019,RTB2,0.881814017,Cohort1
+466,Gut content (score):,3/13/2019,RTB2,1.4,Cohort1
+467,Hepatosomatic index:,3/13/2019,RTB2,0.050033553,Cohort1
+468,Surface necrosis (score):,3/13/2019,RTB2,0,Cohort1
+469,Antenna:Shrimp lengths (ratio):,3/20/2019,RTB2,0.259440607,Cohort1
+470,Condition Factor:,3/20/2019,RTB2,0.957853555,Cohort1
+471,Gut content (score):,3/20/2019,RTB2,1.2,Cohort1
+472,Hepatosomatic index:,3/20/2019,RTB2,0.048255655,Cohort1
+473,Surface necrosis (score):,3/20/2019,RTB2,0.6,Cohort1
+474,Antenna:Shrimp lengths (ratio):,5/8/2019,RTB2,0.215698986,Cohort3
+475,Condition Factor:,5/8/2019,RTB2,0.882264086,Cohort3
+476,Gut content (score):,5/8/2019,RTB2,0,Cohort3
+477,Hepatosomatic index:,5/8/2019,RTB2,0.04156806,Cohort3
+478,Surface necrosis (score):,5/8/2019,RTB2,0.8,Cohort3
+479,Weight (g),5/8/2019,RTB2,10.102,Cohort3
+480,Antenna:Shrimp lengths (ratio):,5/15/2019,RTB2,0.392908017,Cohort3
+481,Condition Factor:,5/15/2019,RTB2,0.900177976,Cohort3
+482,Gut content (score):,5/15/2019,RTB2,1,Cohort3
+483,Hepatosomatic index:,5/15/2019,RTB2,0.037859757,Cohort3
+484,Surface necrosis (score):,5/15/2019,RTB2,0.4,Cohort3
+485,Weight (g),5/15/2019,RTB2,10.17,Cohort3
+486,Antenna:Shrimp lengths (ratio):,5/22/2019,RTB2,0.411631246,Cohort3
+487,Condition Factor:,5/22/2019,RTB2,0.940868979,Cohort3
+488,Gut content (score):,5/22/2019,RTB2,0.8,Cohort3
+489,Hepatosomatic index:,5/22/2019,RTB2,0.040681554,Cohort3
+490,Surface necrosis (score):,5/22/2019,RTB2,1.2,Cohort3
+491,Weight (g),5/22/2019,RTB2,13.192,Cohort3
+492,Antenna:Shrimp lengths (ratio):,5/29/2019,RTB2,0.484571731,Cohort3
+493,Condition Factor:,5/29/2019,RTB2,0.937344491,Cohort3
+494,Gut content (score):,5/29/2019,RTB2,0.4,Cohort3
+495,Hepatosomatic index:,5/29/2019,RTB2,0.043922254,Cohort3
+496,Surface necrosis (score):,5/29/2019,RTB2,0.6,Cohort3
+497,Weight (g),5/29/2019,RTB2,19.134,Cohort3
+498,Gut content (score):,11/20/2019,RTB2,3,Cohort6
+499,Surface necrosis (score):,11/20/2019,RTB2,1.8,Cohort6
+500,Gut content (score):,11/26/2019,RTB2,1.6,Cohort6
+501,Surface necrosis (score):,11/26/2019,RTB2,0.4,Cohort6
+502,Antenna:Shrimp lengths (ratio):,1/2/2020,RTB2,0.393412492,Cohort6
+503,Condition Factor:,1/2/2020,RTB2,0.868789261,Cohort6
+504,Gut content (score):,1/2/2020,RTB2,0.8,Cohort6
+505,Hepatosomatic index:,1/2/2020,RTB2,0.051735919,Cohort6
+506,Surface necrosis (score):,1/2/2020,RTB2,0.4,Cohort6
+507,Weight (g),1/2/2020,RTB2,18.148,Cohort6
+508,Antenna:Shrimp lengths (ratio):,1/8/2020,RTB2,0.433908912,Cohort6
+509,Condition Factor:,1/8/2020,RTB2,0.940618207,Cohort6
+510,Gut content (score):,1/8/2020,RTB2,0.6,Cohort6
+511,Hepatosomatic index:,1/8/2020,RTB2,0.045230589,Cohort6
+512,Surface necrosis (score):,1/8/2020,RTB2,0.8,Cohort6
+513,Weight (g),1/8/2020,RTB2,18.266,Cohort6
+514,Antenna:Shrimp lengths (ratio):,1/15/2020,RTB2,0.374755103,Cohort6
+515,Condition Factor:,1/15/2020,RTB2,0.919402506,Cohort6
+516,Gut content (score):,1/15/2020,RTB2,0.8,Cohort6
+517,Hepatosomatic index:,1/15/2020,RTB2,0.051137971,Cohort6
+518,Surface necrosis (score):,1/15/2020,RTB2,1,Cohort6
+519,Weight (g),1/15/2020,RTB2,19.368,Cohort6
+520,Antenna:Shrimp lengths (ratio):,1/22/2020,RTB2,0.391394687,Cohort6
+521,Condition Factor:,1/22/2020,RTB2,1.02675905,Cohort6
+522,Gut content (score):,1/22/2020,RTB2,1.2,Cohort6
+523,Hepatosomatic index:,1/22/2020,RTB2,0.043248051,Cohort6
+524,Surface necrosis (score):,1/22/2020,RTB2,0.6,Cohort6
+525,Weight (g),1/22/2020,RTB2,25.932,Cohort6
+526,Antenna:Shrimp lengths (ratio):,1/29/2020,RTB2,0.367446454,Cohort6
+527,Condition Factor:,1/29/2020,RTB2,1.022252604,Cohort6
+528,Gut content (score):,1/29/2020,RTB2,1.2,Cohort6
+529,Hepatosomatic index:,1/29/2020,RTB2,0.044767897,Cohort6
+530,Surface necrosis (score):,1/29/2020,RTB2,0.8,Cohort6
+531,Weight (g),1/29/2020,RTB2,26.576,Cohort6
+532,Antenna:Shrimp lengths (ratio):,2/5/2020,RTB2,0.285578982,Cohort6
+533,Condition Factor:,2/5/2020,RTB2,0.91167593,Cohort6
+534,Gut content (score):,2/5/2020,RTB2,2,Cohort6
+535,Hepatosomatic index:,2/5/2020,RTB2,0.045552376,Cohort6
+536,Surface necrosis (score):,2/5/2020,RTB2,1,Cohort6
+537,Weight (g),2/5/2020,RTB2,27.412,Cohort6
+538,Antenna:Shrimp lengths (ratio):,2/12/2020,RTB2,0.223102672,Cohort6
+539,Condition Factor:,2/12/2020,RTB2,0.963170312,Cohort6
+540,Gut content (score):,2/12/2020,RTB2,1.6,Cohort6
+541,Hepatosomatic index:,2/12/2020,RTB2,0.039559692,Cohort6
+542,Surface necrosis (score):,2/12/2020,RTB2,1,Cohort6
+543,Weight (g),2/12/2020,RTB2,27.122,Cohort6
+544,Antenna:Shrimp lengths (ratio):,3/11/2020,RTB2,0.853014744,
+545,Condition Factor:,3/11/2020,RTB2,0.95961006,
+546,Gut content (score):,3/11/2020,RTB2,2.8,
+547,Hepatosomatic index:,3/11/2020,RTB2,0.063420268,
+548,Surface necrosis (score):,3/11/2020,RTB2,0.8,
+549,Weight (g),3/11/2020,RTB2,1.074,
+550,Antenna:Shrimp lengths (ratio):,3/18/2020,RTB2,0.768714481,
+551,Condition Factor:,3/18/2020,RTB2,0.84770531,
+552,Gut content (score):,3/18/2020,RTB2,0.6,
+553,Hepatosomatic index:,3/18/2020,RTB2,0.061497251,
+554,Surface necrosis (score):,3/18/2020,RTB2,0,
+555,Weight (g),3/18/2020,RTB2,3.39,
+556,Antenna:Shrimp lengths (ratio):,3/25/2020,RTB2,0.974628861,
+557,Condition Factor:,3/25/2020,RTB2,0.896532325,
+558,Gut content (score):,3/25/2020,RTB2,1.8,
+559,Hepatosomatic index:,3/25/2020,RTB2,0.062095074,
+560,Surface necrosis (score):,3/25/2020,RTB2,0.8,
+561,Weight (g),3/25/2020,RTB2,5.548,
+562,Antenna:Shrimp lengths (ratio):,12/5/2018,RTB3,0.86100239,Cohort1
+563,Condition Factor:,12/5/2018,RTB3,1.07711162,Cohort1
+564,Gut content (score):,12/5/2018,RTB3,0,Cohort1
+565,Hepatosomatic index:,12/5/2018,RTB3,0.07339874,Cohort1
+566,Surface necrosis (score):,12/5/2018,RTB3,0.2,Cohort1
+567,Antenna:Shrimp lengths (ratio):,12/12/2018,RTB3,1.120747594,Cohort1
+568,Condition Factor:,12/12/2018,RTB3,1.219107598,Cohort1
+569,Gut content (score):,12/12/2018,RTB3,0,Cohort1
+570,Hepatosomatic index:,12/12/2018,RTB3,0.068247786,Cohort1
+571,Surface necrosis (score):,12/12/2018,RTB3,0,Cohort1
+572,Antenna:Shrimp lengths (ratio):,12/19/2018,RTB3,1.039553612,Cohort1
+573,Condition Factor:,12/19/2018,RTB3,1.276562079,Cohort1
+574,Gut content (score):,12/19/2018,RTB3,0,Cohort1
+575,Hepatosomatic index:,12/19/2018,RTB3,0.057559424,Cohort1
+576,Surface necrosis (score):,12/19/2018,RTB3,0,Cohort1
+577,Antenna:Shrimp lengths (ratio):,12/26/2018,RTB3,0.769691474,Cohort1
+578,Condition Factor:,12/26/2018,RTB3,1.128270065,Cohort1
+579,Gut content (score):,12/26/2018,RTB3,1.8,Cohort1
+580,Hepatosomatic index:,12/26/2018,RTB3,0.050474905,Cohort1
+581,Surface necrosis (score):,12/26/2018,RTB3,0,Cohort1
+582,Antenna:Shrimp lengths (ratio):,1/2/2019,RTB3,0.535204805,Cohort1
+583,Condition Factor:,1/2/2019,RTB3,1.188901799,Cohort1
+584,Gut content (score):,1/2/2019,RTB3,1.8,Cohort1
+585,Hepatosomatic index:,1/2/2019,RTB3,0.048839678,Cohort1
+586,Surface necrosis (score):,1/2/2019,RTB3,0.2,Cohort1
+587,Antenna:Shrimp lengths (ratio):,1/9/2019,RTB3,0.408200193,Cohort1
+588,Condition Factor:,1/9/2019,RTB3,1.051369953,Cohort1
+589,Gut content (score):,1/9/2019,RTB3,0.6,Cohort1
+590,Hepatosomatic index:,1/9/2019,RTB3,0.046435181,Cohort1
+591,Surface necrosis (score):,1/9/2019,RTB3,0.4,Cohort1
+592,Antenna:Shrimp lengths (ratio):,1/16/2019,RTB3,0.287288814,Cohort1
+593,Condition Factor:,1/16/2019,RTB3,1.075611928,Cohort1
+594,Gut content (score):,1/16/2019,RTB3,0.6,Cohort1
+595,Hepatosomatic index:,1/16/2019,RTB3,0.03603513,Cohort1
+596,Surface necrosis (score):,1/16/2019,RTB3,0.6,Cohort1
+597,Antenna:Shrimp lengths (ratio):,1/23/2019,RTB3,0.255575256,Cohort1
+598,Condition Factor:,1/23/2019,RTB3,0.96097895,Cohort1
+599,Gut content (score):,1/23/2019,RTB3,0,Cohort1
+600,Hepatosomatic index:,1/23/2019,RTB3,0.043867139,Cohort1
+601,Surface necrosis (score):,1/23/2019,RTB3,0.6,Cohort1
+602,Antenna:Shrimp lengths (ratio):,1/30/2019,RTB3,0.279092433,Cohort1
+603,Condition Factor:,1/30/2019,RTB3,0.915675298,Cohort1
+604,Gut content (score):,1/30/2019,RTB3,1.2,Cohort1
+605,Hepatosomatic index:,1/30/2019,RTB3,0.042781983,Cohort1
+606,Surface necrosis (score):,1/30/2019,RTB3,0.2,Cohort1
+607,Antenna:Shrimp lengths (ratio):,2/6/2019,RTB3,0.27692147,Cohort1
+608,Condition Factor:,2/6/2019,RTB3,1.094225739,Cohort1
+609,Gut content (score):,2/6/2019,RTB3,0.8,Cohort1
+610,Hepatosomatic index:,2/6/2019,RTB3,0.038712442,Cohort1
+611,Surface necrosis (score):,2/6/2019,RTB3,0.4,Cohort1
+612,Antenna:Shrimp lengths (ratio):,2/13/2019,RTB3,0.350564049,Cohort1
+613,Condition Factor:,2/13/2019,RTB3,1.067369073,Cohort1
+614,Gut content (score):,2/13/2019,RTB3,1,Cohort1
+615,Hepatosomatic index:,2/13/2019,RTB3,0.047781405,Cohort1
+616,Surface necrosis (score):,2/13/2019,RTB3,0,Cohort1
+617,Antenna:Shrimp lengths (ratio):,2/20/2019,RTB3,0.3084874,Cohort1
+618,Condition Factor:,2/20/2019,RTB3,0.941397098,Cohort1
+619,Gut content (score):,2/20/2019,RTB3,1,Cohort1
+620,Hepatosomatic index:,2/20/2019,RTB3,0.043340546,Cohort1
+621,Surface necrosis (score):,2/20/2019,RTB3,0.6,Cohort1
+622,Antenna:Shrimp lengths (ratio):,2/27/2019,RTB3,0.18971403,Cohort1
+623,Condition Factor:,2/27/2019,RTB3,0.883294302,Cohort1
+624,Gut content (score):,2/27/2019,RTB3,0.8,Cohort1
+625,Hepatosomatic index:,2/27/2019,RTB3,0.04237941,Cohort1
+626,Surface necrosis (score):,2/27/2019,RTB3,0.4,Cohort1
+627,Antenna:Shrimp lengths (ratio):,3/6/2019,RTB3,0.251970871,Cohort1
+628,Condition Factor:,3/6/2019,RTB3,0.927255355,Cohort1
+629,Gut content (score):,3/6/2019,RTB3,0.6,Cohort1
+630,Hepatosomatic index:,3/6/2019,RTB3,0.062198984,Cohort1
+631,Surface necrosis (score):,3/6/2019,RTB3,0.2,Cohort1
+632,Antenna:Shrimp lengths (ratio):,3/13/2019,RTB3,0.204545064,Cohort1
+633,Condition Factor:,3/13/2019,RTB3,0.876449895,Cohort1
+634,Gut content (score):,3/13/2019,RTB3,1,Cohort1
+635,Hepatosomatic index:,3/13/2019,RTB3,0.043315683,Cohort1
+636,Surface necrosis (score):,3/13/2019,RTB3,0.6,Cohort1
+637,Antenna:Shrimp lengths (ratio):,3/20/2019,RTB3,0.30930623,Cohort1
+638,Condition Factor:,3/20/2019,RTB3,0.891501714,Cohort1
+639,Gut content (score):,3/20/2019,RTB3,24.6,Cohort1
+640,Hepatosomatic index:,3/20/2019,RTB3,0.061619026,Cohort1
+641,Surface necrosis (score):,3/20/2019,RTB3,1.2,Cohort1
+642,Antenna:Shrimp lengths (ratio):,5/8/2019,RTB3,0.402654429,
+643,Condition Factor:,5/8/2019,RTB3,0.874175894,
+644,Gut content (score):,5/8/2019,RTB3,2.2,
+645,Hepatosomatic index:,5/8/2019,RTB3,0.041682251,
+646,Surface necrosis (score):,5/8/2019,RTB3,0.6,
+647,Weight (g),5/8/2019,RTB3,10.326,
+648,Gut content (score):,9/4/2019,RTB3,0.8,
+649,Surface necrosis (score):,9/4/2019,RTB3,0.2,
+650,Gut content (score):,9/10/2019,RTB3,0.4,
+651,Surface necrosis (score):,9/10/2019,RTB3,0,
+652,Gut content (score):,11/6/2019,RTB3,1.6,
+653,Surface necrosis (score):,11/6/2019,RTB3,0.2,
+654,Gut content (score):,11/13/2019,RTB3,2,
+655,Surface necrosis (score):,11/13/2019,RTB3,0.6,
+656,Gut content (score):,1/2/2020,RTB3,0.4,Cohort8
+657,Surface necrosis (score):,1/2/2020,RTB3,0.2,Cohort8
+658,Gut content (score):,2/5/2020,RTB3,2.4,Cohort8
+659,Surface necrosis (score):,2/5/2020,RTB3,0.2,Cohort8
+660,Gut content (score):,2/12/2020,RTB3,2.6,Cohort8
+661,Surface necrosis (score):,2/12/2020,RTB3,0.6,Cohort8
+662,Gut content (score):,2/26/2020,RTB3,3.8,Cohort8
+663,Surface necrosis (score):,2/26/2020,RTB3,0,Cohort8
+664,Gut content (score):,3/4/2020,RTB3,2,Cohort8
+665,Surface necrosis (score):,3/4/2020,RTB3,0.6,Cohort8
+666,Antenna:Shrimp lengths (ratio):,12/5/2018,RTB4,1.003127687,Cohort1
+667,Condition Factor:,12/5/2018,RTB4,1.631059206,Cohort1
+668,Gut content (score):,12/5/2018,RTB4,0,Cohort1
+669,Hepatosomatic index:,12/5/2018,RTB4,0.064307882,Cohort1
+670,Surface necrosis (score):,12/5/2018,RTB4,0,Cohort1
+671,Antenna:Shrimp lengths (ratio):,12/12/2018,RTB4,1.178125452,Cohort1
+672,Condition Factor:,12/12/2018,RTB4,1.326059233,Cohort1
+673,Gut content (score):,12/12/2018,RTB4,0.2,Cohort1
+674,Hepatosomatic index:,12/12/2018,RTB4,0.059390232,Cohort1
+675,Surface necrosis (score):,12/12/2018,RTB4,0,Cohort1
+676,Antenna:Shrimp lengths (ratio):,12/19/2018,RTB4,0.812225985,Cohort1
+677,Condition Factor:,12/19/2018,RTB4,1.280049244,Cohort1
+678,Gut content (score):,12/19/2018,RTB4,1.8,Cohort1
+679,Hepatosomatic index:,12/19/2018,RTB4,0.055324436,Cohort1
+680,Surface necrosis (score):,12/19/2018,RTB4,0,Cohort1
+681,Antenna:Shrimp lengths (ratio):,12/26/2018,RTB4,0.707965388,Cohort1
+682,Condition Factor:,12/26/2018,RTB4,0.948190493,Cohort1
+683,Gut content (score):,12/26/2018,RTB4,0.6,Cohort1
+684,Hepatosomatic index:,12/26/2018,RTB4,0.065601672,Cohort1
+685,Surface necrosis (score):,12/26/2018,RTB4,0.2,Cohort1
+686,Antenna:Shrimp lengths (ratio):,1/2/2019,RTB4,0.438184234,Cohort1
+687,Condition Factor:,1/2/2019,RTB4,1.211176925,Cohort1
+688,Gut content (score):,1/2/2019,RTB4,1,Cohort1
+689,Hepatosomatic index:,1/2/2019,RTB4,0.048599838,Cohort1
+690,Surface necrosis (score):,1/2/2019,RTB4,0.2,Cohort1
+691,Antenna:Shrimp lengths (ratio):,1/9/2019,RTB4,0.339364374,Cohort1
+692,Condition Factor:,1/9/2019,RTB4,1.011597565,Cohort1
+693,Gut content (score):,1/9/2019,RTB4,1.8,Cohort1
+694,Hepatosomatic index:,1/9/2019,RTB4,0.046510295,Cohort1
+695,Surface necrosis (score):,1/9/2019,RTB4,0.6,Cohort1
+696,Antenna:Shrimp lengths (ratio):,1/16/2019,RTB4,0.334152913,Cohort1
+697,Condition Factor:,1/16/2019,RTB4,1.072865075,Cohort1
+698,Gut content (score):,1/16/2019,RTB4,1,Cohort1
+699,Hepatosomatic index:,1/16/2019,RTB4,0.042710662,Cohort1
+700,Surface necrosis (score):,1/16/2019,RTB4,0.2,Cohort1
+701,Antenna:Shrimp lengths (ratio):,1/23/2019,RTB4,0.271311966,Cohort1
+702,Condition Factor:,1/23/2019,RTB4,1.122184996,Cohort1
+703,Gut content (score):,1/23/2019,RTB4,0.2,Cohort1
+704,Hepatosomatic index:,1/23/2019,RTB4,0.043937796,Cohort1
+705,Surface necrosis (score):,1/23/2019,RTB4,1,Cohort1
+706,Antenna:Shrimp lengths (ratio):,1/30/2019,RTB4,0.177820626,Cohort1
+707,Condition Factor:,1/30/2019,RTB4,0.963761708,Cohort1
+708,Gut content (score):,1/30/2019,RTB4,1.6,Cohort1
+709,Hepatosomatic index:,1/30/2019,RTB4,0.038627751,Cohort1
+710,Surface necrosis (score):,1/30/2019,RTB4,0.4,Cohort1
+711,Antenna:Shrimp lengths (ratio):,2/6/2019,RTB4,0.12461071,Cohort1
+712,Condition Factor:,2/6/2019,RTB4,1.091542739,Cohort1
+713,Gut content (score):,2/6/2019,RTB4,0.8,Cohort1
+714,Hepatosomatic index:,2/6/2019,RTB4,0.042052164,Cohort1
+715,Surface necrosis (score):,2/6/2019,RTB4,0.8,Cohort1
+716,Antenna:Shrimp lengths (ratio):,2/13/2019,RTB4,0.366575384,Cohort1
+717,Condition Factor:,2/13/2019,RTB4,1.231742247,Cohort1
+718,Gut content (score):,2/13/2019,RTB4,1,Cohort1
+719,Hepatosomatic index:,2/13/2019,RTB4,0.04788351,Cohort1
+720,Surface necrosis (score):,2/13/2019,RTB4,0.8,Cohort1
+721,Antenna:Shrimp lengths (ratio):,2/20/2019,RTB4,0.210594272,Cohort1
+722,Condition Factor:,2/20/2019,RTB4,0.839090905,Cohort1
+723,Gut content (score):,2/20/2019,RTB4,1,Cohort1
+724,Hepatosomatic index:,2/20/2019,RTB4,0.043926395,Cohort1
+725,Surface necrosis (score):,2/20/2019,RTB4,0.8,Cohort1
+726,Antenna:Shrimp lengths (ratio):,2/27/2019,RTB4,0.271769454,Cohort1
+727,Condition Factor:,2/27/2019,RTB4,0.942960312,Cohort1
+728,Gut content (score):,2/27/2019,RTB4,2,Cohort1
+729,Hepatosomatic index:,2/27/2019,RTB4,0.046125389,Cohort1
+730,Surface necrosis (score):,2/27/2019,RTB4,0.4,Cohort1
+731,Antenna:Shrimp lengths (ratio):,3/6/2019,RTB4,0.251375229,Cohort1
+732,Condition Factor:,3/6/2019,RTB4,0.932383189,Cohort1
+733,Gut content (score):,3/6/2019,RTB4,0,Cohort1
+734,Hepatosomatic index:,3/6/2019,RTB4,0.042514385,Cohort1
+735,Surface necrosis (score):,3/6/2019,RTB4,0.4,Cohort1
+736,Antenna:Shrimp lengths (ratio):,3/13/2019,RTB4,0.278735757,Cohort1
+737,Condition Factor:,3/13/2019,RTB4,0.827224203,Cohort1
+738,Gut content (score):,3/13/2019,RTB4,1.8,Cohort1
+739,Hepatosomatic index:,3/13/2019,RTB4,0.042744451,Cohort1
+740,Surface necrosis (score):,3/13/2019,RTB4,0.2,Cohort1
+741,Antenna:Shrimp lengths (ratio):,3/20/2019,RTB4,0.253203295,Cohort1
+742,Condition Factor:,3/20/2019,RTB4,0.924951003,Cohort1
+743,Gut content (score):,3/20/2019,RTB4,0.2,Cohort1
+744,Hepatosomatic index:,3/20/2019,RTB4,0.043949579,Cohort1
+745,Surface necrosis (score):,3/20/2019,RTB4,0.6,Cohort1
+746,Antenna:Shrimp lengths (ratio):,5/15/2019,RTB4,0.433987606,Cohort3
+747,Condition Factor:,5/15/2019,RTB4,0.890226203,Cohort3
+748,Gut content (score):,5/15/2019,RTB4,0.4,Cohort3
+749,Hepatosomatic index:,5/15/2019,RTB4,0.040351821,Cohort3
+750,Surface necrosis (score):,5/15/2019,RTB4,0.4,Cohort3
+751,Weight (g),5/15/2019,RTB4,12.378,Cohort3
+752,Antenna:Shrimp lengths (ratio):,5/22/2019,RTB4,0.3353783,Cohort3
+753,Condition Factor:,5/22/2019,RTB4,0.932021019,Cohort3
+754,Gut content (score):,5/22/2019,RTB4,0.8,Cohort3
+755,Hepatosomatic index:,5/22/2019,RTB4,0.041183826,Cohort3
+756,Surface necrosis (score):,5/22/2019,RTB4,1,Cohort3
+757,Weight (g),5/22/2019,RTB4,15.11,Cohort3
+758,Antenna:Shrimp lengths (ratio):,5/29/2019,RTB4,0.37325217,Cohort3
+759,Condition Factor:,5/29/2019,RTB4,0.911309052,Cohort3
+760,Gut content (score):,5/29/2019,RTB4,1.4,Cohort3
+761,Hepatosomatic index:,5/29/2019,RTB4,0.038597235,Cohort3
+762,Surface necrosis (score):,5/29/2019,RTB4,0.4,Cohort3
+763,Weight (g),5/29/2019,RTB4,13.548,Cohort3
+764,Gut content (score):,11/20/2019,RTB4,1.8,Cohort6
+765,Surface necrosis (score):,11/20/2019,RTB4,1,Cohort6
+766,Gut content (score):,11/26/2019,RTB4,1,Cohort6
+767,Surface necrosis (score):,11/26/2019,RTB4,0.6,Cohort6
+768,Antenna:Shrimp lengths (ratio):,1/2/2020,RTB4,0.462115764,Cohort6
+769,Condition Factor:,1/2/2020,RTB4,0.864433711,Cohort6
+770,Gut content (score):,1/2/2020,RTB4,2,Cohort6
+771,Hepatosomatic index:,1/2/2020,RTB4,0.047771926,Cohort6
+772,Surface necrosis (score):,1/2/2020,RTB4,0.6,Cohort6
+773,Weight (g),1/2/2020,RTB4,18.882,Cohort6
+774,Antenna:Shrimp lengths (ratio):,1/8/2020,RTB4,0.526517152,Cohort6
+775,Condition Factor:,1/8/2020,RTB4,0.948732235,Cohort6
+776,Gut content (score):,1/8/2020,RTB4,0.6,Cohort6
+777,Hepatosomatic index:,1/8/2020,RTB4,0.047091363,Cohort6
+778,Surface necrosis (score):,1/8/2020,RTB4,1,Cohort6
+779,Weight (g),1/8/2020,RTB4,20.744,Cohort6
+780,Antenna:Shrimp lengths (ratio):,1/15/2020,RTB4,0.320912963,Cohort6
+781,Condition Factor:,1/15/2020,RTB4,0.928739847,Cohort6
+782,Gut content (score):,1/15/2020,RTB4,2,Cohort6
+783,Hepatosomatic index:,1/15/2020,RTB4,0.047284525,Cohort6
+784,Surface necrosis (score):,1/15/2020,RTB4,0.8,Cohort6
+785,Weight (g),1/15/2020,RTB4,21.67,Cohort6
+786,Antenna:Shrimp lengths (ratio):,1/22/2020,RTB4,0.330328449,Cohort6
+787,Condition Factor:,1/22/2020,RTB4,0.940387882,Cohort6
+788,Gut content (score):,1/22/2020,RTB4,1.8,Cohort6
+789,Hepatosomatic index:,1/22/2020,RTB4,0.044873656,Cohort6
+790,Surface necrosis (score):,1/22/2020,RTB4,0.8,Cohort6
+791,Weight (g),1/22/2020,RTB4,25.876,Cohort6
+792,Antenna:Shrimp lengths (ratio):,1/29/2020,RTB4,0.280802571,Cohort6
+793,Condition Factor:,1/29/2020,RTB4,0.988222293,Cohort6
+794,Gut content (score):,1/29/2020,RTB4,0.4,Cohort6
+795,Hepatosomatic index:,1/29/2020,RTB4,0.034523791,Cohort6
+796,Surface necrosis (score):,1/29/2020,RTB4,1,Cohort6
+797,Weight (g),1/29/2020,RTB4,26.034,Cohort6
+798,Antenna:Shrimp lengths (ratio):,2/5/2020,RTB4,0.22112582,Cohort6
+799,Condition Factor:,2/5/2020,RTB4,0.888416921,Cohort6
+800,Gut content (score):,2/5/2020,RTB4,1.4,Cohort6
+801,Hepatosomatic index:,2/5/2020,RTB4,0.043812504,Cohort6
+802,Surface necrosis (score):,2/5/2020,RTB4,1.2,Cohort6
+803,Weight (g),2/5/2020,RTB4,28.164,Cohort6
+804,Antenna:Shrimp lengths (ratio):,2/12/2020,RTB4,0.254963191,Cohort6
+805,Condition Factor:,2/12/2020,RTB4,0.95400028,Cohort6
+806,Gut content (score):,2/12/2020,RTB4,0.6,Cohort6
+807,Hepatosomatic index:,2/12/2020,RTB4,0.042531746,Cohort6
+808,Surface necrosis (score):,2/12/2020,RTB4,1,Cohort6
+809,Weight (g),2/12/2020,RTB4,29.072,Cohort6
+810,Antenna:Shrimp lengths (ratio):,2/19/2020,RTB4,0.28024685,Cohort6
+811,Condition Factor:,2/19/2020,RTB4,0.861333559,Cohort6
+812,Gut content (score):,2/19/2020,RTB4,2.6,Cohort6
+813,Hepatosomatic index:,2/19/2020,RTB4,0.041957504,Cohort6
+814,Surface necrosis (score):,2/19/2020,RTB4,1,Cohort6
+815,Weight (g),2/19/2020,RTB4,32.366,Cohort6
+816,Antenna:Shrimp lengths (ratio):,2/26/2020,RTB4,0.192505599,Cohort6
+817,Condition Factor:,2/26/2020,RTB4,0.991765266,Cohort6
+818,Gut content (score):,2/26/2020,RTB4,1.2,Cohort6
+819,Hepatosomatic index:,2/26/2020,RTB4,0.039847533,Cohort6
+820,Surface necrosis (score):,2/26/2020,RTB4,1,Cohort6
+821,Weight (g),2/26/2020,RTB4,31.168,Cohort6
+822,Antenna:Shrimp lengths (ratio):,3/4/2020,RTB4,0.207254536,Cohort6
+823,Condition Factor:,3/4/2020,RTB4,0.977381468,Cohort6
+824,Gut content (score):,3/4/2020,RTB4,0.8,Cohort6
+825,Hepatosomatic index:,3/4/2020,RTB4,0.039723172,Cohort6
+826,Surface necrosis (score):,3/4/2020,RTB4,1,Cohort6
+827,Weight (g),3/4/2020,RTB4,34.194,Cohort6
+828,Antenna:Shrimp lengths (ratio):,3/11/2020,RTB4,0.247763458,Cohort6
+829,Condition Factor:,3/11/2020,RTB4,0.937448024,Cohort6
+830,Gut content (score):,3/11/2020,RTB4,1.6,Cohort6
+831,Hepatosomatic index:,3/11/2020,RTB4,0.041352541,Cohort6
+832,Surface necrosis (score):,3/11/2020,RTB4,1,Cohort6
+833,Weight (g),3/11/2020,RTB4,39.476,Cohort6
+834,Antenna:Shrimp lengths (ratio):,3/25/2020,RTB4,0.210646397,Cohort6
+835,Condition Factor:,3/25/2020,RTB4,1.000352733,Cohort6
+836,Gut content (score):,3/25/2020,RTB4,1,Cohort6
+837,Hepatosomatic index:,3/25/2020,RTB4,0.038941668,Cohort6
+838,Surface necrosis (score):,3/25/2020,RTB4,1,Cohort6
+839,Weight (g),3/25/2020,RTB4,45.53,Cohort6
+840,Gut content (score):,1/2/2019,RTB5,2.4,
+841,Gut content (score):,1/16/2019,RTB5,1.4,
+842,Gut content (score):,2/19/2019,RTB5,1.2,
+843,Gut content (score):,3/13/2019,RTB5,1.2,
+844,Gut content (score):,3/27/2019,RTB5,1,
+845,Antenna:Shrimp lengths (ratio):,9/4/2019,RTB5,0.45551267,Cohort4
+846,Condition Factor:,9/4/2019,RTB5,1.018876775,Cohort4
+847,Gut content (score):,9/4/2019,RTB5,1.6,Cohort4
+848,Hepatosomatic index:,9/4/2019,RTB5,0.05038732,Cohort4
+849,Surface necrosis (score):,9/4/2019,RTB5,0,Cohort4
+850,Weight (g),9/4/2019,RTB5,28.69,Cohort4
+851,Antenna:Shrimp lengths (ratio):,9/10/2019,RTB5,0.425463139,Cohort4
+852,Condition Factor:,9/10/2019,RTB5,0.918796959,Cohort4
+853,Gut content (score):,9/10/2019,RTB5,1.6,Cohort4
+854,Hepatosomatic index:,9/10/2019,RTB5,0.051890279,Cohort4
+855,Surface necrosis (score):,9/10/2019,RTB5,0.2,Cohort4
+856,Weight (g),9/10/2019,RTB5,29.212,Cohort4
+857,Antenna:Shrimp lengths (ratio):,9/18/2019,RTB5,0.49301407,Cohort4
+858,Condition Factor:,9/18/2019,RTB5,0.946466548,Cohort4
+859,Gut content (score):,9/18/2019,RTB5,0.4,Cohort4
+860,Hepatosomatic index:,9/18/2019,RTB5,0.06487567,Cohort4
+861,Surface necrosis (score):,9/18/2019,RTB5,0.2,Cohort4
+862,Weight (g),9/18/2019,RTB5,31.972,Cohort4
+863,Gut content (score):,11/20/2019,RTB5,2.4,Cohort6
+864,Surface necrosis (score):,11/20/2019,RTB5,2.2,Cohort6
+865,Gut content (score):,11/26/2019,RTB5,2.2,Cohort6
+866,Surface necrosis (score):,11/26/2019,RTB5,0.6,Cohort6
+867,Antenna:Shrimp lengths (ratio):,1/2/2020,RTB5,0.43811826,Cohort6
+868,Condition Factor:,1/2/2020,RTB5,0.880680169,Cohort6
+869,Gut content (score):,1/2/2020,RTB5,1.8,Cohort6
+870,Hepatosomatic index:,1/2/2020,RTB5,0.046715417,Cohort6
+871,Surface necrosis (score):,1/2/2020,RTB5,0.2,Cohort6
+872,Weight (g),1/2/2020,RTB5,17.332,Cohort6
+873,Antenna:Shrimp lengths (ratio):,1/8/2020,RTB5,0.292727631,Cohort6
+874,Condition Factor:,1/8/2020,RTB5,0.997965982,Cohort6
+875,Gut content (score):,1/8/2020,RTB5,0.6,Cohort6
+876,Hepatosomatic index:,1/8/2020,RTB5,0.045167892,Cohort6
+877,Surface necrosis (score):,1/8/2020,RTB5,1.2,Cohort6
+878,Weight (g),1/8/2020,RTB5,23.106,Cohort6
+879,Antenna:Shrimp lengths (ratio):,1/15/2020,RTB5,0.269265123,Cohort6
+880,Condition Factor:,1/15/2020,RTB5,0.875362695,Cohort6
+881,Gut content (score):,1/15/2020,RTB5,1.6,Cohort6
+882,Hepatosomatic index:,1/15/2020,RTB5,0.041297108,Cohort6
+883,Surface necrosis (score):,1/15/2020,RTB5,0.6,Cohort6
+884,Weight (g),1/15/2020,RTB5,22.534,Cohort6
+885,Antenna:Shrimp lengths (ratio):,1/22/2020,RTB5,0.365737096,Cohort6
+886,Condition Factor:,1/22/2020,RTB5,0.991228274,Cohort6
+887,Gut content (score):,1/22/2020,RTB5,0.8,Cohort6
+888,Hepatosomatic index:,1/22/2020,RTB5,0.042421697,Cohort6
+889,Surface necrosis (score):,1/22/2020,RTB5,0.8,Cohort6
+890,Weight (g),1/22/2020,RTB5,27.848,Cohort6
+891,Antenna:Shrimp lengths (ratio):,1/29/2020,RTB5,0.294670028,Cohort6
+892,Condition Factor:,1/29/2020,RTB5,0.96514991,Cohort6
+893,Gut content (score):,1/29/2020,RTB5,0.8,Cohort6
+894,Hepatosomatic index:,1/29/2020,RTB5,0.038851135,Cohort6
+895,Surface necrosis (score):,1/29/2020,RTB5,1,Cohort6
+896,Weight (g),1/29/2020,RTB5,29.416,Cohort6
+897,Antenna:Shrimp lengths (ratio):,2/5/2020,RTB5,0.23350219,Cohort6
+898,Condition Factor:,2/5/2020,RTB5,0.880136307,Cohort6
+899,Gut content (score):,2/5/2020,RTB5,2.6,Cohort6
+900,Hepatosomatic index:,2/5/2020,RTB5,0.038123543,Cohort6
+901,Surface necrosis (score):,2/5/2020,RTB5,0.6,Cohort6
+902,Weight (g),2/5/2020,RTB5,27.272,Cohort6
+903,Antenna:Shrimp lengths (ratio):,2/19/2020,RTB5,1.260107029,
+904,Condition Factor:,2/19/2020,RTB5,0.7992629,
+905,Gut content (score):,2/19/2020,RTB5,1.4,
+906,Hepatosomatic index:,2/19/2020,RTB5,0.059513248,
+907,Surface necrosis (score):,2/19/2020,RTB5,0.6,
+908,Weight (g),2/19/2020,RTB5,1.802,
+909,Antenna:Shrimp lengths (ratio):,2/26/2020,RTB5,1.408005371,
+910,Condition Factor:,2/26/2020,RTB5,0.93164187,
+911,Gut content (score):,2/26/2020,RTB5,1.4,
+912,Hepatosomatic index:,2/26/2020,RTB5,0.065667089,
+913,Surface necrosis (score):,2/26/2020,RTB5,0,
+914,Weight (g),2/26/2020,RTB5,3.018,
+915,Antenna:Shrimp lengths (ratio):,3/4/2020,RTB5,1.037660494,
+916,Condition Factor:,3/4/2020,RTB5,0.953734227,
+917,Gut content (score):,3/4/2020,RTB5,1,
+918,Hepatosomatic index:,3/4/2020,RTB5,0.055628275,
+919,Surface necrosis (score):,3/4/2020,RTB5,0.8,
+920,Weight (g),3/4/2020,RTB5,7.296,
+921,Antenna:Shrimp lengths (ratio):,3/11/2020,RTB5,0.905139346,
+922,Condition Factor:,3/11/2020,RTB5,0.987461171,
+923,Gut content (score):,3/11/2020,RTB5,0.8,
+924,Hepatosomatic index:,3/11/2020,RTB5,0.051768526,
+925,Surface necrosis (score):,3/11/2020,RTB5,1.2,
+926,Weight (g),3/11/2020,RTB5,9.166,
+927,Antenna:Shrimp lengths (ratio):,3/16/2020,RTB5,0.717289005,
+928,Condition Factor:,3/16/2020,RTB5,1.10746816,
+929,Gut content (score):,3/16/2020,RTB5,0,
+930,Hepatosomatic index:,3/16/2020,RTB5,0.049814302,
+931,Surface necrosis (score):,3/16/2020,RTB5,0,
+932,Weight (g),3/16/2020,RTB5,11.75333333,
+933,Antenna:Shrimp lengths (ratio):,3/18/2020,RTB5,0.555255015,
+934,Condition Factor:,3/18/2020,RTB5,1.078321024,
+935,Gut content (score):,3/18/2020,RTB5,1.8,
+936,Hepatosomatic index:,3/18/2020,RTB5,0.046244482,
+937,Surface necrosis (score):,3/18/2020,RTB5,0.6,
+938,Weight (g),3/18/2020,RTB5,12.866,
+939,Antenna:Shrimp lengths (ratio):,3/25/2020,RTB5,0.500247617,
+940,Condition Factor:,3/25/2020,RTB5,0.908614581,
+941,Gut content (score):,3/25/2020,RTB5,2,
+942,Hepatosomatic index:,3/25/2020,RTB5,0.047086037,
+943,Surface necrosis (score):,3/25/2020,RTB5,0.8,
+944,Weight (g),3/25/2020,RTB5,15.192,
+945,Gut content (score):,1/24/2019,RTB6,0,Cohort2
+946,Antenna:Shrimp lengths (ratio):,1/31/2019,RTB6,0.843772911,Cohort2
+947,Condition Factor:,1/31/2019,RTB6,1.058167543,Cohort2
+948,Gut content (score):,1/31/2019,RTB6,1.4,Cohort2
+949,Hepatosomatic index:,1/31/2019,RTB6,0.080947414,Cohort2
+950,Surface necrosis (score):,1/31/2019,RTB6,0.2,Cohort2
+951,Antenna:Shrimp lengths (ratio):,2/8/2019,RTB6,0.790828983,Cohort2
+952,Condition Factor:,2/8/2019,RTB6,0.96144026,Cohort2
+953,Gut content (score):,2/8/2019,RTB6,2,Cohort2
+954,Hepatosomatic index:,2/8/2019,RTB6,0.074732875,Cohort2
+955,Surface necrosis (score):,2/8/2019,RTB6,0,Cohort2
+956,Antenna:Shrimp lengths (ratio):,2/14/2019,RTB6,0.653989099,Cohort2
+957,Condition Factor:,2/14/2019,RTB6,1.14069882,Cohort2
+958,Gut content (score):,2/14/2019,RTB6,0,Cohort2
+959,Hepatosomatic index:,2/14/2019,RTB6,0.059419347,Cohort2
+960,Surface necrosis (score):,2/14/2019,RTB6,0.2,Cohort2
+961,Antenna:Shrimp lengths (ratio):,2/21/2019,RTB6,0.289212627,Cohort2
+962,Condition Factor:,2/21/2019,RTB6,0.943150475,Cohort2
+963,Gut content (score):,2/21/2019,RTB6,0.8,Cohort2
+964,Hepatosomatic index:,2/21/2019,RTB6,0.059051724,Cohort2
+965,Surface necrosis (score):,2/21/2019,RTB6,0.4,Cohort2
+966,Antenna:Shrimp lengths (ratio):,2/28/2019,RTB6,0.231312027,Cohort2
+967,Condition Factor:,2/28/2019,RTB6,1.015127811,Cohort2
+968,Gut content (score):,2/28/2019,RTB6,0,Cohort2
+969,Hepatosomatic index:,2/28/2019,RTB6,0.051544618,Cohort2
+970,Surface necrosis (score):,2/28/2019,RTB6,1,Cohort2
+971,Antenna:Shrimp lengths (ratio):,3/7/2019,RTB6,0.414249313,Cohort2
+972,Condition Factor:,3/7/2019,RTB6,0.701077341,Cohort2
+973,Gut content (score):,3/7/2019,RTB6,1,Cohort2
+974,Hepatosomatic index:,3/7/2019,RTB6,0.114502699,Cohort2
+975,Surface necrosis (score):,3/7/2019,RTB6,1,Cohort2
+976,Weight (g),3/7/2019,RTB6,6.374,Cohort2
+977,Antenna:Shrimp lengths (ratio):,3/13/2019,RTB6,0.262493214,Cohort2
+978,Condition Factor:,3/13/2019,RTB6,0.876515394,Cohort2
+979,Gut content (score):,3/13/2019,RTB6,1,Cohort2
+980,Hepatosomatic index:,3/13/2019,RTB6,0.049307843,Cohort2
+981,Surface necrosis (score):,3/13/2019,RTB6,0.6,Cohort2
+982,Antenna:Shrimp lengths (ratio):,3/20/2019,RTB6,0.221295959,Cohort2
+983,Condition Factor:,3/20/2019,RTB6,0.903457382,Cohort2
+984,Gut content (score):,3/20/2019,RTB6,1,Cohort2
+985,Hepatosomatic index:,3/20/2019,RTB6,0.047761688,Cohort2
+986,Surface necrosis (score):,3/20/2019,RTB6,0.4,Cohort2
+987,Antenna:Shrimp lengths (ratio):,3/28/2019,RTB6,0.272591129,Cohort2
+988,Condition Factor:,3/28/2019,RTB6,0.90370652,Cohort2
+989,Gut content (score):,3/28/2019,RTB6,2,Cohort2
+990,Hepatosomatic index:,3/28/2019,RTB6,0.045833721,Cohort2
+991,Surface necrosis (score):,3/28/2019,RTB6,0.2,Cohort2
+992,Antenna:Shrimp lengths (ratio):,9/4/2019,RTB6,0.260113386,
+993,Condition Factor:,9/4/2019,RTB6,1.083487703,
+994,Gut content (score):,9/4/2019,RTB6,2.2,
+995,Hepatosomatic index:,9/4/2019,RTB6,0.03779134,
+996,Surface necrosis (score):,9/4/2019,RTB6,0.2,
+997,Weight (g),9/4/2019,RTB6,23.16,
+998,Antenna:Shrimp lengths (ratio):,9/18/2019,RTB6,1.286046756,
+999,Condition Factor:,9/18/2019,RTB6,0.927033903,
+1000,Gut content (score):,9/18/2019,RTB6,2,
+1001,Hepatosomatic index:,9/18/2019,RTB6,0.067519314,
+1002,Surface necrosis (score):,9/18/2019,RTB6,0.4,
+1003,Weight (g),9/18/2019,RTB6,2.996,
+1004,Antenna:Shrimp lengths (ratio):,9/25/2019,RTB6,1.095469489,
+1005,Condition Factor:,9/25/2019,RTB6,0.876815101,
+1006,Gut content (score):,9/25/2019,RTB6,1,
+1007,Hepatosomatic index:,9/25/2019,RTB6,0.062751986,
+1008,Surface necrosis (score):,9/25/2019,RTB6,0.2,
+1009,Weight (g),9/25/2019,RTB6,5.35,
+1010,Antenna:Shrimp lengths (ratio):,10/2/2019,RTB6,0.893369906,
+1011,Condition Factor:,10/2/2019,RTB6,0.965846261,
+1012,Gut content (score):,10/2/2019,RTB6,2.2,
+1013,Hepatosomatic index:,10/2/2019,RTB6,0.059527731,
+1014,Surface necrosis (score):,10/2/2019,RTB6,0.4,
+1015,Weight (g),10/2/2019,RTB6,7.576,
+1016,Antenna:Shrimp lengths (ratio):,10/9/2019,RTB6,0.539100227,
+1017,Condition Factor:,10/9/2019,RTB6,0.954968932,
+1018,Gut content (score):,10/9/2019,RTB6,0.4,
+1019,Hepatosomatic index:,10/9/2019,RTB6,0.058814061,
+1020,Surface necrosis (score):,10/9/2019,RTB6,1,
+1021,Weight (g),10/9/2019,RTB6,10.634,
+1022,Antenna:Shrimp lengths (ratio):,10/16/2019,RTB6,0.62186292,
+1023,Condition Factor:,10/16/2019,RTB6,0.941521928,
+1024,Gut content (score):,10/16/2019,RTB6,1,
+1025,Hepatosomatic index:,10/16/2019,RTB6,0.05168554,
+1026,Surface necrosis (score):,10/16/2019,RTB6,1,
+1027,Weight (g),10/16/2019,RTB6,11.858,
+1028,Antenna:Shrimp lengths (ratio):,10/23/2019,RTB6,0.526345266,
+1029,Condition Factor:,10/23/2019,RTB6,0.9542084,
+1030,Gut content (score):,10/23/2019,RTB6,1.4,
+1031,Hepatosomatic index:,10/23/2019,RTB6,0.051646053,
+1032,Surface necrosis (score):,10/23/2019,RTB6,1.2,
+1033,Weight (g),10/23/2019,RTB6,13.46,
+1034,Antenna:Shrimp lengths (ratio):,10/30/2019,RTB6,0.250705888,
+1035,Condition Factor:,10/30/2019,RTB6,0.916782589,
+1036,Gut content (score):,10/30/2019,RTB6,1,
+1037,Hepatosomatic index:,10/30/2019,RTB6,0.059686931,
+1038,Surface necrosis (score):,10/30/2019,RTB6,0.8,
+1039,Weight (g),10/30/2019,RTB6,16.908,
+1040,Antenna:Shrimp lengths (ratio):,11/6/2019,RTB6,0.299077877,
+1041,Condition Factor:,11/6/2019,RTB6,0.950225646,
+1042,Gut content (score):,11/6/2019,RTB6,2.6,
+1043,Hepatosomatic index:,11/6/2019,RTB6,0.04522747,
+1044,Surface necrosis (score):,11/6/2019,RTB6,1.2,
+1045,Weight (g),11/6/2019,RTB6,19.668,
+1046,Antenna:Shrimp lengths (ratio):,11/13/2019,RTB6,0.242480765,
+1047,Condition Factor:,11/13/2019,RTB6,0.938642597,
+1048,Gut content (score):,11/13/2019,RTB6,1.4,
+1049,Hepatosomatic index:,11/13/2019,RTB6,0.044015141,
+1050,Surface necrosis (score):,11/13/2019,RTB6,0.8,
+1051,Weight (g),11/13/2019,RTB6,22.964,
+1052,Antenna:Shrimp lengths (ratio):,11/20/2019,RTB6,0.256675819,
+1053,Condition Factor:,11/20/2019,RTB6,0.973643732,
+1054,Gut content (score):,11/20/2019,RTB6,2,
+1055,Hepatosomatic index:,11/20/2019,RTB6,0.045608073,
+1056,Surface necrosis (score):,11/20/2019,RTB6,1,
+1057,Weight (g),11/20/2019,RTB6,26.908,
+1058,Antenna:Shrimp lengths (ratio):,11/26/2019,RTB6,0.274839742,
+1059,Condition Factor:,11/26/2019,RTB6,0.931150791,
+1060,Gut content (score):,11/26/2019,RTB6,2.2,
+1061,Hepatosomatic index:,11/26/2019,RTB6,0.045481983,
+1062,Surface necrosis (score):,11/26/2019,RTB6,0.6,
+1063,Weight (g),11/26/2019,RTB6,25.66,
+1064,Antenna:Shrimp lengths (ratio):,1/8/2020,RTB6,1.321756585,
+1065,Condition Factor:,1/8/2020,RTB6,0.866081657,
+1066,Gut content (score):,1/8/2020,RTB6,0,
+1067,Hepatosomatic index:,1/8/2020,RTB6,0.068635154,
+1068,Surface necrosis (score):,1/8/2020,RTB6,0.4,
+1069,Weight (g),1/8/2020,RTB6,1.938,
+1070,Antenna:Shrimp lengths (ratio):,1/15/2020,RTB6,1.210431779,
+1071,Condition Factor:,1/15/2020,RTB6,0.886588339,
+1072,Gut content (score):,1/15/2020,RTB6,1,
+1073,Hepatosomatic index:,1/15/2020,RTB6,0.072039696,
+1074,Surface necrosis (score):,1/15/2020,RTB6,0,
+1075,Weight (g),1/15/2020,RTB6,3.798,
+1076,Antenna:Shrimp lengths (ratio):,1/22/2020,RTB6,1.168395024,
+1077,Condition Factor:,1/22/2020,RTB6,0.91774458,
+1078,Gut content (score):,1/22/2020,RTB6,0.8,
+1079,Hepatosomatic index:,1/22/2020,RTB6,0.068703331,
+1080,Surface necrosis (score):,1/22/2020,RTB6,0.8,
+1081,Weight (g),1/22/2020,RTB6,5.442,
+1082,Antenna:Shrimp lengths (ratio):,1/29/2020,RTB6,0.895645956,
+1083,Condition Factor:,1/29/2020,RTB6,0.991072463,
+1084,Gut content (score):,1/29/2020,RTB6,1,
+1085,Hepatosomatic index:,1/29/2020,RTB6,0.059777103,
+1086,Surface necrosis (score):,1/29/2020,RTB6,1,
+1087,Weight (g),1/29/2020,RTB6,8.664,
+1088,Antenna:Shrimp lengths (ratio):,2/5/2020,RTB6,0.546070322,
+1089,Condition Factor:,2/5/2020,RTB6,0.870054408,
+1090,Gut content (score):,2/5/2020,RTB6,0.4,
+1091,Hepatosomatic index:,2/5/2020,RTB6,0.054658814,
+1092,Surface necrosis (score):,2/5/2020,RTB6,1,
+1093,Weight (g),2/5/2020,RTB6,10.688,
+1094,Antenna:Shrimp lengths (ratio):,2/19/2020,RTB6,1.309178205,
+1095,Condition Factor:,2/19/2020,RTB6,0.815363833,
+1096,Gut content (score):,2/19/2020,RTB6,1.4,
+1097,Hepatosomatic index:,2/19/2020,RTB6,0.062972448,
+1098,Surface necrosis (score):,2/19/2020,RTB6,0.2,
+1099,Weight (g),2/19/2020,RTB6,2.04,
+1100,Antenna:Shrimp lengths (ratio):,2/26/2020,RTB6,1.104070814,
+1101,Condition Factor:,2/26/2020,RTB6,0.910593618,
+1102,Gut content (score):,2/26/2020,RTB6,1.2,
+1103,Hepatosomatic index:,2/26/2020,RTB6,0.067122659,
+1104,Surface necrosis (score):,2/26/2020,RTB6,0.6,
+1105,Weight (g),2/26/2020,RTB6,2.172,
+1106,Antenna:Shrimp lengths (ratio):,3/4/2020,RTB6,1.036263745,
+1107,Condition Factor:,3/4/2020,RTB6,0.915802731,
+1108,Gut content (score):,3/4/2020,RTB6,1,
+1109,Hepatosomatic index:,3/4/2020,RTB6,0.055541297,
+1110,Surface necrosis (score):,3/4/2020,RTB6,0.6,
+1111,Weight (g),3/4/2020,RTB6,5.72,
+1112,Antenna:Shrimp lengths (ratio):,3/10/2020,RTB6,1.056445216,
+1113,Condition Factor:,3/10/2020,RTB6,0.954398234,
+1114,Gut content (score):,3/10/2020,RTB6,0.8,
+1115,Hepatosomatic index:,3/10/2020,RTB6,0.037292096,
+1116,Surface necrosis (score):,3/10/2020,RTB6,0.6,
+1117,Weight (g),3/10/2020,RTB6,5.884,
+1118,Antenna:Shrimp lengths (ratio):,3/12/2020,RTB6,0.542015725,
+1119,Condition Factor:,3/12/2020,RTB6,0.775254045,
+1120,Gut content (score):,3/12/2020,RTB6,3,
+1121,Hepatosomatic index:,3/12/2020,RTB6,0.036276329,
+1122,Surface necrosis (score):,3/12/2020,RTB6,1.4,
+1123,Weight (g),3/12/2020,RTB6,8.718,
+1124,Gut content (score):,1/24/2019,RTB7,2.6,
+1125,Antenna:Shrimp lengths (ratio):,1/31/2019,RTB7,1.160212876,
+1126,Condition Factor:,1/31/2019,RTB7,1.092614038,
+1127,Gut content (score):,1/31/2019,RTB7,0.8,
+1128,Hepatosomatic index:,1/31/2019,RTB7,0.078766112,
+1129,Surface necrosis (score):,1/31/2019,RTB7,0,
+1130,Antenna:Shrimp lengths (ratio):,2/8/2019,RTB7,0.874931126,
+1131,Condition Factor:,2/8/2019,RTB7,0.959821179,
+1132,Gut content (score):,2/8/2019,RTB7,0,
+1133,Hepatosomatic index:,2/8/2019,RTB7,0.068914829,
+1134,Surface necrosis (score):,2/8/2019,RTB7,0,
+1135,Antenna:Shrimp lengths (ratio):,2/14/2019,RTB7,0.553723549,
+1136,Condition Factor:,2/14/2019,RTB7,1.125217229,
+1137,Gut content (score):,2/14/2019,RTB7,0,
+1138,Hepatosomatic index:,2/14/2019,RTB7,0.031792117,
+1139,Surface necrosis (score):,2/14/2019,RTB7,0.25,
+1140,Antenna:Shrimp lengths (ratio):,2/21/2019,RTB7,0.36034094,
+1141,Condition Factor:,2/21/2019,RTB7,1.18332935,
+1142,Gut content (score):,2/21/2019,RTB7,0.4,
+1143,Hepatosomatic index:,2/21/2019,RTB7,0.051416032,
+1144,Surface necrosis (score):,2/21/2019,RTB7,0.6,
+1145,Antenna:Shrimp lengths (ratio):,2/28/2019,RTB7,0.260079132,
+1146,Condition Factor:,2/28/2019,RTB7,0.975575058,
+1147,Gut content (score):,2/28/2019,RTB7,0,
+1148,Hepatosomatic index:,2/28/2019,RTB7,0.051563138,
+1149,Surface necrosis (score):,2/28/2019,RTB7,0.2,
+1150,Antenna:Shrimp lengths (ratio):,3/7/2019,RTB7,0.296183396,
+1151,Condition Factor:,3/7/2019,RTB7,0.671454846,
+1152,Gut content (score):,3/7/2019,RTB7,1.2,
+1153,Hepatosomatic index:,3/7/2019,RTB7,0.055249778,
+1154,Surface necrosis (score):,3/7/2019,RTB7,0.4,
+1155,Weight (g),3/7/2019,RTB7,7.79,
+1156,Antenna:Shrimp lengths (ratio):,3/13/2019,RTB7,0.225425564,
+1157,Condition Factor:,3/13/2019,RTB7,0.854092266,
+1158,Gut content (score):,3/13/2019,RTB7,0.6,
+1159,Hepatosomatic index:,3/13/2019,RTB7,0.056680578,
+1160,Surface necrosis (score):,3/13/2019,RTB7,0,
+1161,Antenna:Shrimp lengths (ratio):,3/20/2019,RTB7,0.177044163,
+1162,Condition Factor:,3/20/2019,RTB7,0.910714782,
+1163,Gut content (score):,3/20/2019,RTB7,0,
+1164,Hepatosomatic index:,3/20/2019,RTB7,0.048555066,
+1165,Surface necrosis (score):,3/20/2019,RTB7,0.4,
+1166,Antenna:Shrimp lengths (ratio):,3/28/2019,RTB7,0.225015604,
+1167,Condition Factor:,3/28/2019,RTB7,0.787323097,
+1168,Gut content (score):,3/28/2019,RTB7,1.4,
+1169,Hepatosomatic index:,3/28/2019,RTB7,0.039833198,
+1170,Surface necrosis (score):,3/28/2019,RTB7,0.4,
+1171,Antenna:Shrimp lengths (ratio):,9/4/2019,RTB7,0.315620174,
+1172,Condition Factor:,9/4/2019,RTB7,1.09413556,
+1173,Gut content (score):,9/4/2019,RTB7,0.2,
+1174,Hepatosomatic index:,9/4/2019,RTB7,0.038157439,
+1175,Surface necrosis (score):,9/4/2019,RTB7,0.2,
+1176,Weight (g),9/4/2019,RTB7,24.458,
+1177,Antenna:Shrimp lengths (ratio):,9/18/2019,RTB7,1.312596399,
+1178,Condition Factor:,9/18/2019,RTB7,0.948919256,
+1179,Gut content (score):,9/18/2019,RTB7,1.6,
+1180,Hepatosomatic index:,9/18/2019,RTB7,0.068421913,
+1181,Surface necrosis (score):,9/18/2019,RTB7,0,
+1182,Weight (g),9/18/2019,RTB7,2.766,
+1183,Antenna:Shrimp lengths (ratio):,9/25/2019,RTB7,1.148354449,
+1184,Condition Factor:,9/25/2019,RTB7,0.887950271,
+1185,Gut content (score):,9/25/2019,RTB7,1.2,
+1186,Hepatosomatic index:,9/25/2019,RTB7,0.059653411,
+1187,Surface necrosis (score):,9/25/2019,RTB7,0.4,
+1188,Weight (g),9/25/2019,RTB7,4.386,
+1189,Antenna:Shrimp lengths (ratio):,10/2/2019,RTB7,0.682537251,
+1190,Condition Factor:,10/2/2019,RTB7,0.930055966,
+1191,Gut content (score):,10/2/2019,RTB7,1.8,
+1192,Hepatosomatic index:,10/2/2019,RTB7,0.050125591,
+1193,Surface necrosis (score):,10/2/2019,RTB7,0.4,
+1194,Weight (g),10/2/2019,RTB7,7.884,
+1195,Antenna:Shrimp lengths (ratio):,10/9/2019,RTB7,0.570993247,
+1196,Condition Factor:,10/9/2019,RTB7,0.923973495,
+1197,Gut content (score):,10/9/2019,RTB7,0.6,
+1198,Hepatosomatic index:,10/9/2019,RTB7,0.054246408,
+1199,Surface necrosis (score):,10/9/2019,RTB7,0.8,
+1200,Weight (g),10/9/2019,RTB7,10.448,
+1201,Antenna:Shrimp lengths (ratio):,10/16/2019,RTB7,0.322203621,
+1202,Condition Factor:,10/16/2019,RTB7,0.917342294,
+1203,Gut content (score):,10/16/2019,RTB7,1.4,
+1204,Hepatosomatic index:,10/16/2019,RTB7,0.056398673,
+1205,Surface necrosis (score):,10/16/2019,RTB7,1.8,
+1206,Weight (g),10/16/2019,RTB7,12.606,
+1207,Antenna:Shrimp lengths (ratio):,10/23/2019,RTB7,0.371385284,
+1208,Condition Factor:,10/23/2019,RTB7,0.958179543,
+1209,Gut content (score):,10/23/2019,RTB7,1.4,
+1210,Hepatosomatic index:,10/23/2019,RTB7,0.050373382,
+1211,Surface necrosis (score):,10/23/2019,RTB7,0.6,
+1212,Weight (g),10/23/2019,RTB7,15.086,
+1213,Antenna:Shrimp lengths (ratio):,10/30/2019,RTB7,0.275004631,
+1214,Condition Factor:,10/30/2019,RTB7,0.932757488,
+1215,Gut content (score):,10/30/2019,RTB7,1.6,
+1216,Hepatosomatic index:,10/30/2019,RTB7,0.048937516,
+1217,Surface necrosis (score):,10/30/2019,RTB7,1,
+1218,Weight (g),10/30/2019,RTB7,18.766,
+1219,Antenna:Shrimp lengths (ratio):,11/6/2019,RTB7,0.28837356,
+1220,Condition Factor:,11/6/2019,RTB7,0.917641201,
+1221,Gut content (score):,11/6/2019,RTB7,1,
+1222,Hepatosomatic index:,11/6/2019,RTB7,0.048288927,
+1223,Surface necrosis (score):,11/6/2019,RTB7,0.4,
+1224,Weight (g),11/6/2019,RTB7,21.908,
+1225,Antenna:Shrimp lengths (ratio):,11/13/2019,RTB7,0.26015852,
+1226,Condition Factor:,11/13/2019,RTB7,0.925440128,
+1227,Gut content (score):,11/13/2019,RTB7,1.4,
+1228,Hepatosomatic index:,11/13/2019,RTB7,0.043359946,
+1229,Surface necrosis (score):,11/13/2019,RTB7,1,
+1230,Weight (g),11/13/2019,RTB7,22.36,
+1231,Antenna:Shrimp lengths (ratio):,11/20/2019,RTB7,0.262776841,
+1232,Condition Factor:,11/20/2019,RTB7,0.959645446,
+1233,Gut content (score):,11/20/2019,RTB7,1,
+1234,Hepatosomatic index:,11/20/2019,RTB7,0.047953529,
+1235,Surface necrosis (score):,11/20/2019,RTB7,0.6,
+1236,Weight (g),11/20/2019,RTB7,24.958,
+1237,Antenna:Shrimp lengths (ratio):,11/26/2019,RTB7,0.224874846,
+1238,Condition Factor:,11/26/2019,RTB7,0.912929598,
+1239,Gut content (score):,11/26/2019,RTB7,2.2,
+1240,Hepatosomatic index:,11/26/2019,RTB7,0.044232729,
+1241,Surface necrosis (score):,11/26/2019,RTB7,1,
+1242,Weight (g),11/26/2019,RTB7,28.634,
+1243,Antenna:Shrimp lengths (ratio):,1/8/2020,RTB7,1.251823362,
+1244,Condition Factor:,1/8/2020,RTB7,0.878756834,
+1245,Gut content (score):,1/8/2020,RTB7,2.4,
+1246,Hepatosomatic index:,1/8/2020,RTB7,0.069106377,
+1247,Surface necrosis (score):,1/8/2020,RTB7,0.6,
+1248,Weight (g),1/8/2020,RTB7,1.402,
+1249,Antenna:Shrimp lengths (ratio):,1/15/2020,RTB7,1.133720128,
+1250,Condition Factor:,1/15/2020,RTB7,0.892628386,
+1251,Gut content (score):,1/15/2020,RTB7,0.4,
+1252,Hepatosomatic index:,1/15/2020,RTB7,0.062284805,
+1253,Surface necrosis (score):,1/15/2020,RTB7,0,
+1254,Weight (g),1/15/2020,RTB7,3.98,
+1255,Antenna:Shrimp lengths (ratio):,1/22/2020,RTB7,1.139833265,
+1256,Condition Factor:,1/22/2020,RTB7,0.95589686,
+1257,Gut content (score):,1/22/2020,RTB7,0.8,
+1258,Hepatosomatic index:,1/22/2020,RTB7,0.056048278,
+1259,Surface necrosis (score):,1/22/2020,RTB7,1,
+1260,Weight (g),1/22/2020,RTB7,7.474,
+1261,Antenna:Shrimp lengths (ratio):,1/29/2020,RTB7,0.985490754,
+1262,Condition Factor:,1/29/2020,RTB7,0.988684865,
+1263,Gut content (score):,1/29/2020,RTB7,0.6,
+1264,Hepatosomatic index:,1/29/2020,RTB7,0.047709733,
+1265,Surface necrosis (score):,1/29/2020,RTB7,1,
+1266,Weight (g),1/29/2020,RTB7,6.33,
+1267,Antenna:Shrimp lengths (ratio):,2/5/2020,RTB7,0.687716534,
+1268,Condition Factor:,2/5/2020,RTB7,0.866855064,
+1269,Gut content (score):,2/5/2020,RTB7,0.4,
+1270,Hepatosomatic index:,2/5/2020,RTB7,0.047199022,
+1271,Surface necrosis (score):,2/5/2020,RTB7,1,
+1272,Weight (g),2/5/2020,RTB7,9.67,
+1273,Antenna:Shrimp lengths (ratio):,2/19/2020,RTB7,1.098955263,
+1274,Condition Factor:,2/19/2020,RTB7,0.827466047,
+1275,Gut content (score):,2/19/2020,RTB7,0.6,
+1276,Hepatosomatic index:,2/19/2020,RTB7,0.066616848,
+1277,Surface necrosis (score):,2/19/2020,RTB7,0.2,
+1278,Weight (g),2/19/2020,RTB7,1.708,
+1279,Antenna:Shrimp lengths (ratio):,2/26/2020,RTB7,1.339660452,
+1280,Condition Factor:,2/26/2020,RTB7,0.925465824,
+1281,Gut content (score):,2/26/2020,RTB7,2.6,
+1282,Hepatosomatic index:,2/26/2020,RTB7,0.066810486,
+1283,Surface necrosis (score):,2/26/2020,RTB7,0.6,
+1284,Weight (g),2/26/2020,RTB7,3.764,
+1285,Antenna:Shrimp lengths (ratio):,3/4/2020,RTB7,1.095975513,
+1286,Condition Factor:,3/4/2020,RTB7,0.926358577,
+1287,Gut content (score):,3/4/2020,RTB7,1,
+1288,Hepatosomatic index:,3/4/2020,RTB7,0.052087811,
+1289,Surface necrosis (score):,3/4/2020,RTB7,0.4,
+1290,Weight (g),3/4/2020,RTB7,6.614,
+1291,Antenna:Shrimp lengths (ratio):,3/11/2020,RTB7,0.652710698,
+1292,Condition Factor:,3/11/2020,RTB7,0.914768757,
+1293,Gut content (score):,3/11/2020,RTB7,1.8,
+1294,Hepatosomatic index:,3/11/2020,RTB7,0.044202587,
+1295,Surface necrosis (score):,3/11/2020,RTB7,0.6,
+1296,Weight (g),3/11/2020,RTB7,9.094,
+1297,Antenna:Shrimp lengths (ratio):,3/16/2020,RTB7,0.560506176,
+1298,Condition Factor:,3/16/2020,RTB7,1.096129782,
+1299,Gut content (score):,3/16/2020,RTB7,1.666666667,
+1300,Hepatosomatic index:,3/16/2020,RTB7,0.033926942,
+1301,Surface necrosis (score):,3/16/2020,RTB7,0.333333333,
+1302,Weight (g),3/16/2020,RTB7,8.99,
+1303,Antenna:Shrimp lengths (ratio):,3/18/2020,RTB7,0.70870807,
+1304,Condition Factor:,3/18/2020,RTB7,1.081520825,
+1305,Gut content (score):,3/18/2020,RTB7,2.8,
+1306,Hepatosomatic index:,3/18/2020,RTB7,0.032951957,
+1307,Surface necrosis (score):,3/18/2020,RTB7,0.2,
+1308,Weight (g),3/18/2020,RTB7,11.106,
+1309,Antenna:Shrimp lengths (ratio):,3/24/2020,RTB7,0.485238567,
+1310,Condition Factor:,3/24/2020,RTB7,0.82213652,
+1311,Gut content (score):,3/24/2020,RTB7,1.4,
+1312,Hepatosomatic index:,3/24/2020,RTB7,0.043676905,
+1313,Surface necrosis (score):,3/24/2020,RTB7,0.8,
+1314,Weight (g),3/24/2020,RTB7,12.178,
+1315,Gut content (score):,1/24/2019,RTB8,1.2,
+1316,Antenna:Shrimp lengths (ratio):,1/31/2019,RTB8,1.079023755,
+1317,Condition Factor:,1/31/2019,RTB8,1.220274346,
+1318,Gut content (score):,1/31/2019,RTB8,0,
+1319,Hepatosomatic index:,1/31/2019,RTB8,0.08004185,
+1320,Surface necrosis (score):,1/31/2019,RTB8,0,
+1321,Antenna:Shrimp lengths (ratio):,2/8/2019,RTB8,0.598615669,
+1322,Condition Factor:,2/8/2019,RTB8,0.927671947,
+1323,Gut content (score):,2/8/2019,RTB8,0,
+1324,Hepatosomatic index:,2/8/2019,RTB8,0.07675611,
+1325,Surface necrosis (score):,2/8/2019,RTB8,0.2,
+1326,Antenna:Shrimp lengths (ratio):,2/14/2019,RTB8,0.905304304,
+1327,Condition Factor:,2/14/2019,RTB8,1.158562497,
+1328,Gut content (score):,2/14/2019,RTB8,0.8,
+1329,Hepatosomatic index:,2/14/2019,RTB8,0.059356874,
+1330,Surface necrosis (score):,2/14/2019,RTB8,0.2,
+1331,Antenna:Shrimp lengths (ratio):,2/21/2019,RTB8,0.502088122,
+1332,Condition Factor:,2/21/2019,RTB8,0.895664906,
+1333,Gut content (score):,2/21/2019,RTB8,0.6,
+1334,Hepatosomatic index:,2/21/2019,RTB8,0.056851962,
+1335,Surface necrosis (score):,2/21/2019,RTB8,0,
+1336,Antenna:Shrimp lengths (ratio):,2/28/2019,RTB8,0.502403708,
+1337,Condition Factor:,2/28/2019,RTB8,1.055747575,
+1338,Gut content (score):,2/28/2019,RTB8,0,
+1339,Hepatosomatic index:,2/28/2019,RTB8,0.054578295,
+1340,Surface necrosis (score):,2/28/2019,RTB8,0,
+1341,Antenna:Shrimp lengths (ratio):,3/7/2019,RTB8,0.580607256,
+1342,Condition Factor:,3/7/2019,RTB8,0.782786732,
+1343,Gut content (score):,3/7/2019,RTB8,0.2,
+1344,Hepatosomatic index:,3/7/2019,RTB8,0.053049825,
+1345,Surface necrosis (score):,3/7/2019,RTB8,0,
+1346,Weight (g),3/7/2019,RTB8,5.326,
+1347,Antenna:Shrimp lengths (ratio):,3/13/2019,RTB8,0.258734359,
+1348,Condition Factor:,3/13/2019,RTB8,0.880597227,
+1349,Gut content (score):,3/13/2019,RTB8,0,
+1350,Hepatosomatic index:,3/13/2019,RTB8,0.048010125,
+1351,Surface necrosis (score):,3/13/2019,RTB8,0.6,
+1352,Antenna:Shrimp lengths (ratio):,3/21/2019,RTB8,0.244406668,
+1353,Condition Factor:,3/21/2019,RTB8,0.912433146,
+1354,Gut content (score):,3/21/2019,RTB8,1.4,
+1355,Hepatosomatic index:,3/21/2019,RTB8,0.046037443,
+1356,Surface necrosis (score):,3/21/2019,RTB8,0.6,
+1357,Antenna:Shrimp lengths (ratio):,3/28/2019,RTB8,0.277198194,
+1358,Condition Factor:,3/28/2019,RTB8,0.787389489,
+1359,Gut content (score):,3/28/2019,RTB8,0.8,
+1360,Hepatosomatic index:,3/28/2019,RTB8,0.037828373,
+1361,Surface necrosis (score):,3/28/2019,RTB8,0.6,
+1362,Antenna:Shrimp lengths (ratio):,9/4/2019,RTB8,0.291243374,
+1363,Condition Factor:,9/4/2019,RTB8,1.121768504,
+1364,Gut content (score):,9/4/2019,RTB8,1.4,
+1365,Hepatosomatic index:,9/4/2019,RTB8,0.040402966,
+1366,Surface necrosis (score):,9/4/2019,RTB8,0.2,
+1367,Weight (g),9/4/2019,RTB8,29.722,
+1368,Antenna:Shrimp lengths (ratio):,9/18/2019,RTB8,1.102728529,
+1369,Condition Factor:,9/18/2019,RTB8,0.875089067,
+1370,Gut content (score):,9/18/2019,RTB8,3,
+1371,Hepatosomatic index:,9/18/2019,RTB8,0.059715499,
+1372,Surface necrosis (score):,9/18/2019,RTB8,0,
+1373,Weight (g),9/18/2019,RTB8,2.96,
+1374,Antenna:Shrimp lengths (ratio):,9/25/2019,RTB8,0.986215603,
+1375,Condition Factor:,9/25/2019,RTB8,0.902599815,
+1376,Gut content (score):,9/25/2019,RTB8,2.4,
+1377,Hepatosomatic index:,9/25/2019,RTB8,0.05849722,
+1378,Surface necrosis (score):,9/25/2019,RTB8,0.2,
+1379,Weight (g),9/25/2019,RTB8,4.732,
+1380,Antenna:Shrimp lengths (ratio):,10/2/2019,RTB8,0.99805098,
+1381,Condition Factor:,10/2/2019,RTB8,0.888930567,
+1382,Gut content (score):,10/2/2019,RTB8,0.8,
+1383,Hepatosomatic index:,10/2/2019,RTB8,0.04912066,
+1384,Surface necrosis (score):,10/2/2019,RTB8,0.6,
+1385,Weight (g),10/2/2019,RTB8,6.894,
+1386,Antenna:Shrimp lengths (ratio):,10/9/2019,RTB8,0.562515902,
+1387,Condition Factor:,10/9/2019,RTB8,0.954331193,
+1388,Gut content (score):,10/9/2019,RTB8,1,
+1389,Hepatosomatic index:,10/9/2019,RTB8,0.054974445,
+1390,Surface necrosis (score):,10/9/2019,RTB8,1,
+1391,Weight (g),10/9/2019,RTB8,8.6,
+1392,Antenna:Shrimp lengths (ratio):,10/16/2019,RTB8,0.556053897,
+1393,Condition Factor:,10/16/2019,RTB8,0.911527291,
+1394,Gut content (score):,10/16/2019,RTB8,0.8,
+1395,Hepatosomatic index:,10/16/2019,RTB8,0.051377665,
+1396,Surface necrosis (score):,10/16/2019,RTB8,1.2,
+1397,Weight (g),10/16/2019,RTB8,13.35,
+1398,Antenna:Shrimp lengths (ratio):,10/23/2019,RTB8,0.469126315,
+1399,Condition Factor:,10/23/2019,RTB8,0.957868108,
+1400,Gut content (score):,10/23/2019,RTB8,1,
+1401,Hepatosomatic index:,10/23/2019,RTB8,0.050571221,
+1402,Surface necrosis (score):,10/23/2019,RTB8,0.8,
+1403,Weight (g),10/23/2019,RTB8,15.548,
+1404,Antenna:Shrimp lengths (ratio):,10/30/2019,RTB8,0.375238678,
+1405,Condition Factor:,10/30/2019,RTB8,0.931117769,
+1406,Gut content (score):,10/30/2019,RTB8,0.4,
+1407,Hepatosomatic index:,10/30/2019,RTB8,0.047335967,
+1408,Surface necrosis (score):,10/30/2019,RTB8,1.4,
+1409,Weight (g),10/30/2019,RTB8,17.17,
+1410,Antenna:Shrimp lengths (ratio):,11/6/2019,RTB8,0.27085039,
+1411,Condition Factor:,11/6/2019,RTB8,0.95016672,
+1412,Gut content (score):,11/6/2019,RTB8,1.6,
+1413,Hepatosomatic index:,11/6/2019,RTB8,0.041408821,
+1414,Surface necrosis (score):,11/6/2019,RTB8,0.6,
+1415,Weight (g),11/6/2019,RTB8,18.7,
+1416,Antenna:Shrimp lengths (ratio):,11/13/2019,RTB8,0.341961423,
+1417,Condition Factor:,11/13/2019,RTB8,0.932503747,
+1418,Gut content (score):,11/13/2019,RTB8,0.8,
+1419,Hepatosomatic index:,11/13/2019,RTB8,0.050912827,
+1420,Surface necrosis (score):,11/13/2019,RTB8,0.6,
+1421,Weight (g),11/13/2019,RTB8,23.088,
+1422,Antenna:Shrimp lengths (ratio):,11/20/2019,RTB8,0.209204506,
+1423,Condition Factor:,11/20/2019,RTB8,0.948192372,
+1424,Gut content (score):,11/20/2019,RTB8,1.2,
+1425,Hepatosomatic index:,11/20/2019,RTB8,0.047976867,
+1426,Surface necrosis (score):,11/20/2019,RTB8,1,
+1427,Weight (g),11/20/2019,RTB8,24.028,
+1428,Antenna:Shrimp lengths (ratio):,11/26/2019,RTB8,0.286233459,
+1429,Condition Factor:,11/26/2019,RTB8,0.934964628,
+1430,Gut content (score):,11/26/2019,RTB8,1.8,
+1431,Hepatosomatic index:,11/26/2019,RTB8,0.045383057,
+1432,Surface necrosis (score):,11/26/2019,RTB8,1.2,
+1433,Weight (g),11/26/2019,RTB8,24.176,
+1434,Antenna:Shrimp lengths (ratio):,1/8/2020,RTB8,1.211271475,
+1435,Condition Factor:,1/8/2020,RTB8,0.840519023,
+1436,Gut content (score):,1/8/2020,RTB8,1.4,
+1437,Hepatosomatic index:,1/8/2020,RTB8,0.063583022,
+1438,Surface necrosis (score):,1/8/2020,RTB8,0.6,
+1439,Weight (g),1/8/2020,RTB8,1.836,
+1440,Antenna:Shrimp lengths (ratio):,1/15/2020,RTB8,1.282315757,
+1441,Condition Factor:,1/15/2020,RTB8,0.869304162,
+1442,Gut content (score):,1/15/2020,RTB8,0.2,
+1443,Hepatosomatic index:,1/15/2020,RTB8,0.068042573,
+1444,Surface necrosis (score):,1/15/2020,RTB8,0.4,
+1445,Weight (g),1/15/2020,RTB8,4.508,
+1446,Antenna:Shrimp lengths (ratio):,1/22/2020,RTB8,1.427590585,
+1447,Condition Factor:,1/22/2020,RTB8,0.950428911,
+1448,Gut content (score):,1/22/2020,RTB8,0.8,
+1449,Hepatosomatic index:,1/22/2020,RTB8,0.063978801,
+1450,Surface necrosis (score):,1/22/2020,RTB8,1,
+1451,Weight (g),1/22/2020,RTB8,5.034,
+1452,Antenna:Shrimp lengths (ratio):,1/29/2020,RTB8,0.758378676,
+1453,Condition Factor:,1/29/2020,RTB8,0.969774322,
+1454,Gut content (score):,1/29/2020,RTB8,0,
+1455,Hepatosomatic index:,1/29/2020,RTB8,0.058911,
+1456,Surface necrosis (score):,1/29/2020,RTB8,0.8,
+1457,Weight (g),1/29/2020,RTB8,7.712,
+1458,Antenna:Shrimp lengths (ratio):,2/5/2020,RTB8,0.568346943,
+1459,Condition Factor:,2/5/2020,RTB8,0.875206602,
+1460,Gut content (score):,2/5/2020,RTB8,0.8,
+1461,Hepatosomatic index:,2/5/2020,RTB8,0.043971478,
+1462,Surface necrosis (score):,2/5/2020,RTB8,0.6,
+1463,Weight (g),2/5/2020,RTB8,12.982,
+1464,Antenna:Shrimp lengths (ratio):,2/19/2020,RTB8,1.363737151,
+1465,Condition Factor:,2/19/2020,RTB8,0.848444104,
+1466,Gut content (score):,2/19/2020,RTB8,2.4,
+1467,Hepatosomatic index:,2/19/2020,RTB8,0.065856108,
+1468,Surface necrosis (score):,2/19/2020,RTB8,0.2,
+1469,Weight (g),2/19/2020,RTB8,1.68,
+1470,Antenna:Shrimp lengths (ratio):,2/26/2020,RTB8,1.43241584,
+1471,Condition Factor:,2/26/2020,RTB8,0.959143942,
+1472,Gut content (score):,2/26/2020,RTB8,2.4,
+1473,Hepatosomatic index:,2/26/2020,RTB8,0.060063636,
+1474,Surface necrosis (score):,2/26/2020,RTB8,0.6,
+1475,Weight (g),2/26/2020,RTB8,4.03,
+1476,Antenna:Shrimp lengths (ratio):,3/4/2020,RTB8,0.784187179,
+1477,Condition Factor:,3/4/2020,RTB8,0.973445056,
+1478,Gut content (score):,3/4/2020,RTB8,1.8,
+1479,Hepatosomatic index:,3/4/2020,RTB8,0.055016107,
+1480,Surface necrosis (score):,3/4/2020,RTB8,1,
+1481,Weight (g),3/4/2020,RTB8,5.988,
+1482,Antenna:Shrimp lengths (ratio):,3/11/2020,RTB8,0.919460973,
+1483,Condition Factor:,3/11/2020,RTB8,0.854292786,
+1484,Gut content (score):,3/11/2020,RTB8,0.6,
+1485,Hepatosomatic index:,3/11/2020,RTB8,0.056488375,
+1486,Surface necrosis (score):,3/11/2020,RTB8,0.4,
+1487,Weight (g),3/11/2020,RTB8,9.404,
+1488,Antenna:Shrimp lengths (ratio):,3/16/2020,RTB8,0.652214087,
+1489,Condition Factor:,3/16/2020,RTB8,1.070928136,
+1490,Gut content (score):,3/16/2020,RTB8,0,
+1491,Hepatosomatic index:,3/16/2020,RTB8,0.034593121,
+1492,Surface necrosis (score):,3/16/2020,RTB8,1,
+1493,Weight (g),3/16/2020,RTB8,11.61666667,
+1494,Antenna:Shrimp lengths (ratio):,3/18/2020,RTB8,0.468596613,
+1495,Condition Factor:,3/18/2020,RTB8,0.808164967,
+1496,Gut content (score):,3/18/2020,RTB8,1.2,
+1497,Hepatosomatic index:,3/18/2020,RTB8,0.045835448,
+1498,Surface necrosis (score):,3/18/2020,RTB8,0.8,
+1499,Weight (g),3/18/2020,RTB8,10.82,
+1500,Antenna:Shrimp lengths (ratio):,3/25/2020,RTB8,0.815358869,
+1501,Condition Factor:,3/25/2020,RTB8,0.944541255,
+1502,Gut content (score):,3/25/2020,RTB8,1.8,
+1503,Hepatosomatic index:,3/25/2020,RTB8,0.042321886,
+1504,Surface necrosis (score):,3/25/2020,RTB8,1,
+1505,Weight (g),3/25/2020,RTB8,12.422,
+1506,Antenna:Shrimp lengths (ratio):,1/5/2018,ST1,1.112337662,
+1507,Condition Factor:,1/5/2018,ST1,0.987642528,
+1508,Gut content (score):,1/5/2018,ST1,0,
+1509,Hepatosomatic index:,1/5/2018,ST1,0.057236639,
+1510,Surface necrosis (score):,1/5/2018,ST1,0,
+1511,Surface necrosis (score):,2/22/2018,ST1,0,
+1512,Gut content (score):,3/1/2018,ST1,0.6,
+1513,Surface necrosis (score):,3/1/2018,ST1,0.2,
+1514,Gut content (score):,4/18/2018,ST1,3,
+1515,Surface necrosis (score):,4/18/2018,ST1,0,
+1516,Gut content (score):,4/25/2018,ST1,1,
+1517,Surface necrosis (score):,4/25/2018,ST1,0.2,
+1518,Antenna:Shrimp lengths (ratio):,5/3/2018,ST1,1.709951389,
+1519,Condition Factor:,5/3/2018,ST1,1.324271936,
+1520,Gut content (score):,5/3/2018,ST1,1.2,
+1521,Hepatosomatic index:,5/3/2018,ST1,0.050797639,
+1522,Surface necrosis (score):,5/3/2018,ST1,0.2,
+1523,Antenna:Shrimp lengths (ratio):,5/10/2018,ST1,1.621875176,
+1524,Condition Factor:,5/10/2018,ST1,1.224253092,
+1525,Gut content (score):,5/10/2018,ST1,0,
+1526,Hepatosomatic index:,5/10/2018,ST1,0.051660354,
+1527,Surface necrosis (score):,5/10/2018,ST1,0,
+1528,Gut content (score):,6/6/2018,ST1,2.2,
+1529,Gut content (score):,6/14/2018,ST1,2.2,
+1530,Gut content (score):,6/21/2018,ST1,0.6,
+1531,Gut content (score):,7/19/2018,ST1,3.6,
+1532,Gut content (score):,8/1/2018,ST1,0.6,
+1533,Antenna:Shrimp lengths (ratio):,8/8/2018,ST1,1.17460488,
+1534,Condition Factor:,8/8/2018,ST1,1.563624088,
+1535,Gut content (score):,8/8/2018,ST1,0.4,
+1536,Hepatosomatic index:,8/8/2018,ST1,0.053726025,
+1537,Surface necrosis (score):,8/8/2018,ST1,0,
+1538,Antenna:Shrimp lengths (ratio):,8/15/2018,ST1,1.228158753,
+1539,Condition Factor:,8/15/2018,ST1,1.089483271,
+1540,Gut content (score):,8/15/2018,ST1,1.2,
+1541,Hepatosomatic index:,8/15/2018,ST1,0.05174937,
+1542,Surface necrosis (score):,8/15/2018,ST1,0,
+1543,Antenna:Shrimp lengths (ratio):,8/22/2018,ST1,0.672560217,
+1544,Condition Factor:,8/22/2018,ST1,1.209616716,
+1545,Gut content (score):,8/22/2018,ST1,1.8,
+1546,Hepatosomatic index:,8/22/2018,ST1,0.061847626,
+1547,Surface necrosis (score):,8/22/2018,ST1,0,
+1548,Antenna:Shrimp lengths (ratio):,8/29/2018,ST1,0.614966852,
+1549,Condition Factor:,8/29/2018,ST1,1.071821001,
+1550,Gut content (score):,8/29/2018,ST1,1.4,
+1551,Hepatosomatic index:,8/29/2018,ST1,0.05607514,
+1552,Surface necrosis (score):,8/29/2018,ST1,0.2,
+1553,Antenna:Shrimp lengths (ratio):,11/6/2018,ST1,0.87857007,
+1554,Condition Factor:,11/6/2018,ST1,1.083000156,
+1555,Gut content (score):,11/6/2018,ST1,2.4,
+1556,Hepatosomatic index:,11/6/2018,ST1,0.063870146,
+1557,Surface necrosis (score):,11/6/2018,ST1,0,
+1558,Antenna:Shrimp lengths (ratio):,11/13/2018,ST1,0.796975731,
+1559,Condition Factor:,11/13/2018,ST1,1.21942699,
+1560,Gut content (score):,11/13/2018,ST1,2.6,
+1561,Hepatosomatic index:,11/13/2018,ST1,0.058495939,
+1562,Surface necrosis (score):,11/13/2018,ST1,0.4,
+1563,Antenna:Shrimp lengths (ratio):,11/20/2018,ST1,0.415131309,
+1564,Condition Factor:,11/20/2018,ST1,1.08616098,
+1565,Gut content (score):,11/20/2018,ST1,2.4,
+1566,Hepatosomatic index:,11/20/2018,ST1,0.05604422,
+1567,Surface necrosis (score):,11/20/2018,ST1,0.6,
+1568,Antenna:Shrimp lengths (ratio):,11/27/2018,ST1,0.473539615,
+1569,Condition Factor:,11/27/2018,ST1,1.072778595,
+1570,Gut content (score):,11/27/2018,ST1,1,
+1571,Hepatosomatic index:,11/27/2018,ST1,0.053322537,
+1572,Surface necrosis (score):,11/27/2018,ST1,0.8,
+1573,Gut content (score):,12/26/2018,ST1,0.4,
+1574,Gut content (score):,1/2/2019,ST1,2,
+1575,Gut content (score):,1/8/2019,ST1,0.2,
+1576,Gut content (score):,1/15/2019,ST1,0.6,
+1577,Gut content (score):,1/22/2019,ST1,0.2,
+1578,Antenna:Shrimp lengths (ratio):,1/29/2019,ST1,1.037086183,
+1579,Condition Factor:,1/29/2019,ST1,1.13872586,
+1580,Gut content (score):,1/29/2019,ST1,1.6,
+1581,Hepatosomatic index:,1/29/2019,ST1,0.067974784,
+1582,Surface necrosis (score):,1/29/2019,ST1,0.2,
+1583,Antenna:Shrimp lengths (ratio):,2/5/2019,ST1,1.206747527,
+1584,Condition Factor:,2/5/2019,ST1,1.427078881,
+1585,Gut content (score):,2/5/2019,ST1,2.6,
+1586,Hepatosomatic index:,2/5/2019,ST1,0.058042117,
+1587,Surface necrosis (score):,2/5/2019,ST1,0.2,
+1588,Antenna:Shrimp lengths (ratio):,2/12/2019,ST1,0.462531827,
+1589,Condition Factor:,2/12/2019,ST1,1.217423326,
+1590,Gut content (score):,2/12/2019,ST1,1.2,
+1591,Hepatosomatic index:,2/12/2019,ST1,0.054076761,
+1592,Surface necrosis (score):,2/12/2019,ST1,0.2,
+1593,Antenna:Shrimp lengths (ratio):,2/19/2019,ST1,0.385963022,
+1594,Condition Factor:,2/19/2019,ST1,0.881720881,
+1595,Gut content (score):,2/19/2019,ST1,2.4,
+1596,Hepatosomatic index:,2/19/2019,ST1,0.06029472,
+1597,Surface necrosis (score):,2/19/2019,ST1,0.8,
+1598,Gut content (score):,3/12/2019,ST1,2.8,
+1599,Gut content (score):,3/19/2019,ST1,1.6,
+1600,Gut content (score):,3/26/2019,ST1,2.2,
+1601,Antenna:Shrimp lengths (ratio):,5/7/2019,ST1,0.227507718,
+1602,Condition Factor:,5/7/2019,ST1,0.965428037,
+1603,Gut content (score):,5/7/2019,ST1,3,
+1604,Hepatosomatic index:,5/7/2019,ST1,0.050050049,
+1605,Surface necrosis (score):,5/7/2019,ST1,1.6,
+1606,Weight (g),5/7/2019,ST1,10.052,
+1607,Antenna:Shrimp lengths (ratio):,5/14/2019,ST1,0.269930325,
+1608,Condition Factor:,5/14/2019,ST1,0.863813827,
+1609,Gut content (score):,5/14/2019,ST1,1.6,
+1610,Hepatosomatic index:,5/14/2019,ST1,0.048857635,
+1611,Surface necrosis (score):,5/14/2019,ST1,0.6,
+1612,Weight (g),5/14/2019,ST1,11.57,
+1613,Gut content (score):,9/3/2019,ST1,2.8,
+1614,Surface necrosis (score):,9/3/2019,ST1,0.2,
+1615,Antenna:Shrimp lengths (ratio):,10/1/2019,ST1,0.748231624,
+1616,Condition Factor:,10/1/2019,ST1,1.087056953,
+1617,Gut content (score):,10/1/2019,ST1,0.8,
+1618,Hepatosomatic index:,10/1/2019,ST1,0.072801924,
+1619,Surface necrosis (score):,10/1/2019,ST1,0,
+1620,Weight (g),10/1/2019,ST1,2.422,
+1621,Antenna:Shrimp lengths (ratio):,10/8/2019,ST1,1.110581792,
+1622,Condition Factor:,10/8/2019,ST1,0.870265987,
+1623,Gut content (score):,10/8/2019,ST1,1.6,
+1624,Hepatosomatic index:,10/8/2019,ST1,0.067174011,
+1625,Surface necrosis (score):,10/8/2019,ST1,0.2,
+1626,Weight (g),10/8/2019,ST1,3.874,
+1627,Antenna:Shrimp lengths (ratio):,10/15/2019,ST1,0.819149032,
+1628,Condition Factor:,10/15/2019,ST1,0.880851575,
+1629,Gut content (score):,10/15/2019,ST1,2.4,
+1630,Hepatosomatic index:,10/15/2019,ST1,0.059197547,
+1631,Surface necrosis (score):,10/15/2019,ST1,0.4,
+1632,Weight (g),10/15/2019,ST1,5.966,
+1633,Antenna:Shrimp lengths (ratio):,1/3/2020,ST1,1.059944964,
+1634,Condition Factor:,1/3/2020,ST1,0.915117308,
+1635,Gut content (score):,1/3/2020,ST1,0.6,
+1636,Hepatosomatic index:,1/3/2020,ST1,0.063777247,
+1637,Surface necrosis (score):,1/3/2020,ST1,1.6,
+1638,Weight (g),1/3/2020,ST1,4.438,
+1639,Antenna:Shrimp lengths (ratio):,1/7/2020,ST1,0.692352984,
+1640,Condition Factor:,1/7/2020,ST1,0.834832333,
+1641,Gut content (score):,1/7/2020,ST1,1.8,
+1642,Hepatosomatic index:,1/7/2020,ST1,0.056488775,
+1643,Surface necrosis (score):,1/7/2020,ST1,0.6,
+1644,Weight (g),1/7/2020,ST1,5.746,
+1645,Antenna:Shrimp lengths (ratio):,1/14/2020,ST1,0.617856783,
+1646,Condition Factor:,1/14/2020,ST1,0.892337473,
+1647,Gut content (score):,1/14/2020,ST1,0.8,
+1648,Hepatosomatic index:,1/14/2020,ST1,0.04889436,
+1649,Surface necrosis (score):,1/14/2020,ST1,0.6,
+1650,Weight (g),1/14/2020,ST1,5.114,
+1651,Antenna:Shrimp lengths (ratio):,1/21/2020,ST1,0.547604625,
+1652,Condition Factor:,1/21/2020,ST1,0.87803553,
+1653,Gut content (score):,1/21/2020,ST1,0.8,
+1654,Hepatosomatic index:,1/21/2020,ST1,0.051918036,
+1655,Surface necrosis (score):,1/21/2020,ST1,0.6,
+1656,Weight (g),1/21/2020,ST1,8.032,
+1657,Antenna:Shrimp lengths (ratio):,1/28/2020,ST1,0.473711853,
+1658,Condition Factor:,1/28/2020,ST1,0.870702682,
+1659,Gut content (score):,1/28/2020,ST1,1.8,
+1660,Hepatosomatic index:,1/28/2020,ST1,0.048577352,
+1661,Surface necrosis (score):,1/28/2020,ST1,0.6,
+1662,Weight (g),1/28/2020,ST1,8.314,
+1663,Gut content (score):,3/31/2020,ST1,1.8,
+1664,Antenna:Shrimp lengths (ratio):,1/5/2018,ST2,0.833438375,
+1665,Condition Factor:,1/5/2018,ST2,0.996714935,
+1666,Gut content (score):,1/5/2018,ST2,0,
+1667,Hepatosomatic index:,1/5/2018,ST2,0.05238352,
+1668,Surface necrosis (score):,1/5/2018,ST2,0,
+1669,Gut content (score):,3/1/2018,ST2,2,
+1670,Surface necrosis (score):,3/1/2018,ST2,0,
+1671,Gut content (score):,4/18/2018,ST2,3.6,
+1672,Surface necrosis (score):,4/18/2018,ST2,0,
+1673,Gut content (score):,4/25/2018,ST2,3.6,
+1674,Surface necrosis (score):,4/25/2018,ST2,0,
+1675,Antenna:Shrimp lengths (ratio):,5/3/2018,ST2,1.170150811,
+1676,Condition Factor:,5/3/2018,ST2,1.333429554,
+1677,Gut content (score):,5/3/2018,ST2,0.6,
+1678,Hepatosomatic index:,5/3/2018,ST2,0.063795062,
+1679,Surface necrosis (score):,5/3/2018,ST2,0,
+1680,Antenna:Shrimp lengths (ratio):,5/10/2018,ST2,0.667063313,
+1681,Condition Factor:,5/10/2018,ST2,1.253551125,
+1682,Gut content (score):,5/10/2018,ST2,0,
+1683,Hepatosomatic index:,5/10/2018,ST2,0.05305404,
+1684,Surface necrosis (score):,5/10/2018,ST2,0,
+1685,Gut content (score):,6/14/2018,ST2,1.8,
+1686,Gut content (score):,6/21/2018,ST2,1.8,
+1687,Gut content (score):,7/19/2018,ST2,3,
+1688,Gut content (score):,7/27/2018,ST2,2.2,
+1689,Gut content (score):,8/1/2018,ST2,1.4,
+1690,Antenna:Shrimp lengths (ratio):,8/8/2018,ST2,1.402977234,
+1691,Condition Factor:,8/8/2018,ST2,1.827362101,
+1692,Gut content (score):,8/8/2018,ST2,0.4,
+1693,Hepatosomatic index:,8/8/2018,ST2,0.056784384,
+1694,Surface necrosis (score):,8/8/2018,ST2,0,
+1695,Antenna:Shrimp lengths (ratio):,8/15/2018,ST2,1.153811778,
+1696,Condition Factor:,8/15/2018,ST2,1.038419036,
+1697,Gut content (score):,8/15/2018,ST2,0.6,
+1698,Hepatosomatic index:,8/15/2018,ST2,0.051001017,
+1699,Surface necrosis (score):,8/15/2018,ST2,0,
+1700,Antenna:Shrimp lengths (ratio):,8/22/2018,ST2,0.668618194,
+1701,Condition Factor:,8/22/2018,ST2,1.259740331,
+1702,Gut content (score):,8/22/2018,ST2,0.6,
+1703,Hepatosomatic index:,8/22/2018,ST2,0.058754568,
+1704,Surface necrosis (score):,8/22/2018,ST2,0.6,
+1705,Antenna:Shrimp lengths (ratio):,8/29/2018,ST2,0.733670713,
+1706,Condition Factor:,8/29/2018,ST2,1.09846578,
+1707,Gut content (score):,8/29/2018,ST2,1.2,
+1708,Hepatosomatic index:,8/29/2018,ST2,0.057393198,
+1709,Surface necrosis (score):,8/29/2018,ST2,0,
+1710,Antenna:Shrimp lengths (ratio):,11/6/2018,ST2,0.742338371,
+1711,Condition Factor:,11/6/2018,ST2,1.117102978,
+1712,Gut content (score):,11/6/2018,ST2,0.8,
+1713,Hepatosomatic index:,11/6/2018,ST2,0.060491926,
+1714,Surface necrosis (score):,11/6/2018,ST2,0,
+1715,Antenna:Shrimp lengths (ratio):,11/13/2018,ST2,0.595568713,
+1716,Condition Factor:,11/13/2018,ST2,1.177317993,
+1717,Gut content (score):,11/13/2018,ST2,0.4,
+1718,Hepatosomatic index:,11/13/2018,ST2,0.062447046,
+1719,Surface necrosis (score):,11/13/2018,ST2,0.4,
+1720,Antenna:Shrimp lengths (ratio):,11/20/2018,ST2,0.647164431,
+1721,Condition Factor:,11/20/2018,ST2,1.042837506,
+1722,Gut content (score):,11/20/2018,ST2,0.2,
+1723,Hepatosomatic index:,11/20/2018,ST2,0.065457619,
+1724,Surface necrosis (score):,11/20/2018,ST2,0.4,
+1725,Antenna:Shrimp lengths (ratio):,11/27/2018,ST2,0.348299933,
+1726,Condition Factor:,11/27/2018,ST2,1.115315116,
+1727,Gut content (score):,11/27/2018,ST2,0.6,
+1728,Hepatosomatic index:,11/27/2018,ST2,0.059473788,
+1729,Surface necrosis (score):,11/27/2018,ST2,0,
+1730,Gut content (score):,12/26/2018,ST2,1.8,
+1731,Gut content (score):,1/2/2019,ST2,2.6,
+1732,Gut content (score):,1/8/2019,ST2,3.8,
+1733,Gut content (score):,1/15/2019,ST2,0,
+1734,Gut content (score):,1/22/2019,ST2,0.4,
+1735,Antenna:Shrimp lengths (ratio):,1/29/2019,ST2,1.098455298,
+1736,Condition Factor:,1/29/2019,ST2,1.164253749,
+1737,Gut content (score):,1/29/2019,ST2,1.8,
+1738,Hepatosomatic index:,1/29/2019,ST2,0.055257002,
+1739,Surface necrosis (score):,1/29/2019,ST2,0.4,
+1740,Antenna:Shrimp lengths (ratio):,2/5/2019,ST2,1.416326123,
+1741,Condition Factor:,2/5/2019,ST2,1.32790239,
+1742,Gut content (score):,2/5/2019,ST2,1,
+1743,Hepatosomatic index:,2/5/2019,ST2,0.068558559,
+1744,Surface necrosis (score):,2/5/2019,ST2,0,
+1745,Antenna:Shrimp lengths (ratio):,2/12/2019,ST2,14.09758938,
+1746,Condition Factor:,2/12/2019,ST2,1.146396037,
+1747,Gut content (score):,2/12/2019,ST2,1.4,
+1748,Hepatosomatic index:,2/12/2019,ST2,0.066685468,
+1749,Surface necrosis (score):,2/12/2019,ST2,0,
+1750,Antenna:Shrimp lengths (ratio):,2/19/2019,ST2,0.606659981,
+1751,Condition Factor:,2/19/2019,ST2,1.067280585,
+1752,Gut content (score):,2/19/2019,ST2,1.4,
+1753,Hepatosomatic index:,2/19/2019,ST2,0.053479894,
+1754,Surface necrosis (score):,2/19/2019,ST2,0.6,
+1755,Gut content (score):,3/12/2019,ST2,2.2,
+1756,Gut content (score):,3/19/2019,ST2,0,
+1757,Gut content (score):,3/26/2019,ST2,0.4,
+1758,Antenna:Shrimp lengths (ratio):,5/7/2019,ST2,0.747554639,
+1759,Condition Factor:,5/7/2019,ST2,0.941835367,
+1760,Gut content (score):,5/7/2019,ST2,0.6,
+1761,Hepatosomatic index:,5/7/2019,ST2,0.036432442,
+1762,Surface necrosis (score):,5/7/2019,ST2,1,
+1763,Weight (g),5/7/2019,ST2,10.216,
+1764,Antenna:Shrimp lengths (ratio):,5/14/2019,ST2,0.553404621,
+1765,Condition Factor:,5/14/2019,ST2,0.912996189,
+1766,Gut content (score):,5/14/2019,ST2,1.2,
+1767,Hepatosomatic index:,5/14/2019,ST2,0.050223971,
+1768,Surface necrosis (score):,5/14/2019,ST2,0.6,
+1769,Weight (g),5/14/2019,ST2,10.172,
+1770,Gut content (score):,9/3/2019,ST2,3.4,
+1771,Surface necrosis (score):,9/3/2019,ST2,0.4,
+1772,Antenna:Shrimp lengths (ratio):,10/1/2019,ST2,0.829903667,
+1773,Condition Factor:,10/1/2019,ST2,1.066815014,
+1774,Gut content (score):,10/1/2019,ST2,1.4,
+1775,Hepatosomatic index:,10/1/2019,ST2,0.063303254,
+1776,Surface necrosis (score):,10/1/2019,ST2,0.2,
+1777,Weight (g),10/1/2019,ST2,1.91,
+1778,Antenna:Shrimp lengths (ratio):,10/8/2019,ST2,0.651557678,
+1779,Condition Factor:,10/8/2019,ST2,0.848088587,
+1780,Gut content (score):,10/8/2019,ST2,2.6,
+1781,Hepatosomatic index:,10/8/2019,ST2,0.063614018,
+1782,Surface necrosis (score):,10/8/2019,ST2,0.4,
+1783,Weight (g),10/8/2019,ST2,3.86,
+1784,Antenna:Shrimp lengths (ratio):,1/3/2020,ST2,1.073457628,
+1785,Condition Factor:,1/3/2020,ST2,0.894001866,
+1786,Gut content (score):,1/3/2020,ST2,1,
+1787,Hepatosomatic index:,1/3/2020,ST2,0.068342526,
+1788,Surface necrosis (score):,1/3/2020,ST2,0.8,
+1789,Weight (g),1/3/2020,ST2,3.85,
+1790,Antenna:Shrimp lengths (ratio):,1/7/2020,ST2,0.810048907,
+1791,Condition Factor:,1/7/2020,ST2,0.839064101,
+1792,Gut content (score):,1/7/2020,ST2,2,
+1793,Hepatosomatic index:,1/7/2020,ST2,0.055509317,
+1794,Surface necrosis (score):,1/7/2020,ST2,0.8,
+1795,Weight (g),1/7/2020,ST2,6.614,
+1796,Antenna:Shrimp lengths (ratio):,1/14/2020,ST2,0.831061972,
+1797,Condition Factor:,1/14/2020,ST2,0.909801027,
+1798,Gut content (score):,1/14/2020,ST2,2.2,
+1799,Hepatosomatic index:,1/14/2020,ST2,0.057896499,
+1800,Surface necrosis (score):,1/14/2020,ST2,1,
+1801,Weight (g),1/14/2020,ST2,7.298,
+1802,Antenna:Shrimp lengths (ratio):,1/21/2020,ST2,0.63345348,
+1803,Condition Factor:,1/21/2020,ST2,0.879993397,
+1804,Gut content (score):,1/21/2020,ST2,1.2,
+1805,Hepatosomatic index:,1/21/2020,ST2,0.050729631,
+1806,Surface necrosis (score):,1/21/2020,ST2,0.6,
+1807,Weight (g),1/21/2020,ST2,10.166,
+1808,Antenna:Shrimp lengths (ratio):,1/28/2020,ST2,0.486520834,
+1809,Condition Factor:,1/28/2020,ST2,0.894035838,
+1810,Gut content (score):,1/28/2020,ST2,1.8,
+1811,Hepatosomatic index:,1/28/2020,ST2,0.051232856,
+1812,Surface necrosis (score):,1/28/2020,ST2,0.4,
+1813,Weight (g),1/28/2020,ST2,11.646,
+1814,Antenna:Shrimp lengths (ratio):,1/5/2018,ST3,0.384733968,
+1815,Condition Factor:,1/5/2018,ST3,1.011792708,
+1816,Gut content (score):,1/5/2018,ST3,3,
+1817,Hepatosomatic index:,1/5/2018,ST3,0.037993956,
+1818,Surface necrosis (score):,1/5/2018,ST3,0.666666667,
+1819,Gut content (score):,3/1/2018,ST3,2.2,
+1820,Surface necrosis (score):,3/1/2018,ST3,0,
+1821,Gut content (score):,4/18/2018,ST3,3.4,
+1822,Surface necrosis (score):,4/18/2018,ST3,0,
+1823,Gut content (score):,4/25/2018,ST3,1.6,
+1824,Surface necrosis (score):,4/25/2018,ST3,0,
+1825,Antenna:Shrimp lengths (ratio):,5/3/2018,ST3,1.310059624,
+1826,Condition Factor:,5/3/2018,ST3,1.539691014,
+1827,Gut content (score):,5/3/2018,ST3,0,
+1828,Hepatosomatic index:,5/3/2018,ST3,0.056574919,
+1829,Surface necrosis (score):,5/3/2018,ST3,0,
+1830,Antenna:Shrimp lengths (ratio):,5/10/2018,ST3,0.73383245,
+1831,Condition Factor:,5/10/2018,ST3,1.482843241,
+1832,Gut content (score):,5/10/2018,ST3,2,
+1833,Hepatosomatic index:,5/10/2018,ST3,0.049181442,
+1834,Surface necrosis (score):,5/10/2018,ST3,0,
+1835,Gut content (score):,6/14/2018,ST3,2.6,
+1836,Gut content (score):,6/21/2018,ST3,0.6,
+1837,Gut content (score):,7/19/2018,ST3,4,
+1838,Gut content (score):,8/1/2018,ST3,0.6,
+1839,Antenna:Shrimp lengths (ratio):,8/8/2018,ST3,1.205644625,
+1840,Condition Factor:,8/8/2018,ST3,1.574568349,
+1841,Gut content (score):,8/8/2018,ST3,0.2,
+1842,Hepatosomatic index:,8/8/2018,ST3,0.054984078,
+1843,Surface necrosis (score):,8/8/2018,ST3,0,
+1844,Antenna:Shrimp lengths (ratio):,8/15/2018,ST3,1.224507422,
+1845,Condition Factor:,8/15/2018,ST3,1.258190327,
+1846,Gut content (score):,8/15/2018,ST3,0.2,
+1847,Hepatosomatic index:,8/15/2018,ST3,0.058460994,
+1848,Surface necrosis (score):,8/15/2018,ST3,0,
+1849,Antenna:Shrimp lengths (ratio):,8/22/2018,ST3,1.014819559,
+1850,Condition Factor:,8/22/2018,ST3,1.144680235,
+1851,Gut content (score):,8/22/2018,ST3,0.6,
+1852,Hepatosomatic index:,8/22/2018,ST3,0.053592241,
+1853,Surface necrosis (score):,8/22/2018,ST3,0,
+1854,Antenna:Shrimp lengths (ratio):,8/29/2018,ST3,0.76665627,
+1855,Condition Factor:,8/29/2018,ST3,1.081930012,
+1856,Gut content (score):,8/29/2018,ST3,0.6,
+1857,Hepatosomatic index:,8/29/2018,ST3,0.052033859,
+1858,Surface necrosis (score):,8/29/2018,ST3,0.2,
+1859,Antenna:Shrimp lengths (ratio):,11/6/2018,ST3,0.996484755,
+1860,Condition Factor:,11/6/2018,ST3,1.168340451,
+1861,Gut content (score):,11/6/2018,ST3,1.8,
+1862,Hepatosomatic index:,11/6/2018,ST3,0.072434157,
+1863,Surface necrosis (score):,11/6/2018,ST3,0.2,
+1864,Antenna:Shrimp lengths (ratio):,11/13/2018,ST3,0.7120134,
+1865,Condition Factor:,11/13/2018,ST3,1.079010586,
+1866,Gut content (score):,11/13/2018,ST3,1.6,
+1867,Hepatosomatic index:,11/13/2018,ST3,0.063350181,
+1868,Surface necrosis (score):,11/13/2018,ST3,0.2,
+1869,Antenna:Shrimp lengths (ratio):,11/20/2018,ST3,0.484532008,
+1870,Condition Factor:,11/20/2018,ST3,1.043227614,
+1871,Gut content (score):,11/20/2018,ST3,2,
+1872,Hepatosomatic index:,11/20/2018,ST3,0.053275432,
+1873,Surface necrosis (score):,11/20/2018,ST3,0.8,
+1874,Antenna:Shrimp lengths (ratio):,11/27/2018,ST3,0.475194407,
+1875,Condition Factor:,11/27/2018,ST3,1.152484904,
+1876,Gut content (score):,11/27/2018,ST3,3.6,
+1877,Hepatosomatic index:,11/27/2018,ST3,0.050183037,
+1878,Surface necrosis (score):,11/27/2018,ST3,0.4,
+1879,Gut content (score):,12/26/2018,ST3,1.8,
+1880,Gut content (score):,1/2/2019,ST3,3.2,
+1881,Gut content (score):,1/8/2019,ST3,1.2,
+1882,Gut content (score):,1/15/2019,ST3,0.4,
+1883,Gut content (score):,1/22/2019,ST3,0.4,
+1884,Antenna:Shrimp lengths (ratio):,1/29/2019,ST3,1.002317805,
+1885,Condition Factor:,1/29/2019,ST3,1.287901904,
+1886,Gut content (score):,1/29/2019,ST3,3,
+1887,Hepatosomatic index:,1/29/2019,ST3,0.066445909,
+1888,Surface necrosis (score):,1/29/2019,ST3,0,
+1889,Antenna:Shrimp lengths (ratio):,2/5/2019,ST3,1.105657744,
+1890,Condition Factor:,2/5/2019,ST3,1.099571582,
+1891,Gut content (score):,2/5/2019,ST3,0.6,
+1892,Hepatosomatic index:,2/5/2019,ST3,0.060068596,
+1893,Surface necrosis (score):,2/5/2019,ST3,0.2,
+1894,Antenna:Shrimp lengths (ratio):,2/12/2019,ST3,0.814075015,
+1895,Condition Factor:,2/12/2019,ST3,1.16923913,
+1896,Gut content (score):,2/12/2019,ST3,0.4,
+1897,Hepatosomatic index:,2/12/2019,ST3,0.05623719,
+1898,Surface necrosis (score):,2/12/2019,ST3,0.2,
+1899,Antenna:Shrimp lengths (ratio):,2/19/2019,ST3,0.712026326,
+1900,Condition Factor:,2/19/2019,ST3,1.065563809,
+1901,Gut content (score):,2/19/2019,ST3,1.6,
+1902,Hepatosomatic index:,2/19/2019,ST3,0.055284075,
+1903,Surface necrosis (score):,2/19/2019,ST3,0.2,
+1904,Gut content (score):,3/12/2019,ST3,0,
+1905,Gut content (score):,3/19/2019,ST3,1,
+1906,Gut content (score):,3/26/2019,ST3,0.6,
+1907,Antenna:Shrimp lengths (ratio):,5/7/2019,ST3,0.364700987,
+1908,Condition Factor:,5/7/2019,ST3,0.879293343,
+1909,Gut content (score):,5/7/2019,ST3,1.8,
+1910,Hepatosomatic index:,5/7/2019,ST3,0.049502492,
+1911,Surface necrosis (score):,5/7/2019,ST3,0.4,
+1912,Weight (g),5/7/2019,ST3,10.684,
+1913,Antenna:Shrimp lengths (ratio):,5/14/2019,ST3,0.25692065,
+1914,Condition Factor:,5/14/2019,ST3,0.901466102,
+1915,Gut content (score):,5/14/2019,ST3,2,
+1916,Hepatosomatic index:,5/14/2019,ST3,0.046864621,
+1917,Surface necrosis (score):,5/14/2019,ST3,0.4,
+1918,Weight (g),5/14/2019,ST3,10.878,
+1919,Gut content (score):,9/3/2019,ST3,3.2,
+1920,Surface necrosis (score):,9/3/2019,ST3,0,
+1921,Antenna:Shrimp lengths (ratio):,10/1/2019,ST3,0.566631819,
+1922,Condition Factor:,10/1/2019,ST3,1.0532581,
+1923,Gut content (score):,10/1/2019,ST3,1.2,
+1924,Hepatosomatic index:,10/1/2019,ST3,0.067850693,
+1925,Surface necrosis (score):,10/1/2019,ST3,1,
+1926,Weight (g),10/1/2019,ST3,2.9,
+1927,Antenna:Shrimp lengths (ratio):,1/3/2020,ST3,0.74962708,
+1928,Condition Factor:,1/3/2020,ST3,0.932028611,
+1929,Gut content (score):,1/3/2020,ST3,1,
+1930,Hepatosomatic index:,1/3/2020,ST3,0.058712214,
+1931,Surface necrosis (score):,1/3/2020,ST3,1.4,
+1932,Weight (g),1/3/2020,ST3,3.064,
+1933,Antenna:Shrimp lengths (ratio):,1/7/2020,ST3,0.84444272,
+1934,Condition Factor:,1/7/2020,ST3,0.874179021,
+1935,Gut content (score):,1/7/2020,ST3,1.6,
+1936,Hepatosomatic index:,1/7/2020,ST3,0.062428708,
+1937,Surface necrosis (score):,1/7/2020,ST3,0.4,
+1938,Weight (g),1/7/2020,ST3,5.286,
+1939,Antenna:Shrimp lengths (ratio):,1/14/2020,ST3,0.791256839,
+1940,Condition Factor:,1/14/2020,ST3,0.935376247,
+1941,Gut content (score):,1/14/2020,ST3,2.2,
+1942,Hepatosomatic index:,1/14/2020,ST3,0.061302287,
+1943,Surface necrosis (score):,1/14/2020,ST3,0.4,
+1944,Weight (g),1/14/2020,ST3,9.16,
+1945,Antenna:Shrimp lengths (ratio):,1/21/2020,ST3,0.562557929,
+1946,Condition Factor:,1/21/2020,ST3,0.884512123,
+1947,Gut content (score):,1/21/2020,ST3,0.6,
+1948,Hepatosomatic index:,1/21/2020,ST3,0.056924052,
+1949,Surface necrosis (score):,1/21/2020,ST3,0.8,
+1950,Weight (g),1/21/2020,ST3,11.434,
+1951,Antenna:Shrimp lengths (ratio):,1/28/2020,ST3,0.761551144,
+1952,Condition Factor:,1/28/2020,ST3,0.834237712,
+1953,Gut content (score):,1/28/2020,ST3,2,
+1954,Hepatosomatic index:,1/28/2020,ST3,0.051082178,
+1955,Surface necrosis (score):,1/28/2020,ST3,0.4,
+1956,Weight (g),1/28/2020,ST3,12.67,
+1957,Gut content (score):,3/31/2020,ST3,3,
+1958,Antenna:Shrimp lengths (ratio):,1/5/2018,STA,1.121753876,
+1959,Condition Factor:,1/5/2018,STA,0.972758999,
+1960,Gut content (score):,1/5/2018,STA,1.666666667,
+1961,Hepatosomatic index:,1/5/2018,STA,0.075203747,
+1962,Surface necrosis (score):,1/5/2018,STA,0.333333333,
+1963,Antenna:Shrimp lengths (ratio):,4/3/2018,STA,1.030001018,
+1964,Condition Factor:,4/3/2018,STA,1.038683054,
+1965,Gut content (score):,4/3/2018,STA,1.2,
+1966,Hepatosomatic index:,4/3/2018,STA,0.070288082,
+1967,Surface necrosis (score):,4/3/2018,STA,0,
+1968,Antenna:Shrimp lengths (ratio):,4/12/2018,STA,0.079168577,
+1969,Condition Factor:,4/12/2018,STA,1.558766393,
+1970,Gut content (score):,4/12/2018,STA,0.4,
+1971,Hepatosomatic index:,4/12/2018,STA,0.046910461,
+1972,Surface necrosis (score):,4/12/2018,STA,0,
+1973,Gut content (score):,5/24/2018,STA,3,
+1974,Surface necrosis (score):,5/24/2018,STA,0,
+1975,Gut content (score):,5/31/2018,STA,0.4,
+1976,Surface necrosis (score):,5/31/2018,STA,0,
+1977,Gut content (score):,6/7/2018,STA,0,
+1978,Antenna:Shrimp lengths (ratio):,6/14/2018,STA,0.967134056,
+1979,Condition Factor:,6/14/2018,STA,1.073485941,
+1980,Gut content (score):,6/14/2018,STA,0.2,
+1981,Hepatosomatic index:,6/14/2018,STA,0.059810507,
+1982,Surface necrosis (score):,6/14/2018,STA,0,
+1983,Antenna:Shrimp lengths (ratio):,6/21/2018,STA,0.711048748,
+1984,Condition Factor:,6/21/2018,STA,1.200558119,
+1985,Gut content (score):,6/21/2018,STA,1.2,
+1986,Hepatosomatic index:,6/21/2018,STA,0.048863462,
+1987,Surface necrosis (score):,6/21/2018,STA,0.2,
+1988,Gut content (score):,7/19/2018,STA,3.6,
+1989,Gut content (score):,8/1/2018,STA,2.8,
+1990,Antenna:Shrimp lengths (ratio):,8/8/2018,STA,1.519714245,
+1991,Condition Factor:,8/8/2018,STA,1.846208808,
+1992,Gut content (score):,8/8/2018,STA,0.6,
+1993,Hepatosomatic index:,8/8/2018,STA,0.058081188,
+1994,Surface necrosis (score):,8/8/2018,STA,0,
+1995,Antenna:Shrimp lengths (ratio):,8/15/2018,STA,1.346479733,
+1996,Condition Factor:,8/15/2018,STA,1.129646747,
+1997,Gut content (score):,8/15/2018,STA,1.6,
+1998,Hepatosomatic index:,8/15/2018,STA,0.051833139,
+1999,Surface necrosis (score):,8/15/2018,STA,0,
+2000,Antenna:Shrimp lengths (ratio):,8/22/2018,STA,0.939746937,
+2001,Condition Factor:,8/22/2018,STA,1.260603984,
+2002,Gut content (score):,8/22/2018,STA,1,
+2003,Hepatosomatic index:,8/22/2018,STA,0.063631703,
+2004,Surface necrosis (score):,8/22/2018,STA,0.2,
+2005,Antenna:Shrimp lengths (ratio):,8/29/2018,STA,0.61634175,
+2006,Condition Factor:,8/29/2018,STA,1.326675901,
+2007,Gut content (score):,8/29/2018,STA,1.8,
+2008,Hepatosomatic index:,8/29/2018,STA,0.053136895,
+2009,Surface necrosis (score):,8/29/2018,STA,0,
+2010,Antenna:Shrimp lengths (ratio):,11/6/2018,STA,0.540763514,
+2011,Condition Factor:,11/6/2018,STA,1.088693716,
+2012,Gut content (score):,11/6/2018,STA,1.4,
+2013,Hepatosomatic index:,11/6/2018,STA,0.058184037,
+2014,Surface necrosis (score):,11/6/2018,STA,0.8,
+2015,Antenna:Shrimp lengths (ratio):,11/13/2018,STA,0.448134928,
+2016,Condition Factor:,11/13/2018,STA,1.078788741,
+2017,Gut content (score):,11/13/2018,STA,2.2,
+2018,Hepatosomatic index:,11/13/2018,STA,0.052378284,
+2019,Surface necrosis (score):,11/13/2018,STA,1,
+2020,Antenna:Shrimp lengths (ratio):,11/20/2018,STA,0.601751369,
+2021,Condition Factor:,11/20/2018,STA,1.092911721,
+2022,Gut content (score):,11/20/2018,STA,1,
+2023,Hepatosomatic index:,11/20/2018,STA,0.051124363,
+2024,Surface necrosis (score):,11/20/2018,STA,0.8,
+2025,Antenna:Shrimp lengths (ratio):,11/27/2018,STA,0.437543608,
+2026,Condition Factor:,11/27/2018,STA,1.124410572,
+2027,Gut content (score):,11/27/2018,STA,1,
+2028,Hepatosomatic index:,11/27/2018,STA,0.053273169,
+2029,Surface necrosis (score):,11/27/2018,STA,0.4,
+2030,Gut content (score):,12/26/2018,STA,2.6,
+2031,Gut content (score):,1/2/2019,STA,2.4,
+2032,Gut content (score):,1/8/2019,STA,1.6,
+2033,Gut content (score):,1/15/2019,STA,0.8,
+2034,Gut content (score):,1/22/2019,STA,0,
+2035,Antenna:Shrimp lengths (ratio):,1/29/2019,STA,1.403418705,
+2036,Condition Factor:,1/29/2019,STA,1.25753116,
+2037,Gut content (score):,1/29/2019,STA,1.8,
+2038,Hepatosomatic index:,1/29/2019,STA,0.054609232,
+2039,Surface necrosis (score):,1/29/2019,STA,0,
+2040,Antenna:Shrimp lengths (ratio):,2/5/2019,STA,1.419696186,
+2041,Condition Factor:,2/5/2019,STA,2.158364712,
+2042,Gut content (score):,2/5/2019,STA,2.2,
+2043,Hepatosomatic index:,2/5/2019,STA,0.052391862,
+2044,Surface necrosis (score):,2/5/2019,STA,0,
+2045,Antenna:Shrimp lengths (ratio):,2/12/2019,STA,1.027335341,
+2046,Condition Factor:,2/12/2019,STA,1.18209172,
+2047,Gut content (score):,2/12/2019,STA,0.8,
+2048,Hepatosomatic index:,2/12/2019,STA,0.049985018,
+2049,Surface necrosis (score):,2/12/2019,STA,0,
+2050,Antenna:Shrimp lengths (ratio):,2/19/2019,STA,0.723336515,
+2051,Condition Factor:,2/19/2019,STA,1.070371737,
+2052,Gut content (score):,2/19/2019,STA,2.2,
+2053,Hepatosomatic index:,2/19/2019,STA,0.054936733,
+2054,Surface necrosis (score):,2/19/2019,STA,0,
+2055,Gut content (score):,3/12/2019,STA,0.2,
+2056,Gut content (score):,3/19/2019,STA,0.4,
+2057,Gut content (score):,3/26/2019,STA,0.6,
+2058,Antenna:Shrimp lengths (ratio):,5/7/2019,STA,0.498381877,
+2059,Condition Factor:,5/7/2019,STA,0.881988244,
+2060,Gut content (score):,5/7/2019,STA,2,
+2061,Hepatosomatic index:,5/7/2019,STA,0.02291309,
+2062,Surface necrosis (score):,5/7/2019,STA,0,
+2063,Weight (g),5/7/2019,STA,10.89,
+2064,Antenna:Shrimp lengths (ratio):,5/14/2019,STA,0.423858741,
+2065,Condition Factor:,5/14/2019,STA,0.923422029,
+2066,Gut content (score):,5/14/2019,STA,2.8,
+2067,Hepatosomatic index:,5/14/2019,STA,0.048860753,
+2068,Surface necrosis (score):,5/14/2019,STA,0.6,
+2069,Weight (g),5/14/2019,STA,15.146,
+2070,Gut content (score):,9/3/2019,STA,1.4,
+2071,Surface necrosis (score):,9/3/2019,STA,0.2,
+2072,Antenna:Shrimp lengths (ratio):,10/1/2019,STA,0.659678716,
+2073,Condition Factor:,10/1/2019,STA,1.065244497,
+2074,Gut content (score):,10/1/2019,STA,1.6,
+2075,Hepatosomatic index:,10/1/2019,STA,0.058836584,
+2076,Surface necrosis (score):,10/1/2019,STA,0.6,
+2077,Weight (g),10/1/2019,STA,1.566,
+2078,Antenna:Shrimp lengths (ratio):,1/3/2020,STA,0.93385781,
+2079,Condition Factor:,1/3/2020,STA,0.957182655,
+2080,Gut content (score):,1/3/2020,STA,0.8,
+2081,Hepatosomatic index:,1/3/2020,STA,0.059310974,
+2082,Surface necrosis (score):,1/3/2020,STA,1,
+2083,Weight (g),1/3/2020,STA,4.654,
+2084,Antenna:Shrimp lengths (ratio):,1/7/2020,STA,1.066448827,
+2085,Condition Factor:,1/7/2020,STA,0.869605125,
+2086,Gut content (score):,1/7/2020,STA,1.6,
+2087,Hepatosomatic index:,1/7/2020,STA,0.065112984,
+2088,Surface necrosis (score):,1/7/2020,STA,0.6,
+2089,Weight (g),1/7/2020,STA,6.628,
+2090,Antenna:Shrimp lengths (ratio):,1/14/2020,STA,0.704118303,
+2091,Condition Factor:,1/14/2020,STA,0.924679622,
+2092,Gut content (score):,1/14/2020,STA,0.8,
+2093,Hepatosomatic index:,1/14/2020,STA,0.0599935,
+2094,Surface necrosis (score):,1/14/2020,STA,0.8,
+2095,Weight (g),1/14/2020,STA,6.886,
+2096,Antenna:Shrimp lengths (ratio):,1/21/2020,STA,0.580536351,
+2097,Condition Factor:,1/21/2020,STA,0.881915182,
+2098,Gut content (score):,1/21/2020,STA,2.2,
+2099,Hepatosomatic index:,1/21/2020,STA,0.058429499,
+2100,Surface necrosis (score):,1/21/2020,STA,0.6,
+2101,Weight (g),1/21/2020,STA,10.496,
+2102,Antenna:Shrimp lengths (ratio):,1/28/2020,STA,0.628157713,
+2103,Condition Factor:,1/28/2020,STA,0.850594142,
+2104,Gut content (score):,1/28/2020,STA,2.8,
+2105,Hepatosomatic index:,1/28/2020,STA,0.050199909,
+2106,Surface necrosis (score):,1/28/2020,STA,1,
+2107,Weight (g),1/28/2020,STA,13.538,
+2108,Gut content (score):,3/31/2020,STA,0,
+2109,Antenna:Shrimp lengths (ratio):,4/3/2018,STB,1.406446954,
+2110,Condition Factor:,4/3/2018,STB,1.09361693,
+2111,Gut content (score):,4/3/2018,STB,1.4,
+2112,Hepatosomatic index:,4/3/2018,STB,0.049418376,
+2113,Surface necrosis (score):,4/3/2018,STB,0,
+2114,Antenna:Shrimp lengths (ratio):,4/12/2018,STB,0.526699208,
+2115,Condition Factor:,4/12/2018,STB,1.256954975,
+2116,Gut content (score):,4/12/2018,STB,0.4,
+2117,Hepatosomatic index:,4/12/2018,STB,0.047892787,
+2118,Surface necrosis (score):,4/12/2018,STB,0,
+2119,Gut content (score):,5/31/2018,STB,0.4,
+2120,Surface necrosis (score):,5/31/2018,STB,0,
+2121,Gut content (score):,6/7/2018,STB,3.2,
+2122,Gut content (score):,6/14/2018,STB,0.8,
+2123,Antenna:Shrimp lengths (ratio):,6/22/2018,STB,0.863126473,
+2124,Condition Factor:,6/22/2018,STB,1.182999243,
+2125,Gut content (score):,6/22/2018,STB,1.2,
+2126,Hepatosomatic index:,6/22/2018,STB,0.047305854,
+2127,Surface necrosis (score):,6/22/2018,STB,0.2,
+2128,Gut content (score):,7/19/2018,STB,3.8,
+2129,Gut content (score):,8/1/2018,STB,1,
+2130,Antenna:Shrimp lengths (ratio):,8/8/2018,STB,1.621852448,
+2131,Condition Factor:,8/8/2018,STB,1.594251623,
+2132,Gut content (score):,8/8/2018,STB,3,
+2133,Hepatosomatic index:,8/8/2018,STB,0.04649393,
+2134,Surface necrosis (score):,8/8/2018,STB,0,
+2135,Antenna:Shrimp lengths (ratio):,8/15/2018,STB,1.208044879,
+2136,Condition Factor:,8/15/2018,STB,1.01921354,
+2137,Gut content (score):,8/15/2018,STB,1.4,
+2138,Hepatosomatic index:,8/15/2018,STB,0.046515735,
+2139,Surface necrosis (score):,8/15/2018,STB,0,
+2140,Antenna:Shrimp lengths (ratio):,8/22/2018,STB,0.92712606,
+2141,Condition Factor:,8/22/2018,STB,1.296686394,
+2142,Gut content (score):,8/22/2018,STB,0.8,
+2143,Hepatosomatic index:,8/22/2018,STB,0.05577889,
+2144,Surface necrosis (score):,8/22/2018,STB,0,
+2145,Antenna:Shrimp lengths (ratio):,8/29/2018,STB,0.975573459,
+2146,Condition Factor:,8/29/2018,STB,1.405193124,
+2147,Gut content (score):,8/29/2018,STB,2,
+2148,Hepatosomatic index:,8/29/2018,STB,0.052613905,
+2149,Surface necrosis (score):,8/29/2018,STB,0,
+2150,Antenna:Shrimp lengths (ratio):,11/6/2018,STB,0.862713675,
+2151,Condition Factor:,11/6/2018,STB,1.128732984,
+2152,Gut content (score):,11/6/2018,STB,1.2,
+2153,Hepatosomatic index:,11/6/2018,STB,0.063192901,
+2154,Surface necrosis (score):,11/6/2018,STB,0.2,
+2155,Antenna:Shrimp lengths (ratio):,11/13/2018,STB,0.570229021,
+2156,Condition Factor:,11/13/2018,STB,1.030774811,
+2157,Gut content (score):,11/13/2018,STB,1,
+2158,Hepatosomatic index:,11/13/2018,STB,0.064421694,
+2159,Surface necrosis (score):,11/13/2018,STB,0.2,
+2160,Antenna:Shrimp lengths (ratio):,11/20/2018,STB,0.36276062,
+2161,Condition Factor:,11/20/2018,STB,1.070531746,
+2162,Gut content (score):,11/20/2018,STB,0.4,
+2163,Hepatosomatic index:,11/20/2018,STB,0.054494825,
+2164,Surface necrosis (score):,11/20/2018,STB,1,
+2165,Antenna:Shrimp lengths (ratio):,11/27/2018,STB,0.503164689,
+2166,Condition Factor:,11/27/2018,STB,1.174219468,
+2167,Gut content (score):,11/27/2018,STB,0.8,
+2168,Hepatosomatic index:,11/27/2018,STB,0.047911635,
+2169,Surface necrosis (score):,11/27/2018,STB,0.2,
+2170,Gut content (score):,12/26/2018,STB,1.8,
+2171,Gut content (score):,1/2/2019,STB,1,
+2172,Gut content (score):,1/8/2019,STB,2,
+2173,Gut content (score):,1/15/2019,STB,2,
+2174,Gut content (score):,1/22/2019,STB,0.2,
+2175,Antenna:Shrimp lengths (ratio):,1/29/2019,STB,1.023453768,
+2176,Condition Factor:,1/29/2019,STB,1.197939088,
+2177,Gut content (score):,1/29/2019,STB,2,
+2178,Hepatosomatic index:,1/29/2019,STB,0.065264251,
+2179,Surface necrosis (score):,1/29/2019,STB,0,
+2180,Antenna:Shrimp lengths (ratio):,2/5/2019,STB,1.165518101,
+2181,Condition Factor:,2/5/2019,STB,1.0636849,
+2182,Gut content (score):,2/5/2019,STB,1.2,
+2183,Hepatosomatic index:,2/5/2019,STB,0.063686582,
+2184,Surface necrosis (score):,2/5/2019,STB,0,
+2185,Antenna:Shrimp lengths (ratio):,2/12/2019,STB,0.87856352,
+2186,Condition Factor:,2/12/2019,STB,1.175601392,
+2187,Gut content (score):,2/12/2019,STB,0,
+2188,Hepatosomatic index:,2/12/2019,STB,0.055856912,
+2189,Surface necrosis (score):,2/12/2019,STB,0,
+2190,Antenna:Shrimp lengths (ratio):,2/19/2019,STB,0.370826839,
+2191,Condition Factor:,2/19/2019,STB,0.977121096,
+2192,Gut content (score):,2/19/2019,STB,0.2,
+2193,Hepatosomatic index:,2/19/2019,STB,0.040376975,
+2194,Surface necrosis (score):,2/19/2019,STB,0.2,
+2195,Gut content (score):,3/12/2019,STB,1.2,
+2196,Gut content (score):,3/19/2019,STB,0.8,
+2197,Gut content (score):,3/26/2019,STB,1.6,
+2198,Antenna:Shrimp lengths (ratio):,5/14/2019,STB,0.225590907,
+2199,Condition Factor:,5/14/2019,STB,0.906424298,
+2200,Gut content (score):,5/14/2019,STB,0.8,
+2201,Hepatosomatic index:,5/14/2019,STB,0.046747936,
+2202,Surface necrosis (score):,5/14/2019,STB,0.8,
+2203,Weight (g),5/14/2019,STB,12.634,
+2204,Gut content (score):,9/3/2019,STB,1.2,
+2205,Surface necrosis (score):,9/3/2019,STB,0,
+2206,Antenna:Shrimp lengths (ratio):,10/1/2019,STB,0.72235277,
+2207,Condition Factor:,10/1/2019,STB,1.142658309,
+2208,Gut content (score):,10/1/2019,STB,1.8,
+2209,Hepatosomatic index:,10/1/2019,STB,0.06634404,
+2210,Surface necrosis (score):,10/1/2019,STB,0.4,
+2211,Weight (g),10/1/2019,STB,2.272,
+2212,Antenna:Shrimp lengths (ratio):,10/8/2019,STB,0.665188175,
+2213,Condition Factor:,10/8/2019,STB,0.700395063,
+2214,Gut content (score):,10/8/2019,STB,1.2,
+2215,Hepatosomatic index:,10/8/2019,STB,0.065037187,
+2216,Surface necrosis (score):,10/8/2019,STB,0.6,
+2217,Weight (g),10/8/2019,STB,4.655,
+2218,Antenna:Shrimp lengths (ratio):,1/3/2020,STB,0.971815074,
+2219,Condition Factor:,1/3/2020,STB,0.933565979,
+2220,Gut content (score):,1/3/2020,STB,1.8,
+2221,Hepatosomatic index:,1/3/2020,STB,0.061498016,
+2222,Surface necrosis (score):,1/3/2020,STB,1,
+2223,Weight (g),1/3/2020,STB,4.152,
+2224,Antenna:Shrimp lengths (ratio):,1/7/2020,STB,0.836306965,
+2225,Condition Factor:,1/7/2020,STB,0.847925013,
+2226,Gut content (score):,1/7/2020,STB,0.8,
+2227,Hepatosomatic index:,1/7/2020,STB,0.049799763,
+2228,Surface necrosis (score):,1/7/2020,STB,0.6,
+2229,Weight (g),1/7/2020,STB,4.656,
+2230,Antenna:Shrimp lengths (ratio):,1/14/2020,STB,0.73051039,
+2231,Condition Factor:,1/14/2020,STB,0.893553636,
+2232,Gut content (score):,1/14/2020,STB,1.4,
+2233,Hepatosomatic index:,1/14/2020,STB,0.049649327,
+2234,Surface necrosis (score):,1/14/2020,STB,0.8,
+2235,Weight (g),1/14/2020,STB,4.888,
+2236,Antenna:Shrimp lengths (ratio):,1/21/2020,STB,0.608917864,
+2237,Condition Factor:,1/21/2020,STB,0.877843951,
+2238,Gut content (score):,1/21/2020,STB,1.2,
+2239,Hepatosomatic index:,1/21/2020,STB,0.048174447,
+2240,Surface necrosis (score):,1/21/2020,STB,0.8,
+2241,Weight (g),1/21/2020,STB,7.746,
+2242,Antenna:Shrimp lengths (ratio):,1/28/2020,STB,0.594937139,
+2243,Condition Factor:,1/28/2020,STB,0.877520086,
+2244,Gut content (score):,1/28/2020,STB,2.4,
+2245,Hepatosomatic index:,1/28/2020,STB,0.046888343,
+2246,Surface necrosis (score):,1/28/2020,STB,0.8,
+2247,Weight (g),1/28/2020,STB,10.842,
+2248,Gut content (score):,3/31/2020,STB,2.4,
+2249,Antenna:Shrimp lengths (ratio):,1/11/2018,STC,1.217758784,
+2250,Condition Factor:,1/11/2018,STC,1.017978831,
+2251,Gut content (score):,1/11/2018,STC,1.666666667,
+2252,Hepatosomatic index:,1/11/2018,STC,0.053759308,
+2253,Surface necrosis (score):,1/11/2018,STC,0,
+2254,Condition Factor:,1/18/2018,STC,1.623276378,
+2255,Gut content (score):,1/18/2018,STC,0.8,
+2256,Hepatosomatic index:,1/18/2018,STC,0.038599572,
+2257,Surface necrosis (score):,1/18/2018,STC,0,
+2258,Weight (g),1/18/2018,STC,4.132,
+2259,Condition Factor:,1/25/2018,STC,1.08488366,
+2260,Gut content (score):,1/25/2018,STC,0.4,
+2261,Hepatosomatic index:,1/25/2018,STC,0.075611276,
+2262,Surface necrosis (score):,1/25/2018,STC,0,
+2263,Weight (g),1/25/2018,STC,2.892,
+2264,Antenna:Shrimp lengths (ratio):,2/1/2018,STC,0,
+2265,Condition Factor:,2/1/2018,STC,1.108618197,
+2266,Gut content (score):,2/1/2018,STC,0.4,
+2267,Hepatosomatic index:,2/1/2018,STC,0.051165151,
+2268,Surface necrosis (score):,2/1/2018,STC,0,
+2269,Antenna:Shrimp lengths (ratio):,2/7/2018,STC,0,
+2270,Condition Factor:,2/7/2018,STC,1.038287812,
+2271,Gut content (score):,2/7/2018,STC,0.4,
+2272,Hepatosomatic index:,2/7/2018,STC,0.052277985,
+2273,Surface necrosis (score):,2/7/2018,STC,0.6,
+2274,Antenna:Shrimp lengths (ratio):,2/15/2018,STC,0.363045127,
+2275,Condition Factor:,2/15/2018,STC,1.249834925,
+2276,Gut content (score):,2/15/2018,STC,0.2,
+2277,Hepatosomatic index:,2/15/2018,STC,0.049671957,
+2278,Surface necrosis (score):,2/15/2018,STC,0,
+2279,Antenna:Shrimp lengths (ratio):,4/4/2018,STC,0.493045161,
+2280,Condition Factor:,4/4/2018,STC,1.17056464,
+2281,Gut content (score):,4/4/2018,STC,0.8,
+2282,Hepatosomatic index:,4/4/2018,STC,0.042079016,
+2283,Surface necrosis (score):,4/4/2018,STC,0,
+2284,Antenna:Shrimp lengths (ratio):,5/3/2018,STC,1.247910108,
+2285,Condition Factor:,5/3/2018,STC,1.414401473,
+2286,Gut content (score):,5/3/2018,STC,0,
+2287,Hepatosomatic index:,5/3/2018,STC,0.060160056,
+2288,Surface necrosis (score):,5/3/2018,STC,0,
+2289,Antenna:Shrimp lengths (ratio):,5/10/2018,STC,0.592770346,
+2290,Condition Factor:,5/10/2018,STC,1.245641179,
+2291,Gut content (score):,5/10/2018,STC,1,
+2292,Hepatosomatic index:,5/10/2018,STC,0.05462151,
+2293,Surface necrosis (score):,5/10/2018,STC,0,
+2294,Antenna:Shrimp lengths (ratio):,5/17/2018,STC,0.492705578,
+2295,Condition Factor:,5/17/2018,STC,1.050495775,
+2296,Gut content (score):,5/17/2018,STC,0.6,
+2297,Hepatosomatic index:,5/17/2018,STC,0.050210008,
+2298,Surface necrosis (score):,5/17/2018,STC,0,
+2299,Antenna:Shrimp lengths (ratio):,5/24/2018,STC,0.466307454,
+2300,Condition Factor:,5/24/2018,STC,1.065513867,
+2301,Gut content (score):,5/24/2018,STC,1.2,
+2302,Hepatosomatic index:,5/24/2018,STC,0.04048173,
+2303,Surface necrosis (score):,5/24/2018,STC,0.4,
+2304,Antenna:Shrimp lengths (ratio):,5/31/2018,STC,0.398887394,
+2305,Condition Factor:,5/31/2018,STC,1.104207898,
+2306,Gut content (score):,5/31/2018,STC,0.6,
+2307,Hepatosomatic index:,5/31/2018,STC,0.039803025,
+2308,Surface necrosis (score):,5/31/2018,STC,0.4,
+2309,Antenna:Shrimp lengths (ratio):,6/7/2018,STC,0.282260894,
+2310,Condition Factor:,6/7/2018,STC,1.031449258,
+2311,Gut content (score):,6/7/2018,STC,1.6,
+2312,Hepatosomatic index:,6/7/2018,STC,0.04014948,
+2313,Surface necrosis (score):,6/7/2018,STC,0.4,
+2314,Gut content (score):,7/19/2018,STC,4,
+2315,Gut content (score):,8/1/2018,STC,0,
+2316,Antenna:Shrimp lengths (ratio):,8/8/2018,STC,1.23056616,
+2317,Condition Factor:,8/8/2018,STC,1.443488697,
+2318,Gut content (score):,8/8/2018,STC,0.4,
+2319,Hepatosomatic index:,8/8/2018,STC,0.059566344,
+2320,Surface necrosis (score):,8/8/2018,STC,0,
+2321,Antenna:Shrimp lengths (ratio):,8/15/2018,STC,1.043089535,
+2322,Condition Factor:,8/15/2018,STC,1.091380121,
+2323,Gut content (score):,8/15/2018,STC,1.2,
+2324,Hepatosomatic index:,8/15/2018,STC,0.031745551,
+2325,Surface necrosis (score):,8/15/2018,STC,0.2,
+2326,Antenna:Shrimp lengths (ratio):,8/22/2018,STC,1.130308944,
+2327,Condition Factor:,8/22/2018,STC,1.258269334,
+2328,Gut content (score):,8/22/2018,STC,2,
+2329,Hepatosomatic index:,8/22/2018,STC,0.081576496,
+2330,Surface necrosis (score):,8/22/2018,STC,0,
+2331,Antenna:Shrimp lengths (ratio):,8/29/2018,STC,0.623060452,
+2332,Condition Factor:,8/29/2018,STC,1.358806673,
+2333,Gut content (score):,8/29/2018,STC,1.4,
+2334,Hepatosomatic index:,8/29/2018,STC,0.051769357,
+2335,Surface necrosis (score):,8/29/2018,STC,0,
+2336,Antenna:Shrimp lengths (ratio):,11/6/2018,STC,1.043156616,
+2337,Condition Factor:,11/6/2018,STC,1.143208132,
+2338,Gut content (score):,11/6/2018,STC,0.4,
+2339,Hepatosomatic index:,11/6/2018,STC,0.060754262,
+2340,Surface necrosis (score):,11/6/2018,STC,0,
+2341,Antenna:Shrimp lengths (ratio):,11/13/2018,STC,0.725962896,
+2342,Condition Factor:,11/13/2018,STC,1.058777254,
+2343,Gut content (score):,11/13/2018,STC,0.8,
+2344,Hepatosomatic index:,11/13/2018,STC,0.056870934,
+2345,Surface necrosis (score):,11/13/2018,STC,0,
+2346,Antenna:Shrimp lengths (ratio):,11/20/2018,STC,0.411218767,
+2347,Condition Factor:,11/20/2018,STC,1.109808607,
+2348,Gut content (score):,11/20/2018,STC,0.2,
+2349,Hepatosomatic index:,11/20/2018,STC,0.050054736,
+2350,Surface necrosis (score):,11/20/2018,STC,0.2,
+2351,Antenna:Shrimp lengths (ratio):,11/27/2018,STC,0.592546389,
+2352,Condition Factor:,11/27/2018,STC,1.174127872,
+2353,Gut content (score):,11/27/2018,STC,0.8,
+2354,Hepatosomatic index:,11/27/2018,STC,0.050042423,
+2355,Surface necrosis (score):,11/27/2018,STC,0.2,
+2356,Gut content (score):,12/26/2018,STC,3.2,
+2357,Gut content (score):,1/2/2019,STC,1.8,
+2358,Gut content (score):,1/8/2019,STC,2.2,
+2359,Gut content (score):,1/15/2019,STC,1.8,
+2360,Gut content (score):,1/22/2019,STC,0.4,
+2361,Antenna:Shrimp lengths (ratio):,1/29/2019,STC,1.473454091,
+2362,Condition Factor:,1/29/2019,STC,1.228748816,
+2363,Gut content (score):,1/29/2019,STC,2.4,
+2364,Hepatosomatic index:,1/29/2019,STC,0.060202569,
+2365,Surface necrosis (score):,1/29/2019,STC,0.2,
+2366,Antenna:Shrimp lengths (ratio):,2/5/2019,STC,0.888182957,
+2367,Condition Factor:,2/5/2019,STC,1.046281938,
+2368,Gut content (score):,2/5/2019,STC,1.4,
+2369,Hepatosomatic index:,2/5/2019,STC,0.061348776,
+2370,Surface necrosis (score):,2/5/2019,STC,0,
+2371,Antenna:Shrimp lengths (ratio):,2/12/2019,STC,0.91274531,
+2372,Condition Factor:,2/12/2019,STC,1.156451539,
+2373,Gut content (score):,2/12/2019,STC,2.4,
+2374,Hepatosomatic index:,2/12/2019,STC,0.051092112,
+2375,Surface necrosis (score):,2/12/2019,STC,0.2,
+2376,Antenna:Shrimp lengths (ratio):,2/19/2019,STC,0.578898711,
+2377,Condition Factor:,2/19/2019,STC,1.029964944,
+2378,Gut content (score):,2/19/2019,STC,0.2,
+2379,Hepatosomatic index:,2/19/2019,STC,0.053427007,
+2380,Surface necrosis (score):,2/19/2019,STC,0,
+2381,Gut content (score):,3/12/2019,STC,1.8,
+2382,Gut content (score):,3/19/2019,STC,1.2,
+2383,Gut content (score):,3/26/2019,STC,1,
+2384,Gut content (score):,9/3/2019,STC,3.2,
+2385,Surface necrosis (score):,9/3/2019,STC,0.2,
+2386,Antenna:Shrimp lengths (ratio):,10/1/2019,STC,0.8736223,
+2387,Condition Factor:,10/1/2019,STC,1.026591739,
+2388,Gut content (score):,10/1/2019,STC,2.8,
+2389,Hepatosomatic index:,10/1/2019,STC,0.066927128,
+2390,Surface necrosis (score):,10/1/2019,STC,0.2,
+2391,Weight (g),10/1/2019,STC,2.234,
+2392,Antenna:Shrimp lengths (ratio):,10/8/2019,STC,1.154235125,
+2393,Condition Factor:,10/8/2019,STC,0.881949011,
+2394,Gut content (score):,10/8/2019,STC,0.6,
+2395,Hepatosomatic index:,10/8/2019,STC,0.066409271,
+2396,Surface necrosis (score):,10/8/2019,STC,0.2,
+2397,Weight (g),10/8/2019,STC,3.672,
+2398,Antenna:Shrimp lengths (ratio):,10/15/2019,STC,0.893919041,
+2399,Condition Factor:,10/15/2019,STC,0.876814071,
+2400,Gut content (score):,10/15/2019,STC,2,
+2401,Hepatosomatic index:,10/15/2019,STC,0.056809796,
+2402,Surface necrosis (score):,10/15/2019,STC,0.8,
+2403,Weight (g),10/15/2019,STC,5.444,
+2404,Antenna:Shrimp lengths (ratio):,1/3/2020,STC,0.667583807,
+2405,Condition Factor:,1/3/2020,STC,0.868437062,
+2406,Gut content (score):,1/3/2020,STC,1.4,
+2407,Hepatosomatic index:,1/3/2020,STC,0.057104282,
+2408,Surface necrosis (score):,1/3/2020,STC,1.2,
+2409,Weight (g),1/3/2020,STC,3.354,
+2410,Antenna:Shrimp lengths (ratio):,1/7/2020,STC,0.760099039,
+2411,Condition Factor:,1/7/2020,STC,0.889567943,
+2412,Gut content (score):,1/7/2020,STC,2.4,
+2413,Hepatosomatic index:,1/7/2020,STC,0.060261447,
+2414,Surface necrosis (score):,1/7/2020,STC,1.2,
+2415,Weight (g),1/7/2020,STC,7.082,
+2416,Antenna:Shrimp lengths (ratio):,1/14/2020,STC,0.867875844,
+2417,Condition Factor:,1/14/2020,STC,0.869358773,
+2418,Gut content (score):,1/14/2020,STC,2.4,
+2419,Hepatosomatic index:,1/14/2020,STC,0.057686067,
+2420,Surface necrosis (score):,1/14/2020,STC,0.8,
+2421,Weight (g),1/14/2020,STC,6.188,
+2422,Antenna:Shrimp lengths (ratio):,1/21/2020,STC,0.481372609,
+2423,Condition Factor:,1/21/2020,STC,0.918825144,
+2424,Gut content (score):,1/21/2020,STC,1.4,
+2425,Hepatosomatic index:,1/21/2020,STC,0.043980843,
+2426,Surface necrosis (score):,1/21/2020,STC,1.2,
+2427,Weight (g),1/21/2020,STC,11.814,
+2428,Antenna:Shrimp lengths (ratio):,1/28/2020,STC,0.69512572,
+2429,Condition Factor:,1/28/2020,STC,0.927880106,
+2430,Gut content (score):,1/28/2020,STC,2.2,
+2431,Hepatosomatic index:,1/28/2020,STC,0.04846905,
+2432,Surface necrosis (score):,1/28/2020,STC,0.4,
+2433,Weight (g),1/28/2020,STC,12.746,
+2434,Gut content (score):,3/31/2020,STC,2,
+2435,Antenna:Shrimp lengths (ratio):,1/11/2018,UTB,1.66374183,
+2436,Condition Factor:,1/11/2018,UTB,1.03939602,
+2437,Gut content (score):,1/11/2018,UTB,0.333333333,
+2438,Hepatosomatic index:,1/11/2018,UTB,0.052719662,
+2439,Surface necrosis (score):,1/11/2018,UTB,0,
+2440,Condition Factor:,1/18/2018,UTB,1.020880937,
+2441,Gut content (score):,1/18/2018,UTB,0.8,
+2442,Hepatosomatic index:,1/18/2018,UTB,0.048100978,
+2443,Surface necrosis (score):,1/18/2018,UTB,0,
+2444,Weight (g),1/18/2018,UTB,3.424,
+2445,Condition Factor:,1/25/2018,UTB,1.120379001,
+2446,Gut content (score):,1/25/2018,UTB,0,
+2447,Hepatosomatic index:,1/25/2018,UTB,0.047042523,
+2448,Surface necrosis (score):,1/25/2018,UTB,0.4,
+2449,Weight (g),1/25/2018,UTB,3.156,
+2450,Antenna:Shrimp lengths (ratio):,2/1/2018,UTB,0,
+2451,Condition Factor:,2/1/2018,UTB,1.100435728,
+2452,Gut content (score):,2/1/2018,UTB,0,
+2453,Hepatosomatic index:,2/1/2018,UTB,0.04720331,
+2454,Surface necrosis (score):,2/1/2018,UTB,0,
+2455,Antenna:Shrimp lengths (ratio):,2/7/2018,UTB,0,
+2456,Condition Factor:,2/7/2018,UTB,0.999470563,
+2457,Gut content (score):,2/7/2018,UTB,0,
+2458,Hepatosomatic index:,2/7/2018,UTB,0.045282575,
+2459,Surface necrosis (score):,2/7/2018,UTB,0,
+2460,Antenna:Shrimp lengths (ratio):,2/15/2018,UTB,0.414943083,
+2461,Condition Factor:,2/15/2018,UTB,1.094644602,
+2462,Gut content (score):,2/15/2018,UTB,0,
+2463,Hepatosomatic index:,2/15/2018,UTB,0.045908437,
+2464,Surface necrosis (score):,2/15/2018,UTB,0,
+2465,Antenna:Shrimp lengths (ratio):,2/22/2018,UTB,0.03460644,
+2466,Condition Factor:,2/22/2018,UTB,1.166113441,
+2467,Gut content (score):,2/22/2018,UTB,0.2,
+2468,Hepatosomatic index:,2/22/2018,UTB,0.045544978,
+2469,Surface necrosis (score):,2/22/2018,UTB,0.4,
+2470,Antenna:Shrimp lengths (ratio):,3/1/2018,UTB,0.339006561,
+2471,Condition Factor:,3/1/2018,UTB,1.145763171,
+2472,Gut content (score):,3/1/2018,UTB,2.4,
+2473,Hepatosomatic index:,3/1/2018,UTB,0.040355831,
+2474,Surface necrosis (score):,3/1/2018,UTB,0,
+2475,Antenna:Shrimp lengths (ratio):,4/4/2018,UTB,0.252842552,
+2476,Condition Factor:,4/4/2018,UTB,1.217500226,
+2477,Gut content (score):,4/4/2018,UTB,1.2,
+2478,Hepatosomatic index:,4/4/2018,UTB,0.040766947,
+2479,Surface necrosis (score):,4/4/2018,UTB,0.2,
+2480,Antenna:Shrimp lengths (ratio):,4/12/2018,UTB,0.025159254,
+2481,Condition Factor:,4/12/2018,UTB,1.323191727,
+2482,Gut content (score):,4/12/2018,UTB,0.6,
+2483,Hepatosomatic index:,4/12/2018,UTB,0.034845706,
+2484,Surface necrosis (score):,4/12/2018,UTB,0.6,
+2485,Antenna:Shrimp lengths (ratio):,4/19/2018,UTB,0.253790085,
+2486,Condition Factor:,4/19/2018,UTB,1.222248531,
+2487,Gut content (score):,4/19/2018,UTB,1.4,
+2488,Hepatosomatic index:,4/19/2018,UTB,0.033132851,
+2489,Surface necrosis (score):,4/19/2018,UTB,0.8,
+2490,Antenna:Shrimp lengths (ratio):,4/25/2018,UTB,0.194856161,
+2491,Condition Factor:,4/25/2018,UTB,1.149954028,
+2492,Gut content (score):,4/25/2018,UTB,1.4,
+2493,Hepatosomatic index:,4/25/2018,UTB,0.036775168,
+2494,Surface necrosis (score):,4/25/2018,UTB,0.4,
+2495,Gut content (score):,5/31/2018,UTB,3.6,
+2496,Surface necrosis (score):,5/31/2018,UTB,0,
+2497,Gut content (score):,6/7/2018,UTB,3,
+2498,Gut content (score):,6/14/2018,UTB,1.2,
+2499,Antenna:Shrimp lengths (ratio):,6/20/2018,UTB,1.506037281,
+2500,Condition Factor:,6/20/2018,UTB,1.132410442,
+2501,Gut content (score):,6/20/2018,UTB,1.2,
+2502,Hepatosomatic index:,6/20/2018,UTB,0.063711474,
+2503,Surface necrosis (score):,6/20/2018,UTB,0,
+2504,Antenna:Shrimp lengths (ratio):,7/19/2018,UTB,0.976875519,
+2505,Condition Factor:,7/19/2018,UTB,1.087134759,
+2506,Gut content (score):,7/19/2018,UTB,1.2,
+2507,Hepatosomatic index:,7/19/2018,UTB,0.047924588,
+2508,Surface necrosis (score):,7/19/2018,UTB,0,
+2509,Antenna:Shrimp lengths (ratio):,7/27/2018,UTB,0.908548979,
+2510,Condition Factor:,7/27/2018,UTB,1.253351531,
+2511,Gut content (score):,7/27/2018,UTB,0.2,
+2512,Hepatosomatic index:,7/27/2018,UTB,0.04848316,
+2513,Surface necrosis (score):,7/27/2018,UTB,0.2,
+2514,Antenna:Shrimp lengths (ratio):,8/2/2018,UTB,0.501094072,
+2515,Condition Factor:,8/2/2018,UTB,1.084230026,
+2516,Gut content (score):,8/2/2018,UTB,0.2,
+2517,Hepatosomatic index:,8/2/2018,UTB,0.050259825,
+2518,Surface necrosis (score):,8/2/2018,UTB,0.4,
+2519,Antenna:Shrimp lengths (ratio):,8/9/2018,UTB,0.359972986,
+2520,Condition Factor:,8/9/2018,UTB,1.295698278,
+2521,Gut content (score):,8/9/2018,UTB,0.8,
+2522,Hepatosomatic index:,8/9/2018,UTB,0.044393495,
+2523,Surface necrosis (score):,8/9/2018,UTB,1.2,
+2524,Antenna:Shrimp lengths (ratio):,8/16/2018,UTB,0.282181349,
+2525,Condition Factor:,8/16/2018,UTB,0.998160587,
+2526,Gut content (score):,8/16/2018,UTB,0,
+2527,Hepatosomatic index:,8/16/2018,UTB,0.03546415,
+2528,Surface necrosis (score):,8/16/2018,UTB,1.6,
+2529,Antenna:Shrimp lengths (ratio):,8/23/2018,UTB,0.501808192,
+2530,Condition Factor:,8/23/2018,UTB,1.256631693,
+2531,Gut content (score):,8/23/2018,UTB,1.2,
+2532,Hepatosomatic index:,8/23/2018,UTB,0.043172783,
+2533,Surface necrosis (score):,8/23/2018,UTB,0.6,
+2534,Antenna:Shrimp lengths (ratio):,8/30/2018,UTB,0.4225204,
+2535,Condition Factor:,8/30/2018,UTB,1.175564779,
+2536,Gut content (score):,8/30/2018,UTB,0.8,
+2537,Hepatosomatic index:,8/30/2018,UTB,0.04261099,
+2538,Surface necrosis (score):,8/30/2018,UTB,0.8,
+2539,Antenna:Shrimp lengths (ratio):,11/1/2018,UTB,0.693821354,
+2540,Condition Factor:,11/1/2018,UTB,1.115043913,
+2541,Gut content (score):,11/1/2018,UTB,2,
+2542,Hepatosomatic index:,11/1/2018,UTB,0.059132427,
+2543,Surface necrosis (score):,11/1/2018,UTB,0,
+2544,Antenna:Shrimp lengths (ratio):,11/8/2018,UTB,0.705545492,
+2545,Condition Factor:,11/8/2018,UTB,1.149320279,
+2546,Gut content (score):,11/8/2018,UTB,0.4,
+2547,Hepatosomatic index:,11/8/2018,UTB,0.061976266,
+2548,Surface necrosis (score):,11/8/2018,UTB,0,
+2549,Antenna:Shrimp lengths (ratio):,11/16/2018,UTB,0.69944689,
+2550,Condition Factor:,11/16/2018,UTB,1.031161596,
+2551,Gut content (score):,11/16/2018,UTB,3.4,
+2552,Hepatosomatic index:,11/16/2018,UTB,0.050522162,
+2553,Surface necrosis (score):,11/16/2018,UTB,0.2,
+2554,Antenna:Shrimp lengths (ratio):,11/21/2018,UTB,0.456158628,
+2555,Condition Factor:,11/21/2018,UTB,1.0722517,
+2556,Gut content (score):,11/21/2018,UTB,0.4,
+2557,Hepatosomatic index:,11/21/2018,UTB,0.052196681,
+2558,Surface necrosis (score):,11/21/2018,UTB,0.2,
+2559,Antenna:Shrimp lengths (ratio):,12/6/2018,UTB,0.357222252,
+2560,Condition Factor:,12/6/2018,UTB,1.123954178,
+2561,Gut content (score):,12/6/2018,UTB,0.6,
+2562,Hepatosomatic index:,12/6/2018,UTB,0.046335384,
+2563,Surface necrosis (score):,12/6/2018,UTB,0.6,
+2564,Antenna:Shrimp lengths (ratio):,12/13/2018,UTB,0.269602798,
+2565,Condition Factor:,12/13/2018,UTB,1.09937964,
+2566,Gut content (score):,12/13/2018,UTB,0.6,
+2567,Hepatosomatic index:,12/13/2018,UTB,0.0416356,
+2568,Surface necrosis (score):,12/13/2018,UTB,0.6,
+2569,Antenna:Shrimp lengths (ratio):,12/20/2018,UTB,0.221884694,
+2570,Condition Factor:,12/20/2018,UTB,1.043113829,
+2571,Gut content (score):,12/20/2018,UTB,2.2,
+2572,Hepatosomatic index:,12/20/2018,UTB,0.045108618,
+2573,Surface necrosis (score):,12/20/2018,UTB,1.2,
+2574,Antenna:Shrimp lengths (ratio):,1/3/2019,UTB,0.190159248,
+2575,Condition Factor:,1/3/2019,UTB,1.115104361,
+2576,Gut content (score):,1/3/2019,UTB,2.4,
+2577,Hepatosomatic index:,1/3/2019,UTB,0.0326578,
+2578,Surface necrosis (score):,1/3/2019,UTB,0.4,
+2579,Antenna:Shrimp lengths (ratio):,1/9/2019,UTB,0.262645649,
+2580,Condition Factor:,1/9/2019,UTB,1.175563629,
+2581,Gut content (score):,1/9/2019,UTB,2.4,
+2582,Hepatosomatic index:,1/9/2019,UTB,0.039691102,
+2583,Surface necrosis (score):,1/9/2019,UTB,0.8,
+2584,Antenna:Shrimp lengths (ratio):,1/17/2019,UTB,0.207358208,
+2585,Condition Factor:,1/17/2019,UTB,1.106355087,
+2586,Gut content (score):,1/17/2019,UTB,3.6,
+2587,Hepatosomatic index:,1/17/2019,UTB,0.037039668,
+2588,Surface necrosis (score):,1/17/2019,UTB,1,
+2589,Gut content (score):,2/21/2019,UTB,3.4,
+2590,Gut content (score):,2/28/2019,UTB,0.8,
+2591,Gut content (score):,3/7/2019,UTB,1.4,
+2592,Surface necrosis (score):,3/7/2019,UTB,0,
+2593,Gut content (score):,3/13/2019,UTB,0,
+2594,Gut content (score):,3/19/2019,UTB,1.4,
+2595,Antenna:Shrimp lengths (ratio):,3/28/2019,UTB,0.683782884,
+2596,Condition Factor:,3/28/2019,UTB,0.812322341,
+2597,Gut content (score):,3/28/2019,UTB,1.6,
+2598,Hepatosomatic index:,3/28/2019,UTB,0.064259497,
+2599,Surface necrosis (score):,3/28/2019,UTB,0,
+2600,Gut content (score):,9/3/2019,UTB,3.2,
+2601,Surface necrosis (score):,9/3/2019,UTB,0,
+2602,Gut content (score):,9/10/2019,UTB,1,
+2603,Surface necrosis (score):,9/10/2019,UTB,0,
+2604,Gut content (score):,9/17/2019,UTB,0.6,
+2605,Surface necrosis (score):,9/17/2019,UTB,0.6,
+2606,Gut content (score):,9/24/2019,UTB,0,
+2607,Surface necrosis (score):,9/24/2019,UTB,0,
+2608,Antenna:Shrimp lengths (ratio):,10/1/2019,UTB,0.668430496,
+2609,Condition Factor:,10/1/2019,UTB,1.051141141,
+2610,Gut content (score):,10/1/2019,UTB,0.2,
+2611,Hepatosomatic index:,10/1/2019,UTB,0.070634976,
+2612,Surface necrosis (score):,10/1/2019,UTB,0,
+2613,Weight (g),10/1/2019,UTB,2.918,
+2614,Antenna:Shrimp lengths (ratio):,10/8/2019,UTB,0.651554753,
+2615,Condition Factor:,10/8/2019,UTB,0.855247526,
+2616,Gut content (score):,10/8/2019,UTB,1.2,
+2617,Hepatosomatic index:,10/8/2019,UTB,0.064288953,
+2618,Surface necrosis (score):,10/8/2019,UTB,0.4,
+2619,Weight (g),10/8/2019,UTB,5.476,
+2620,Gut content (score):,11/5/2019,UTB,0.8,
+2621,Surface necrosis (score):,11/5/2019,UTB,0,
+2622,Gut content (score):,11/12/2019,UTB,0,
+2623,Surface necrosis (score):,11/12/2019,UTB,0.2,
+2624,Gut content (score):,11/19/2019,UTB,2.8,
+2625,Surface necrosis (score):,11/19/2019,UTB,0,
+2626,Antenna:Shrimp lengths (ratio):,1/28/2020,UTB,1.225629042,
+2627,Condition Factor:,1/28/2020,UTB,0.8621009,
+2628,Gut content (score):,1/28/2020,UTB,2.4,
+2629,Hepatosomatic index:,1/28/2020,UTB,0.05962067,
+2630,Surface necrosis (score):,1/28/2020,UTB,0.2,
+2631,Weight (g),1/28/2020,UTB,3.828,
+2632,Antenna:Shrimp lengths (ratio):,2/11/2020,UTB,1.070902282,
+2633,Condition Factor:,2/11/2020,UTB,0.821681054,
+2634,Gut content (score):,2/11/2020,UTB,0.6,
+2635,Hepatosomatic index:,2/11/2020,UTB,0.054028264,
+2636,Surface necrosis (score):,2/11/2020,UTB,0.2,
+2637,Weight (g),2/11/2020,UTB,9.28,
+2638,Antenna:Shrimp lengths (ratio):,2/25/2020,UTB,0.809658973,
+2639,Condition Factor:,2/25/2020,UTB,0.838835892,
+2640,Gut content (score):,2/25/2020,UTB,1.2,
+2641,Hepatosomatic index:,2/25/2020,UTB,0.047292893,
+2642,Surface necrosis (score):,2/25/2020,UTB,0.2,
+2643,Weight (g),2/25/2020,UTB,15.71,
+2644,Antenna:Shrimp lengths (ratio):,3/10/2020,UTB,0.545102891,
+2645,Condition Factor:,3/10/2020,UTB,0.815864464,
+2646,Gut content (score):,3/10/2020,UTB,2,
+2647,Hepatosomatic index:,3/10/2020,UTB,0.048132487,
+2648,Surface necrosis (score):,3/10/2020,UTB,0.2,
+2649,Weight (g),3/10/2020,UTB,20.906,
+2650,Antenna:Shrimp lengths (ratio):,3/18/2020,UTB,0.829289453,
+2651,Condition Factor:,3/18/2020,UTB,0.869626479,
+2652,Gut content (score):,3/18/2020,UTB,1.2,
+2653,Hepatosomatic index:,3/18/2020,UTB,0.052559177,
+2654,Surface necrosis (score):,3/18/2020,UTB,0.4,
+2655,Weight (g),3/18/2020,UTB,23.384,
+2656,Gut content (score):,3/31/2020,UTB,1.8,
