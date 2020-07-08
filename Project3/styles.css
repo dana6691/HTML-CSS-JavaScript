@@ -1,0 +1,45 @@
+.full-width {
+   width:100%;
+   background-color: #333132;
+   padding-top:100px;
+   font-size: 50px;
+   color:rgba(255, 255, 255, 0.721);
+   font-family: fantasy;
+   
+  }
+
+.buttons{
+   width:400px;
+   height:400px;
+   box-shadow: 10px 10px 5px #aaaaaa;
+   border: none;
+   color: rgba(255, 255, 255, 0.728);
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   display:inline-block;
+   margin:10px;
+   border-radius: 30px;
+   }
+
+.button1 {
+    font-size: 30px;
+    background: url(image/mooning.png);
+   }
+.button2 {   
+     font-size: 30px;
+     background: url(image/mooning.png);
+}
+.button3 {    
+    font-size: 30px;
+    background: url(image/mooning.png);
+}
+.button4 {    
+    font-size: 30px;
+    background: url(image/mooning.png);
+}
+
+button:hover{
+    background: rgba(202, 194, 194, 0.864);
+}
