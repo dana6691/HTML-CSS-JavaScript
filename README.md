@@ -1,8 +1,8 @@
 ## Project 1
 Show and hide the image
 <p float="left">
-<img src="https://user-images.githubusercontent.com/29461344/116452322-3adfcf80-a823-11eb-83ae-b0e7e5af6650.PNG" width="400">
-<img src="https://user-images.githubusercontent.com/29461344/116452336-3ddac000-a823-11eb-9bbc-fc1133e8be1b.PNG" width="400">
+<img src="https://user-images.githubusercontent.com/29461344/116452322-3adfcf80-a823-11eb-83ae-b0e7e5af6650.PNG" width="300">
+<img src="https://user-images.githubusercontent.com/29461344/116452336-3ddac000-a823-11eb-9bbc-fc1133e8be1b.PNG" width="300">
 </p>
 ## Project 2
 ![welcome](https://user-images.githubusercontent.com/29461344/116452364-4501ce00-a823-11eb-8d7e-fcee2fb070df.PNG)
