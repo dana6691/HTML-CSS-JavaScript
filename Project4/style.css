@@ -1,0 +1,27 @@
+body {
+    text-align: center; /*align our text in center*/
+    color: teal; /*set color to teal*/
+    font-family: Tahoma; /*change font family*/
+    font-size: 66px; /*set font size to 66 pixels*/
+  }
+  
+  h1 {
+    color: teal;
+    text-align: center;
+    font-size: 66px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  table {
+    border-collapse: collapse;
+    border: 2px black solid;
+    font: 12px sans-serif;
+}
+
+td {
+    border: 1px black solid;
+    padding: 5px;
+}
